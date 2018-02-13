@@ -31559,6 +31559,11 @@ d575df6445f324804ef3153b3915d312	UST\Duplication Device.jpg
 0c35980657c805602c722db9bb9161aa	UST\Enraged Killbot.jpg
 a8d9ee7b0838e92dfdac081c7790b725	UST\Entirely Normal Armchair.jpg
 f9682a84e35a428330bcf0152cffaa0a	UST\Everythingamajig1.jpg
+cf19d21db9d99089c021a81117e5669e	UST\Everythingamajig2.jpg
+c7c94abe82e003245f221385e248376c	UST\Everythingamajig3.jpg
+a48c803ccf1179f08e65354ff5e43b28	UST\Everythingamajig4.jpg
+78d09b27c3512db626b5a2e132074733	UST\Everythingamajig5.jpg
+68a365736f9336b9b130eb361c98c1b1	UST\Everythingamajig6.jpg
 37a94f5f97c05f6c4b84c68d37f5b5f6	UST\Extremely Slow Zombie1.jpg
 50c0cb93bffb32c3eab841d1e9330251	UST\Extremely Slow Zombie2.jpg
 0295ad34c462993b7f4e2f40aa979aa1	UST\Extremely Slow Zombie3.jpg
@@ -31570,6 +31575,11 @@ f9682a84e35a428330bcf0152cffaa0a	UST\Everythingamajig1.jpg
 21fd90ef7441ce70af4db759c657afe7	UST\Five-Finger Discount.jpg
 de42d1494810af56890ad01a26df5ffe	UST\Forest.jpg
 08c80e6663cfbe7240b7fd29ca8f164e	UST\Garbage Elemental1.jpg
+1f89631f3381d4303d7250920bef3a62	UST\Garbage Elemental2.jpg
+094605901dea09593cd645a58d571a99	UST\Garbage Elemental3.jpg
+dc5c2078bc7b7346811a8ac12ff45d1b	UST\Garbage Elemental4.jpg
+2a8a13145fdb7edec8c657a68d2f37ec	UST\Garbage Elemental5.jpg
+33048ea5259022c2b518a147efd0fd9c	UST\Garbage Elemental6.jpg
 cfc95ee848a9f3bf413eca8c45a1a052	UST\Genetic Recombinator.jpg
 ccafb6f0391a1d3193144722df26b053	UST\Gift Horse.jpg
 37d47064cd72bcd4788bdbb526647e43	UST\Gimme Five.jpg
@@ -31601,6 +31611,11 @@ a77ee943623abef4acca7f2dd3524dde	UST\Humming-.jpg
 008e796e951d662fb1c3d880d1ca8a2a	UST\Hypnotic Swirly Disc.jpg
 99145648ee92b900e659574424087505	UST\Incite Insight.jpg
 da6d091757183e515b8bb451e35f2336	UST\Ineffable Blessing1.jpg
+276503b6eba90450a48abab239424785	UST\Ineffable Blessing2.jpg
+4e89c9b69861d0c3e8978f6c2541c101	UST\Ineffable Blessing3.jpg
+4458a2d456000b65f4f0d9b0c466c28c	UST\Ineffable Blessing4.jpg
+eb17aad13f8998deab6b256ef3eea171	UST\Ineffable Blessing5.jpg
+1abff88d9f015ba3ef3bff8ae0e32477	UST\Ineffable Blessing6.jpg
 95c3add50732ff90a8616dfbff978b3c	UST\Infinity Elemental.jpg
 6cf815e99d53776ee53c2b0c29871a2c	UST\Inflation Station.jpg
 57c1b115ae3678dd7d555fb608184df0	UST\Inhumaniac.jpg
@@ -31614,6 +31629,11 @@ f6c8377c8aa1d0434fe5b2e4f6f86e9c	UST\Joyride Rigger.jpg
 51fe731879a32c418d853bfacc4406af	UST\Kindly Cognician.jpg
 6a064495901629accd5200456bf7cf06	UST\Kindslaver.jpg
 cab66ef3f5dd55fafa6427ca1b99fa67	UST\Knight of the Kitchen Sink1.jpg
+01c1adfab39cfbb1722cc0e5e257696b	UST\Knight of the Kitchen Sink2.jpg
+f2f0900c7eff0e921079cf6e57ab9dd4	UST\Knight of the Kitchen Sink3.jpg
+5c332d30aea1b86a3d73e23c17a766bc	UST\Knight of the Kitchen Sink4.jpg
+2140aa78728fb45ed3d57c8096a2f16b	UST\Knight of the Kitchen Sink5.jpg
+a0c232c7394e563a7f864c1e393350ed	UST\Knight of the Kitchen Sink6.jpg
 6fc10c574a3901eb2832f39d481c870e	UST\Knight of the Widget.jpg
 1f8cec05909bd2f86a4e6b3378cebaf8	UST\Krark's Other Thumb.jpg
 03315e60b8d7e229b8cb953fc983f37f	UST\Labro Bot.jpg
@@ -31679,6 +31699,11 @@ cb9cf667128f10ab27bc8a085c1d8440	UST\Shellephant.jpg
 4bea0790d26280c43fb51a0e2d3332f7	UST\Skull Saucer.jpg
 76b06d75ea39f1ed88a7748459e186da	UST\Slaying Mantis.jpg
 35943dfd0ea61836bb392a6617170318	UST\Sly Spy1.jpg
+089f1bbc8c12a570cd4a7c559b9deb94	UST\Sly Spy2.jpg
+58b9f1a73ba9d99e1015b9eb635cef68	UST\Sly Spy3.jpg
+3c0b2c0a24140a4ce06cea88e64b71ed	UST\Sly Spy4.jpg
+3311cd793dc08672581a39ba8b07e462	UST\Sly Spy5.jpg
+beb5dbe53f4669d6876d8a8c756627dc	UST\Sly Spy6.jpg
 01270c489913508ad0f9453a146b750b	UST\Snickering Squirrel.jpg
 5a6848986f35e102e0d2cfb3ceb7a678	UST\Socketed Sprocketer.jpg
 d2cac0aa69ac1041b700ab5758e8b640	UST\Spell Suck.jpg
@@ -31724,6 +31749,11 @@ dbbe13c3e6bb413315d1caa78b244a6e	UST\Thud-for-Duds.jpg
 e28c1a7e8cf54d853db799fcf9738ced	UST\Twiddlestick Charger.jpg
 4110a647712c71c2f9bf15933fbe8f11	UST\Urza, Academy Headmaster.jpg
 7507fe44b0e7ce2d381065866ab21fca	UST\Very Cryptic Command1.jpg
+8c64556fd18a0d24f760f44d022af12b	UST\Very Cryptic Command2.jpg
+1fb493e6b2eef8438f00a99dce9da747	UST\Very Cryptic Command3.jpg
+9e63259c10a860a71868b2dd4c7e4954	UST\Very Cryptic Command4.jpg
+df05c46f2c7c24bcf89539abe758c3c7	UST\Very Cryptic Command5.jpg
+e200ab320ef43a0397acdb6d4061d021	UST\Very Cryptic Command6.jpg
 71b75b3f155ddde9f8dc85814c51671e	UST\Voracious Vacuum.jpg
 7dac4ed313eb069781616fa9f31fef03	UST\Wall of Fortune.jpg
 4f1db57c24d2238aabd6dd5273d14ab2	UST\Watermarket.jpg
