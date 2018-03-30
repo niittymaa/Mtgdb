@@ -3397,6 +3397,255 @@ f111747469979bce809b6110d038477e	9ED\Wrath of God.jpg
 897c4f67916dc592be6b1fb509ce921a	9ED\Zodiac Monkey.jpg
 a6bd4f783d7fe9d493df0833e1e948a9	9ED\Zombify.jpg
 1a5f9b3e07c32eac227ea5b7674a49b3	9ED\Zur's Weirding.jpg
+a1b5cd129a221990842412223d17d12b	A25\accumulated knowledge.jpg
+5858fb224e6ab8116f3fea2ea9ec64b8	A25\act of heroism.jpg
+eb2fe5209abf03b53b29792822758373	A25\act of treason.jpg
+11a9cf680b56ed0ae75e63f199f2b61b	A25\ainok survivalist.jpg
+cc76506af67624e13df7434fe30fb3b0	A25\akroma's vengeance.jpg
+086affc3f115cd75df829ba3f684da44	A25\akroma, angel of fury.jpg
+7fd5b7249e3f49ca6f9ab5fd1eb7d12f	A25\akroma, angel of wrath.jpg
+3a5fbc232824789c500d23ae133e0e2e	A25\ambassador oak.jpg
+f598d664b64ed4437e2172c2f886eb20	A25\ancient craving.jpg
+aab44d31aeff84d87337089776bd8ef3	A25\ancient stirrings.jpg
+7a87b4fc51b0bfd020e6e2e2ea040fe0	A25\angelic page.jpg
+cbdb69190a0211baa14d947d3772a6a8	A25\animar, soul of elements.jpg
+f526c693dc37f12320aa7ac89a79028f	A25\arbor elf.jpg
+59ba63c73ad2135b9419676aebb93a93	A25\arcane denial.jpg
+673e7fe3c5b498c8c780ec5e67fe22f8	A25\armageddon.jpg
+052cf1a80573c79a22b9d58d0b34a1dc	A25\ash barrens.jpg
+29032942e87d708545f8635c001af914	A25\assembly-worker.jpg
+4fa81626198bee0fa8286fb226966c79	A25\auramancer.jpg
+7b216e9abcbab7dad5af28a2bc79b61e	A25\azusa, lost but seeking.jpg
+90bd2c25ab76c679b1c2a96220989421	A25\balduvian horde.jpg
+f5e93c744cce5af87ddec0e419f33c2c	A25\ball lightning.jpg
+53488524c65d929bb3f13e20a2a89c76	A25\baloth null.jpg
+0c79f5805f816877c6176f07ad738ee3	A25\bident of thassa.jpg
+b197172d22b9025134c82557d94f9be8	A25\blightning.jpg
+924fbf2e717860f493042aa1cbe3b264	A25\blood moon.jpg
+73d07d59d3eaecb7200713abae0a04dd	A25\bloodhunter bat.jpg
+9f49ad76088e1903221af4d9e81782c0	A25\blue elemental blast.jpg
+3d13fc8115a3a3dc22bc9fa9ab36e871	A25\blue sun's zenith.jpg
+37ac9b0d8936f9cd4be41a9a4fb42889	A25\boros charm.jpg
+16ff8e09ea9a70ab03ea949e77725f34	A25\borrowing 100,000 arrows.jpg
+4eddb5eba7589efc2aaf0eb42e8705f9	A25\brainstorm.jpg
+4d2803751ec49b01acbf4e69141792a3	A25\brine elemental.jpg
+110850dcb60bcdca8f700d0960d1a0e8	A25\brion stoutarm.jpg
+2d97799b98156da369d54f07be82dbdb	A25\broodhatch nantuko.jpg
+4ec86ce34d0332260cfd7289da0aad5e	A25\browbeat.jpg
+13cf41a9e189f8a1a1ae40c311dc0282	A25\cascade bluffs.jpg
+05e828210ae2f05e4c124de1001c4774	A25\caustic tar.jpg
+f8258fbe750b83d94c1e6652fb5a5ca9	A25\chalice of the void.jpg
+987ddadd08f005a43af3893bd607c7cc	A25\chandra's outrage.jpg
+1638ddc920fd4ede8a07300c96970eba	A25\chartooth cougar.jpg
+858963b48184b090bd94a4f2c45a8139	A25\choking tethers.jpg
+b9cb24c95130f37bd11af6dc84b85747	A25\cinder storm.jpg
+e507828645e7508be60d789eb03c3ae1	A25\cloudblazer.jpg
+d293e852b0d45f00c588c81e79a0aeaa	A25\cloudshift.jpg
+c00cffc1f28d8f6c66e600209e8981eb	A25\coalition relic.jpg
+d126be5b7a770c39d66190126e77c35b	A25\colossal dreadmaw.jpg
+0e2a77b3785b1eca02ff168089c7be50	A25\conflux.jpg
+ae80dcf68f15a40db2baa7b506b4a947	A25\congregate.jpg
+0072711accb64fd63d44de29aedd9140	A25\coralhelm guide.jpg
+c18a30b8d35b176f97c11ae30626a66e	A25\counterspell.jpg
+98b15e5bd41b5a6e3f5ff029354cd1bf	A25\courser of kruphix.jpg
+3acaa0ac206df9db5a04ac7330b6b4bb	A25\court hussar.jpg
+5b667b3347376d59836efea95f709273	A25\crimson mage.jpg
+7b1eac13835e4e48918ea7297900f545	A25\cultivate.jpg
+e890c352e76d50739f86a752a0b7fb62	A25\curiosity.jpg
+91604998e54e1256c5dacc6ba288e4e9	A25\cursecatcher.jpg
+25e92ee563ae7fb1700161ee247a01a4	A25\darien, king of kjeldor.jpg
+71766f4758d0fabf046427fe8f2032ce	A25\dark ritual.jpg
+f900b7fca07048bf6648f3d388b58057	A25\dauntless cathar.jpg
+f0ce7afe2f84d6907e6f254f98ff5ef1	A25\deadly designs.jpg
+03e67d5b685731f30ca68751a21086f8	A25\death's-head buzzard.jpg
+4d3c2cdb920553af09962adf803b6d69	A25\decree of justice.jpg
+ced83afdbf08737f54757c7077ba63b3	A25\diabolic edict.jpg
+fc8f1948d03eec8d1a19abfc5654faba	A25\dirge of dread.jpg
+fa1bdc3802d3295bd30954c0d2c1c7d3	A25\disenchant.jpg
+280d12058db154777f2b9ff8a971ffe7	A25\disfigure.jpg
+9d4c813366af9fe483d1c6664de57a72	A25\doomsday.jpg
+627c53b9b62a9a558c5154f5104aa7b1	A25\dragon's eye savants.jpg
+237861d63c1d7484a3a18c9d207c0652	A25\dusk legion zealot.jpg
+db4909d8ea6e76e6ba26e79af149c1d8	A25\echoing courage.jpg
+8d6a1da2ef35fbf2178756405e7e328e	A25\eidolon of the great revel.jpg
+311b819fb27a5b7f242ac3cb60f4c1d1	A25\eladamri's call.jpg
+f2f57df98338b9e07526e2a5c0761a80	A25\elvish aberration.jpg
+270d1f06bc96ce6c44f9c18cf70a53a3	A25\elvish piper.jpg
+a9f817560c2de1d47e7e0b046eb32823	A25\ember weaver.jpg
+62e4423b04d5d6924740cf43afd38874	A25\ensnaring bridge.jpg
+28d7df6ee6fb24281012679c7684ff6b	A25\enthralling victor.jpg
+48288b1d142b922a1bb41d93ffed405d	A25\epic confrontation.jpg
+776d1438a0bf2460c99b6801cb4c47d5	A25\erg raiders.jpg
+58dda4fbd1cfcd07e9065794e970b6cd	A25\exclude.jpg
+e70a4ce3b2aea893afd7c7b62b279bf4	A25\fallen angel.jpg
+4e4ed90c2cff173c811cf1874dd277b4	A25\fathom seer.jpg
+d2cad4df758d381e0a98f4402b8ae450	A25\fencing ace.jpg
+9add9073bf1088daec057ecb0b2b5793	A25\fetid heath.jpg
+6ce0c9cde534d044902432ae6ec88608	A25\fiend hunter.jpg
+5c69b479a5e404be6cb0b65e1e24a48c	A25\fierce empath.jpg
+e76ac377801d2f56f1a8152c0f3cad25	A25\flash.jpg
+7555407e4e2f1db31c92cc5156ff8380	A25\flooded grove.jpg
+ea6dff278b3939f41050ef0b25921369	A25\fortune thief.jpg
+9c5f314580065b818199a257b78b6d8a	A25\freed from the real.jpg
+b69f9a172e0d774c0f3c43177988792f	A25\frenzied goblin.jpg
+ba56aea403a2cc65348cf68db13d44e0	A25\geist of the moors.jpg
+26b76f4c2585eff61fdd440143b839e6	A25\genju of the falls.jpg
+ad67f0a98c4aa953a655ba76606d647f	A25\genju of the spires.jpg
+b58a33feb87055b00361f2e3d8ae456f	A25\ghost ship.jpg
+1f735185bfe581eef84688a2a40d2cff	A25\giant growth.jpg
+3864bb10d58c834b58a137fc8d996e38	A25\gisela, blade of goldnight.jpg
+21fdf9cfab8b4a87f5756b1c4179ca9f	A25\goblin war drums.jpg
+9bb5d962b925772d3d6044db7ec82bd6	A25\gods willing.jpg
+b67ff22db8185ba7083ea1e5c9be9944	A25\grenzo, dungeon warden.jpg
+a824dcaafc9a64a5437a4fbeaaaf1769	A25\griffin protector.jpg
+54dc92549e023767e00e69cd13dfec5e	A25\hanna, ship's navigator.jpg
+7c39be9fd07be13d5df04db951f92308	A25\haunted fengraf.jpg
+7d319938a890b197072f697552304fac	A25\heavy arbalest.jpg
+5365eae6cd261be7691abd9e00bb93cb	A25\hell's caretaker.jpg
+e8af86934c2cdc3b58a1d8a2c17da641	A25\hordeling outburst.jpg
+d54d73051a824b5e285396d68637808e	A25\horror of the broken lands.jpg
+9510cc977375a3b310ac0863a4b40cc2	A25\horseshoe crab.jpg
+6e2aaf56f43d1966aa25b34de55f689d	A25\humble defector.jpg
+9a9c3f3e3e61170a9db0093d89d10767	A25\ihsan's shade.jpg
+e76a7a2b6aff85c949c9d5b7f2c5e6af	A25\imperial recruiter.jpg
+20a1e80be3ff243c68d48c7f2fb0bf29	A25\invigorate.jpg
+4f55b8b16f607ad6341633ed31877be5	A25\ire shaman.jpg
+9acdbbc3bd680f9836fd630243bf1ce3	A25\iwamori of the open fist.jpg
+753fc84ed76fc3f98c6965b8b2025a7b	A25\izzet chemister.jpg
+0da7f35d50081665097f69be07a6cdd0	A25\jace, the mind sculptor.jpg
+caa8e07355e9f6df17245204754743d5	A25\jackal pup.jpg
+dbd169a3a43a78d29a1f51ac1b944504	A25\jalira, master polymorphist.jpg
+3374b0d377895e0f83725eff891257f1	A25\karona's zealot.jpg
+40c80df7ccba373bef290da2a4a87a28	A25\kavu climber.jpg
+8107200d5929b8b1e9569dd3735a8cef	A25\kavu predator.jpg
+a4bd92123b5ef18eb7959419a480f12b	A25\kindle.jpg
+b8169ea2935ba0f22fde7e68fa8b4b46	A25\knight of the skyward eye.jpg
+d281b0d9e1b9abbdcfa02f78a8b91879	A25\kongming, sleeping dragon.jpg
+f6ec63562372b1f22410682b3e0cfc08	A25\kor firewalker.jpg
+0d2c0ea0d97bb391efcdba3e48a4a0d7	A25\krosan colossus.jpg
+11635563e66696e9359d28399271762a	A25\krosan tusker.jpg
+1f52203082d32492f35204ddf0b849ef	A25\laquatus's champion.jpg
+b9b86ec5ae3b793987e9dd96861bb8b0	A25\lightning bolt.jpg
+cd8e628980013a6bbc55345b529670a4	A25\living death.jpg
+50333c234a9f01f45a1fba4bc3dd8d37	A25\living wish.jpg
+d10163983163f29af3a514b2d49c06ae	A25\lorescale coatl.jpg
+35ee1377bc1736a686441ed0f846eec2	A25\loyal sentry.jpg
+3e68679514d537f29536e936aa4e445c	A25\lull.jpg
+77c0dd8f4aa3b18611e51b56ac1ca4a6	A25\luminarch ascension.jpg
+51519f9a2c187f2697b8dac1045335c3	A25\lunarch mantle.jpg
+f95210f0451184669dd8e6a38576870c	A25\magus of the wheel.jpg
+20e5240ad2e4ce75254b987440f031ac	A25\man-o'-war.jpg
+c057d5c6e0b3b51f27427f17d6c05f0a	A25\master of the wild hunt.jpg
+efa4ea382c95d4c4570970843d07888f	A25\merfolk looter.jpg
+220cd1542110f7662bdbf76239750005	A25\mesmeric fiend.jpg
+49da3b0fb10bcdf94b432af964a949d5	A25\mikokoro, center of the sea.jpg
+e489d2cad76784a737d084d5f0cbd7eb	A25\mishra's factory.jpg
+58c65960cf7ac46a5b0a43170adc5e09	A25\mogg flunkies.jpg
+f36f213489dd577fb3b157ffc7980387	A25\murder of crows.jpg
+611464ab5b9efc38ca03cdc80f989d63	A25\murder.jpg
+eaf23c04d25d0488acb617bfc26803b3	A25\myriad landscape.jpg
+e775fcb48b8dcdc0afbd503a74147274	A25\mystic of the hidden way.jpg
+ef2b1712135d8f15c1296460ffdda11d	A25\mystic snake.jpg
+d9d376044396be25ce8ab7ef9fa416de	A25\nettle sentinel.jpg
+a29063f382d4a278eeb1b584dfe9e65a	A25\nezumi cutthroat.jpg
+b7265f1cd8dbcbd2fe4f2fa480c2221d	A25\nicol bolas.jpg
+4f20f09bf35882a7d801e4d887ba8132	A25\nihil spellbomb.jpg
+19f924918cbfdfc4727b7483a853ba70	A25\niv-mizzet, the firemind.jpg
+8e2a0c9389cdfced0e60b5782a6d61bd	A25\noble templar.jpg
+bdde0fb129f561c1908129dc2497065c	A25\notion thief.jpg
+3abda5ba9ef266ce802ca24773bbb734	A25\nyx-fleece ram.jpg
+299e0a3a2420595c60083e51a9399bc6	A25\ordeal of heliod.jpg
+6f55267bfcf971a985ebd608f806ff79	A25\pacifism.jpg
+a4891e1f8c2ba3abd9aa48be5a3203e0	A25\pact of negation.jpg
+d2bf3e9f21f6cda1891362dd892c1279	A25\path of peace.jpg
+41917b2e9b3ca409f3d2aac9818689cb	A25\pendelhaven.jpg
+931b94504aba8247879c8b774cf4b5cf	A25\perilous myr.jpg
+de95b6c08ac5a726928a8f6eb9e8a2a0	A25\pernicious deed.jpg
+3d9497659acc87f54bd0bfdf9986bc00	A25\phantasmal bear.jpg
+6af6c233e58c15475c839ec32afe42f4	A25\phyrexian ghoul.jpg
+e413af1bd5e3e577e4da923f96b46f40	A25\phyrexian obliterator.jpg
+cd1ee76dd96d554700432343ceaded80	A25\pillage.jpg
+945ad24af4377705a4f28e1b19376e13	A25\pillory of the sleepless.jpg
+8fbc5e3ec8033f39651906bd40e6a935	A25\plague wind.jpg
+f7e3ff30798caa3a6d24d47f7fefafc7	A25\plummet.jpg
+118b50fc3214daf6ce0da9f0c41c0dc9	A25\presence of gond.jpg
+ab6cbc04ae5f609f4611a8307690d140	A25\primal clay.jpg
+d67d7c4bca286e01457491294a98de84	A25\promise of bunrei.jpg
+f5d3bc58d0b7776888fa14ae649915f8	A25\prophetic prism.jpg
+2e6f1d24811785fbc8bc5d2aae538d79	A25\prossh, skyraider of kher.jpg
+c32c6d3cfdf7e43b96e3c3de6506430d	A25\protean hulk.jpg
+a6353434b2d7fd0e9ea2c0f80bcfa214	A25\pyre hound.jpg
+3ae4a69afadfe99af6a6fce2ca90401c	A25\pyroclasm.jpg
+31d6acd88e731a945391ece80dd24f54	A25\quicksand.jpg
+bad728b60b1812322c1f8db6d5ed64da	A25\quicksilver dagger.jpg
+172eec7ac762faa43b17a0a62ef7df9d	A25\rancor.jpg
+6e1f49b01840ba247515e060456eb9ba	A25\ratcatcher.jpg
+68d50dbea95e3f6c6dc904d77ffa912d	A25\ravenous chupacabra.jpg
+76f5893126a0c9f2515127dc296663d7	A25\red elemental blast.jpg
+88c46d2b347959b667978fb9098af197	A25\reef worm.jpg
+66f8b912c256a2c5e866e9571a82c69a	A25\regrowth.jpg
+8f55dcc57369ca151154afdc5bb95d5e	A25\relentless rats.jpg
+f0fd92933b7d860589693ccefeb39831	A25\renewed faith.jpg
+5f08d7038bfcce6f5f27eaafea6a1ebe	A25\rest in peace.jpg
+5425eddb2cb5b7c50e961e0194e162cb	A25\retraction helix.jpg
+4603dbe79d94c2bf17b4cb73f095af75	A25\returned phalanx.jpg
+c10b3bd813e13218ed0bfd4b9c6dc9c5	A25\rishadan port.jpg
+e5a62eeb66b5635da05644bfb4eb1f63	A25\rugged prairie.jpg
+ab062c972c16576f40098542cb9a09b5	A25\ruric thar, the unbowed.jpg
+9a31a5194c14657304f49d13399e01b4	A25\ruthless ripper.jpg
+ed777d3c02e573c96cbaba5b3bfd3d64	A25\sai of the shinobi.jpg
+8cb274a9cbe519ef2d5c88e28c2c632a	A25\savannah lions.jpg
+f3822215f0940e420e04151e8dc26a87	A25\self-assembler.jpg
+a46ad607d2ce583ba673a45c6fe48e36	A25\shadowmage infiltrator.jpg
+fecdc8f4ce51add834292637b2c9b7bc	A25\shoreline ranger.jpg
+edd0c41c9f8da8512d35e1df193b1ba3	A25\sift.jpg
+c46bd4c7621698a7d8131f5be9a89f93	A25\simian spirit guide.jpg
+14098363e4fa1e15a50bd66d525b96bf	A25\skeletonize.jpg
+def73d7fd36aefef73e94df47334419d	A25\skirk commando.jpg
+89fb509c4ff2a7082aeb6bae23992d28	A25\soulbright flamekin.jpg
+168d46106e765a0e91dcd47ef2e14c44	A25\spikeshot goblin.jpg
+ac82dabddd041b30499a3ba2a978b958	A25\squadron hawk.jpg
+4486c54a18cf89b4bdbc43a5d1323187	A25\stampede driver.jpg
+4169ad05a02fc0f509b80a1a28b03dde	A25\stangg.jpg
+983034d04461e822be938dd2fd29d49a	A25\street wraith.jpg
+64b66d2ae204e3e0ac1a3ebd25760026	A25\strionic resonator.jpg
+d77aa42ef9d8f799e11b81f8ddca5207	A25\summoner's pact.jpg
+4061e0986629a4e7e503431c8f1c5048	A25\sundering titan.jpg
+b826e0714b287998bce3f4e2328e3532	A25\supernatural stamina.jpg
+10dd3c078650ac1b5dd9d3aeaa7f36b4	A25\swiftfoot boots.jpg
+8154bda643cac4461e7c850a4d8c9596	A25\swords to plowshares.jpg
+cb400db07181ed5b2b997c33c569e8a5	A25\thalia, guardian of thraben.jpg
+e55e9f4101c077d137fede1067b1d1ab	A25\thresher lizard.jpg
+1bbb7693145fc105a520a71f1dea3a6d	A25\timberpack wolf.jpg
+0971952b9a0431048664ece1f49475bc	A25\totally lost.jpg
+1102e2dc149eec7339b3412c2479ead1	A25\treasure keeper.jpg
+36539485c5c09efb873b465df1d1abd4	A25\tree of redemption.jpg
+8a987bdeaa4f4c86b4119e21cdd7f8a4	A25\triskaidekaphobia.jpg
+074814d4f502e5c4f90a048d9868f7ed	A25\trumpet blast.jpg
+520ad80c77734208470b648710d7354c	A25\twilight mire.jpg
+063b8df366528602b43766aa11c83fd2	A25\twisted abomination.jpg
+e03924cc0adfd2e90ff750edfe3165c4	A25\twisted image.jpg
+02cf23238d5bcbe416ece894f0edd19a	A25\uncaged fury.jpg
+46d5b415515f39b8c9c2a7efa6d42341	A25\undead gladiator.jpg
+569ce0480d602a355198ba65475dea8c	A25\unearth.jpg
+4fa252d079a7bd90c8faeaab96109ea0	A25\urbis protector.jpg
+91b3e8ac8c5837a55ffd1653dc07fc25	A25\utopia sprawl.jpg
+ae858c32ccebff6a89bbc8138fe8157f	A25\valor in akros.jpg
+7b7fc52b91637bb7af948c2909d05607	A25\vampire lacerator.jpg
+6b89265b029bc83504183cdce2e4c6f3	A25\vendilion clique.jpg
+e24f3d5198e5d7d4feae2742cd53599a	A25\vessel of nascency.jpg
+491ecee305302538afef76d743d48aa6	A25\vesuvan shapeshifter.jpg
+4a98ba4a717c8eae5634920a7632c1c7	A25\vindicate.jpg
+4b33f00f10a3136707207ed6edf079b2	A25\watchwolf.jpg
+e63d58eb5971c37ce5b606ec6b2226ef	A25\whitemane lion.jpg
+de45dcb390165277327a96a14a4b4cf9	A25\wildheart invoker.jpg
+c925d289ff3c15850a9ffe9db2075715	A25\Will O' The Wisp.jpg
+5063c9e1ebc9663ba0b791b6dab368b8	A25\willbender.jpg
+c5c40a97815d280477e72e899ec83984	A25\woolly loxodon.jpg
+4c9936c949eb6f4b7ef397c8e535f1ea	A25\zada, hedron grinder.jpg
+5a0c229d37b0b65f551fa95b491106ee	A25\zoetic cavern.jpg
+ec01ee5206c6b5166b6a5c1a2e472a86	A25\zombify.jpg
+997541776773a8763519a7331ee833b8	A25\zulaport cutthroat.jpg
 292bcf719d636857c7104018ac951e51	AER\Aegis Automaton.jpg
 72ce37edca519c4fd2d68a84c0fe2a9a	AER\Aerial Modification.jpg
 25f5ceb70f59b2d5707c2667f4ba30b9	AER\Aeronaut Admiral.jpg
