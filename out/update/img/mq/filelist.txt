@@ -5579,6 +5579,262 @@ c9482218ca736ff767bc21696aa85363	AVR\Wolfir Avenger.jpg
 7bb702e3f0f4a4c01ff8a621c003866f	AVR\Yew Spirit.jpg
 54d0043d59a017b578514970bce7423d	AVR\Zealous Conscripts.jpg
 89db2d637f185533e831faeac6c46de1	AVR\Zealous Strike.jpg
+7febdd259738ee97f4fa56edf048d070	BBD\aim high.jpg
+cccf75de9e97d041b2b89d0c4cbef4d9	BBD\angel of retribution.jpg
+222afc09dc137f1073f9c04608bf462f	BBD\angelic chorus.jpg
+78eaf89e31ccd5294d150a10160008a9	BBD\angelic gift.jpg
+c706796b0d0f9b45f3752e488363af4f	BBD\apocalypse hydra.jpg
+838dbe8e30ed8db0628ed4288e0ebcbc	BBD\arcane artisan.jpg
+07e8f8af95ebc5f42b0421a7b6eb1097	BBD\archfiend of despair.jpg
+40424b42e2e77941b24c351eb8d3bacb	BBD\archon of valor's reach.jpg
+eff64d3f33bac658434ac0e758cb83d1	BBD\arena rector.jpg
+5fff3706ff5c8d407ccdbd27604feb95	BBD\assassin's strike.jpg
+39e94c0c2b6b77a17b1fd05661c8a1d9	BBD\assassinate.jpg
+e11ccc66b95a9c55cd00265e61fc5cbd	BBD\auger spree.jpg
+441812c978de9c3b4b721c904c15f36c	BBD\aurora champion.jpg
+79ecd4aefca9ccd988a66feac1836ba1	BBD\azra bladeseeker.jpg
+57248d5988f91aca45c0d1cae67d3ef2	BBD\azra oddsmaker.jpg
+777cb35d942a7198b5d15b8660a419d9	BBD\bathe in dragonfire.jpg
+2a37f504b6a8c19ee78ef241b21421a0	BBD\battle mastery.jpg
+615325ab7f7710f6eb5080e2b2a37c87	BBD\battle rampart.jpg
+15d906e207bedcc72f9dea172ebba1fb	BBD\battle-rattle shaman.jpg
+15607d721c621c171ced3e366356688d	BBD\beast within.jpg
+5369b67f027db3822f61887fe3c028b0	BBD\benthic giant.jpg
+6372ad20d9f9dfd552f10eb9dc2f8e64	BBD\blaring captain1.jpg
+a5add69513909ad42e7007c71a467343	BBD\blaring recruiter1.jpg
+c5fd8becb4977b8dc0b4aaf357179f00	BBD\blaze.jpg
+5d186b767a9ac2e71fcd29a6cfaeddbf	BBD\blood feud.jpg
+2e1e66255382b9027776e0ed33380c39	BBD\bloodborn scoundrels.jpg
+8477f604bd2d225d12b5738e3ce93b9c	BBD\boldwyr intimidator.jpg
+fd67112aa392e0e6a78be86342558221	BBD\bonus round.jpg
+5e06f7dfc63933ce330309984353648b	BBD\borderland marauder.jpg
+598099864896c345d488cf6703e57515	BBD\bountiful promenade.jpg
+408a59a5e610c661900072ba809cb611	BBD\bramble sovereign.jpg
+d3506d72369c5177eeab35146b87e765	BBD\brightling.jpg
+0d60b66f38b3676057e897cbea90e382	BBD\bring down.jpg
+350600963b72d114c2328ba8368983ec	BBD\bull-rush bruiser.jpg
+f343392417b484d8f8c51afe34696d9c	BBD\call to heel.jpg
+f5095cca7499f1f377900557b4ee2d95	BBD\canopy spider.jpg
+3667fa7248ed553c64d9c02602f6abd9	BBD\centaur healer.jpg
+4e339bb47acf2278fd15a1d689c98562	BBD\chain lightning.jpg
+bdc7c85c0d1e0b4ef083dba1a7eaf868	BBD\chakram retriever1.jpg
+9a15fd5cd16a5256d2e37983c8c08415	BBD\chakram slinger1.jpg
+3196721104f0558337a40e91d4646700	BBD\champion of arashin.jpg
+7254aa23d1f72bbb474781c3ee8ff8e1	BBD\charging binox.jpg
+7e69d796b4fb34e8c7c2914b83bce20b	BBD\charging rhino.jpg
+dfccf29025e4608cd8ba45ab975c844f	BBD\cheering fanatic.jpg
+8496fda8d29a43a2c3084f51d1d8030e	BBD\claustrophobia.jpg
+431b413718dfb394aee9d41d616b434e	BBD\combo attack.jpg
+0c2f1b065c51ab7f298b59b04faebfc2	BBD\consulate skygate.jpg
+143ff13c2bd4f6644c8f69c3f7d7e546	BBD\coralhelm guide.jpg
+2d7b2f868a84fc841ae13c62aebcc62e	BBD\cowl prowler.jpg
+565ebd2cfef0d4b9326f059898e6cf85	BBD\culling dais.jpg
+e2e2af11235ffa36420ccee446fb695b	BBD\daggerback basilisk.jpg
+c70617595da3e22ada41553bc4c1007c	BBD\daggerdrome imp.jpg
+6b1e7fc749a943d101d99be3430f2680	BBD\decorated champion.jpg
+173e6ada166eb90c31278baa7c987ad3	BBD\diabolic intent.jpg
+2b03455b3f2c44de17d527afb01b12fb	BBD\dinrova horror.jpg
+c8451d36dfd6ae74eea0a74e2efa367a	BBD\doomed dissenter.jpg
+048e572a43d5515276ea322e0fe00ee3	BBD\doomed traveler.jpg
+7637c6645a9192b6f18e729d13198f5e	BBD\doubling season.jpg
+5e91cefedc01878e7afcf46740ce1079	BBD\dragon breath.jpg
+42c1522d248e04ab05c9b95c485b9d4b	BBD\dragon hatchling.jpg
+6742e7160c859da8e7912bff859c1641	BBD\dwarven lightsmith.jpg
+2c9b191b25c0c3c2c11ffd144c4a2863	BBD\eager construct.jpg
+6047cb56130feab068f5cacb21725738	BBD\earth elemental.jpg
+a4f225b2e76cee0e317fed644e42578b	BBD\elvish visionary.jpg
+58f190a19ae45ca7bd01a87d921c1ada	BBD\ember beast.jpg
+525cfed44a8a05960c313915f76d3c7a	BBD\enduring scalelord.jpg
+a59fac8c30a06402947590d6c1dc50cf	BBD\enthralling victor.jpg
+85475adca41c523eb0d0fbbecc89cee4	BBD\evil twin.jpg
+117f7296f44e4b95502b66f323097d0e	BBD\expedite.jpg
+5a230f33874d6ecb434a4bb4103d7039	BBD\expedition raptor.jpg
+6b5b94b13247e07ea81222e6830470af	BBD\eyeblight assassin.jpg
+1184a1abf5717953c8dd911f9a14c10c	BBD\fan favorite.jpg
+38c3c3c8013f76777c36b66cf80c4cd8	BBD\feral hydra.jpg
+9aec61df7cbbb32b816fc448fdb0031a	BBD\fertile ground.jpg
+5c0ba9dd5b77088eafd3522389e3b221	BBD\fertilid.jpg
+0aedf6b881376007bcb6fae04169b190	BBD\fill with fright.jpg
+a45dae77b361b59ce9e0402f137b1cc2	BBD\flamewave invoker.jpg
+6f15dcbfaae375b7d4fce41f692c07f8	BBD\fog bank.jpg
+a28d5c7c548a4fee84bc0620c5e7b989	BBD\forest.jpg
+47d6f07ff70fba8264facbd0e81a2347	BBD\frost lynx.jpg
+1c83714b86de10c483c5227b099b4fe9	BBD\fumble.jpg
+ae6e07e85246623e7887743e6560ed7c	BBD\game plan.jpg
+54c76a2041319d2b3422fdb5eabce99a	BBD\gang up.jpg
+a48d9c4bbd554ad6ad48900511249446	BBD\generous patron.jpg
+5ee75ab758edb154685d58c9bde7d587	BBD\genesis chamber.jpg
+35ddc0c36822e7609460995975e0ea86	BBD\giant growth.jpg
+2b47813bad4f37daa63095a41da73989	BBD\goblin razerunners.jpg
+eb32caf02a50a566c219fc77abc384bf	BBD\gold-forged sentinel.jpg
+0c86cd604db2c66ac920ad62801fa018	BBD\gorm the great1.jpg
+d2496d9aeaa08b30b1c5e7394100a0d1	BBD\greater good.jpg
+007383ed79eeb523d8f79bc70ddafba7	BBD\grotesque mutation.jpg
+da36dedb904eac9d5b62c013a1f6e19c	BBD\grothama, all-devouring.jpg
+cff142ce058e41c533c3763b69609372	BBD\gwafa hazid, profiteer.jpg
+9a19ca621844002d21d1cd5f0b8381c8	BBD\hand of silumgar.jpg
+01942d8986eefa8770d7e4af379c08b8	BBD\hexplate golem.jpg
+9302dfbd8e95bcefb590c5550326b38e	BBD\huddle up.jpg
+cd59bf5427a9d438eaac2d77526ba92a	BBD\hunted wumpus.jpg
+7face07226cefe4a67b3ee1550ba89c7	BBD\impetuous protege1.jpg
+04ab19962e4c3f7fddf2978e83f41005	BBD\impulse.jpg
+072f76d2f4b34ef3d2b8bfed06c0539a	BBD\inner demon.jpg
+28b5c67e10548758a9f4c14a047b51cb	BBD\island.jpg
+8ef87df0b41928c1b24412e9a6fb997b	BBD\jelenn sphinx.jpg
+1c6b0ffa7f92733e1611b795e06b55e6	BBD\jubilant mascot.jpg
+067c90e1792c8c910f95fc7fa237b870	BBD\juggernaut.jpg
+2a9a0f17252cb8c2c2ebd2c2e2243b01	BBD\jungle wayfinder.jpg
+28cf0f35d48fcbc47638b306374d47c8	BBD\karametra's favor.jpg
+67827f16406e492b09f302c249b673c8	BBD\khorvath brightflame1.jpg
+11b1bc5417af5b1604fed1d582ea627d	BBD\khorvath's fury.jpg
+ae1110ff3fedb9a6317b87cc6327f890	BBD\kiss of the amesha.jpg
+49247f2c7c43fad78c2cdcc3445f1432	BBD\kitesail corsair.jpg
+0f3d3564ec111390607e47679a626f5b	BBD\kor spiritdancer.jpg
+0fc026a884cbd706179a115b2ecfaec5	BBD\kraken hatchling.jpg
+db07e02de35b83bdab501fa304252b47	BBD\kraul warrior.jpg
+458434bd147499242db4f303e2746192	BBD\krav, the unredeemed1.jpg
+4fa824c214547341a98942316f905945	BBD\land tax.jpg
+bd6bfeb7ed5104cb0a164943ae4ad516	BBD\last gasp.jpg
+f0c0012784ad8781c7f1cd9ad66b5a6e	BBD\last one standing.jpg
+3acf74acdcbdb3abc09769d1c4149f30	BBD\lava-field overlord.jpg
+a062a1ed1b3486ba216ac8f9d41ab356	BBD\lead by example.jpg
+f5252cc49bd1fa1b6d1ecb0a7902fb8a	BBD\ley weaver1.jpg
+e86efcce852e56ff72c93b6f50d46b02	BBD\lightning talons.jpg
+a193e2bf46038708691e148de0e2a276	BBD\lightwalker.jpg
+b43c889e7e0a51429556f1eb728151a0	BBD\liturgy of blood.jpg
+f898dfd82ec48afc6ef5e980e268925d	BBD\long road home.jpg
+a2b10f8802af9d988d275fa3327f3c9d	BBD\lore weaver1.jpg
+dc745ab5466a1928bc304e615bf86a7b	BBD\loyal pegasus.jpg
+73292b688a0240d44a145fa889a1f38e	BBD\luxury suite.jpg
+171b9a5f2e723b6b22b6f44e4a23cf04	BBD\magma hellion.jpg
+7e4a7cac77458c332a58f65efa3e2032	BBD\magmatic force.jpg
+08a95c2dbcc121286c60361f8f938e52	BBD\magus of the candelabra.jpg
+e609aa10164ba4be07d5175bc4dd0f62	BBD\mangara of corondor.jpg
+817735e59737c409286ddfba870bcd79	BBD\midnight guard.jpg
+e47fdec3ff16bd105970f7717e8d2e8d	BBD\millennial gargoyle.jpg
+add722b0a3b1e1cbc10b33026636d4f2	BBD\mind's eye.jpg
+b21428e751a598ecd9ee612e19b9e477	BBD\mindblade render.jpg
+7dc7c3ddc1307fd2021a0fb26252e233	BBD\morbid curiosity.jpg
+0de825e3c77384dc477a55047d3a7e34	BBD\morphic pool.jpg
+653eb0767774cc3de9f83ec951572f2f	BBD\mountain.jpg
+0f243e48226bbb9012d88fe18bdec3cc	BBD\mycosynth lattice.jpg
+33028f33f6d0c6bc76257a984f61afe5	BBD\mystic confluence.jpg
+ee4914f922e04064095b7811fe289481	BBD\najeela, the blade-blossom.jpg
+00cf364d34880a25ed6a8417a4ebd205	BBD\negate.jpg
+e1e663774d472980835a61aebad2eef1	BBD\night market guard.jpg
+f39974c1bd7583981270735b014f9a84	BBD\nimbus champion.jpg
+72125cecd80258ffcd0aaa0e9275d037	BBD\nimbus of the isles.jpg
+d0ff168248b02f197a55da8ac0d8cd78	BBD\nirkana revenant.jpg
+6a8552d729d669f98535f82f079de26f	BBD\noosegraf mob.jpg
+9305b95dff634077e342f8caf71464a6	BBD\noxious dragon.jpg
+4892a854ca8bbdcc023ffbc6d5dfcdba	BBD\nyxathid.jpg
+31e32e3c711049e81d7c439b7d805147	BBD\okaun, eye of chaos1.jpg
+c6815330c781a7ae9dd85f06ad417700	BBD\omenspeaker.jpg
+5beb30d9b646a02fc13dbb86699d5efc	BBD\opportunity.jpg
+d24564e027debcb663d37c59835eee59	BBD\oracle's insight.jpg
+0c844c102b7c0826c7b0f2e91824e07b	BBD\oreskos explorer.jpg
+70c57f65586aa3cd049c9ea5bef8339f	BBD\out of bounds.jpg
+e1dd641f7911cd258c56b0fb14310157	BBD\pacifism.jpg
+09a559f34dc09d613bb2cb2a9d0edbbe	BBD\painful lesson.jpg
+7a6f6bd9e888e0a0b064548f60f23e35	BBD\pathmaker initiate.jpg
+10545ec99094785773be061dd0d93e20	BBD\peace strider.jpg
+ec1c0acaf9ced3596aa19a11b256a240	BBD\peregrine drake.jpg
+2f341a9e265c0dd25556f23c0eb213b6	BBD\phantom warrior.jpg
+798449f72f49a790c06712ab3546efd0	BBD\pierce strider.jpg
+aab1d197a2bc7c86110aaef6070645bc	BBD\pir's whim.jpg
+a681cd13a775bcde4f27dcf27b2b012d	BBD\pir, imaginative rascal1.jpg
+35db918ffea9ca079960399c7b8b8741	BBD\plains.jpg
+4b98f9909d191b893d3e40d8a41d3c18	BBD\plated crusher.jpg
+82e089a6fe6ec99d5301c2d18e1728a3	BBD\play of the game.jpg
+ae323c3c9ca3421c7f12feb9dbb74a92	BBD\prakhata club security.jpg
+c34382921095206a5bac61e86ec8e256	BBD\primal huntbeast.jpg
+02388843468f8dffb7f8c1c013689e9a	BBD\proud mentor1.jpg
+cc4348193fd63ede74bac9935c3d8615	BBD\pulse of murasa.jpg
+f1afe5efb0582066651b914d6e54b411	BBD\quest for the gravelord.jpg
+8816cf27a0b35d482f87a2acd2e5fcf5	BBD\raptor companion.jpg
+e28b4600410a3d7f7462c12dc475d288	BBD\rebuke.jpg
+e51d57307e110acf93e7337ce9b3afa5	BBD\reckless reveler.jpg
+24e51849c2b8165dbb285c79cbac5eee	BBD\reckless scholar.jpg
+443bb29885c300c8c07915142745e781	BBD\regna's sanction.jpg
+61c3dcebb485577346809d216621f4d9	BBD\regna, the redeemer1.jpg
+f0d90b672a65e3990087b6cf1dcb5581	BBD\relentless hunter.jpg
+166a4434a7c3f730c53a7fcf735c8f76	BBD\return to the earth.jpg
+01070f9fd32feb6a5e775af2d8d743dc	BBD\rhox brute.jpg
+9dd5b03c11de7699e18e76103daa1b17	BBD\riptide crab.jpg
+b7672ecd11060814983417d257141e9a	BBD\rotfeaster maggot.jpg
+e0bc367cf3e63ec0a958a64a7e0c27c9	BBD\rowan kenrith1.jpg
+837eac7d362c714e60925c8acc5c753d	BBD\rowan kenrith2.jpg
+248adffed0127a7ba05ca78ac8429dd5	BBD\royal trooper.jpg
+6dcc899c7fe1681ab294452ed832eed1	BBD\rushblade commander.jpg
+41e04e8a22e5eae7329841ebc4705263	BBD\saddleback lagac.jpg
+26ad18ed70c08305f0b23611b827b7c3	BBD\saltwater stalwart.jpg
+f50ee794cfcb9e3329fdba4a731ef128	BBD\savage ventmaw.jpg
+6662aeffbcf39bb446eec12a24dd6bca	BBD\screeching buzzard.jpg
+1e4e951c812029a59068cf7bb23bf22c	BBD\sea of clouds.jpg
+b811a2e505701d97dcbe536d39acb91d	BBD\seedborn muse.jpg
+eaee881356c96af43baa142a01f05594	BBD\seer's lantern.jpg
+bf29bece1a2552b5f406b8d067eb7df3	BBD\sentinel tower.jpg
+18286432c49558f673b1855471b8a390	BBD\shambling ghoul.jpg
+198106dce1c3acdcf2a3f8581adba09b	BBD\shock.jpg
+dc33517b661e3ab4159293a1fa094098	BBD\shoulder to shoulder.jpg
+2fdfe6351f14aca484e37f8d4e603215	BBD\sickle dancer.jpg
+7d279a46b8e57fa34507ed6cc79ac4da	BBD\silverchase fox.jpg
+89fc7119a900e284b34f1cf949f11754	BBD\skyshroud claim.jpg
+d743844b6bc07d7bf35e459eea922fad	BBD\skystreamer.jpg
+fab1604742b5845392032cd2954a5425	BBD\slum reaper.jpg
+670e9b8090bb76a8780033c905c0870e	BBD\soaring show-off.jpg
+2021a1843a0d461d22c499844e8aeed1	BBD\solemn offering.jpg
+f5698cd68cf12ad8769af2588f7f2dae	BBD\soulblade corrupter1.jpg
+ae5cb32387eee6d41e7e2edaaec5d717	BBD\soulblade renewer1.jpg
+b8a5eafb3857cd0fb52efa8577c855c8	BBD\sower of temptation.jpg
+67c41d187245a9207133bc2b5d581bf5	BBD\sparring mummy.jpg
+182f975088ce4ab093f987fd84efe171	BBD\spectral searchlight.jpg
+bd7b5d6abd9c5342e70ab8f7b7835f5e	BBD\spell snare.jpg
+e279eeccd3225a1b63cdbe2b720c360a	BBD\spellseeker.jpg
+77967cc371af45a584ac95656e2b8998	BBD\spellweaver duo.jpg
+477921305cce565932e23d0a323476bb	BBD\spire garden.jpg
+2e36578a4d5cccde13e79688440c4c90	BBD\stadium vendors.jpg
+5dda92afa4918b99384c2517fbba8643	BBD\steppe glider.jpg
+e7f5e0a794ce1e4927828d9c5e68711f	BBD\stolen strategy.jpg
+e057d1670015d94ddfa87a4bfe9da757	BBD\stone golem.jpg
+987630f04fe3203fd114bd05cd93bfd9	BBD\stunning reversal.jpg
+f1dc2e550ae4a62e2540a62979e9cf49	BBD\swamp.jpg
+e0f63ada75cb7604f37a6b93e21be478	BBD\swarm of bloodflies.jpg
+70bfa5a1354c017be8ba8733f845eeff	BBD\switcheroo.jpg
+66dcd0d6c42e078b31172c6f8a94fdd2	BBD\swords to plowshares.jpg
+2a9ce988cd161f58b617ae3c3289308b	BBD\sylvia brightspear1.jpg
+76fa028ebd61a0e6ded7109e171729a8	BBD\take up arms.jpg
+96eb60d7cf1023e6d5a3791d8dc74b6b	BBD\tandem tactics.jpg
+90aacc4ca17fef0d457b487a4494aed8	BBD\tavern swindler.jpg
+7be677fd963c32b76ed200fc8dceb0b1	BBD\tenacious dead.jpg
+5c3044b49f571447b7c23ea03a048f4a	BBD\the crowd goes wild.jpg
+b6a9d62fe80e44e01632538ac86bac7f	BBD\thrasher brute.jpg
+1ca0aece85eefdf8f0423b83df7f1847	BBD\thrilling encore.jpg
+9700325a7f7fb5e81b9f7b2327b371fa	BBD\thunder strike.jpg
+37c50d5ace4d98191ee79b9387e426a6	BBD\tidespout tyrant.jpg
+e75c474620786ba988df15936eb6e714	BBD\together forever.jpg
+47384c30f1f9d382b16bfb7fc24cc959	BBD\toothy, imaginary friend1.jpg
+9b4d182218f775aa68a16ffd01c364cf	BBD\totally lost.jpg
+049ff0bf72901c808d8b7b6bab09256b	BBD\true-name nemesis.jpg
+f40dc1f275508c7929d26786c77dde1e	BBD\trumpet blast.jpg
+259c6dc0b844c6c6a0e115452be03ee3	BBD\tyrant's machine.jpg
+1b07f1d7dd1403692bf2268cacb9e52a	BBD\unflinching courage.jpg
+585b5b008a8a2ee89011dffe5e537d52	BBD\urborg drake.jpg
+2945077d65ba1de11c054ef7b79fbacf	BBD\vampire charmseeker.jpg
+c0bf46ac5acd4f4da15ecbcba2f0cbd1	BBD\veteran explorer.jpg
+8895de81472909994ea2051e9f5bd9b0	BBD\victory chimes.jpg
+d06ec5bd339007f214bdff9ac73d6701	BBD\vigor.jpg
+906e52451b8152da1711608c4d139f9f	BBD\virtus the veiled1.jpg
+eb80407280d9176350f604d9559fac99	BBD\virtus's maneuver.jpg
+382c46d83400d0c37f93b743fc643568	BBD\wandering wolf.jpg
+134d0fa05fe9b5f3cc641c30e8b1a123	BBD\war's toll.jpg
+f5a17fad519bccdbe9176a9525621362	BBD\watercourser.jpg
+ff35cd312c8b38d916980212283164c2	BBD\will kenrith1.jpg
+86073c345242197d37bb99c95f5c6344	BBD\will kenrith4.jpg
+d5b469c13cce9dc581ab777ef13a659c	BBD\wrap in flames.jpg
+29b75462a773007b2940be1fece64a4e	BBD\yotian soldier.jpg
+aac3c98df5e8a11850caeb80de175db2	BBD\zndrsplt's judgment.jpg
+a6e40f38b4084e8831583afa17d2551e	BBD\zndrsplt, eye of wisdom1.jpg
 ad7987109ced5e79c0494586a3b5255d	BFZ\Adverse Conditions.jpg
 4e72fd302f75fa1322406a837632b443	BFZ\Akoum Firebird.jpg
 f654d6fe6cb14cb3a17353253ab6fd3d	BFZ\Akoum Hellkite.jpg
@@ -8881,6 +9137,319 @@ c599ba54d8d10594d962a4e531d90897	CM1\Scroll Rack.jpg
 e68e083eb0f28198c284e3083651721f	CM1\Sylvan Library.jpg
 663916dc7a69a78e2cece6135bc21156	CM1\The Mimeoplasm.jpg
 44f4d262f4c4005cdb7d2a4d3e053c73	CM1\Vela the Night-Clad.jpg
+0eb3852d56af29f71abde863851a67e0	CM2\abzan falconer.jpg
+f669057d63c7f9d39e1b2519ce5a4a2a	CM2\acidic slime.jpg
+ab5cdb5f95f1741da42eb0eb440bff7c	CM2\ancient amphitheater.jpg
+2812bdfd356f04d1d15e365822ce31cf	CM2\ancient excavation.jpg
+1624ef1ff47e15c7cfa20df02220c1fb	CM2\angel of serenity.jpg
+56482bc9213cbee91ce40132a470bab9	CM2\anya, merciless angel.jpg
+56a57f48586a3db767c26534721fe664	CM2\arbiter of knollridge.jpg
+7b141d8fa8f19f6eb544754b77144161	CM2\arcane lighthouse.jpg
+0b639e54345c7f0228e0604d5924dfd1	CM2\arcane sanctum.jpg
+9afa34db1a885476f72aac0224c6c5cb	CM2\artisan of kozilek.jpg
+ce96949c1cb6fb432f5bc87263b7e6e4	CM2\ash barrens.jpg
+2cc30067b810db8160097af50d17cdd6	CM2\astral cornucopia.jpg
+54b3cd7cd54167942b228c44ac7a8ea4	CM2\atraxa, praetors' voice.jpg
+6c951fbc1ebdd0aebeff689b37bad022	CM2\avatar of woe.jpg
+50f0defb0c55c9a678963578d787c329	CM2\azorius chancery.jpg
+fd7b5d8ef922b24ea6d96a657b644d22	CM2\bane of the living.jpg
+7a06cdae4af26f5a38a03ea6b522f737	CM2\banishing light.jpg
+83a1c74438608afdcf920da0a9d2b652	CM2\barren moor.jpg
+7938adaacf05831159f073262e22ca54	CM2\basalt monolith.jpg
+bfce20c02223215b73b64234552e5834	CM2\beetleback chief.jpg
+4131454153307879a03bebe005237d75	CM2\bitter feud.jpg
+96a1bfc3a1ceb0a33cabd9d7c0f481fe	CM2\blade of selves.jpg
+af43115683d30edb4586651acbeb855e	CM2\blasphemous act.jpg
+a9b873b8c300e6b0544851be5f0fa1ed	CM2\blasted landscape.jpg
+3c6c3e70acce56874513cd2dc53d8265	CM2\bogardan hellkite.jpg
+95161361e668d160b69f025b5b954497	CM2\borderland behemoth.jpg
+6c851857504c83808566617e708be9e8	CM2\boros cluestone.jpg
+4dd0e7c9b2bb785f9f564fec1c4b805d	CM2\boros garrison.jpg
+4b38dd6a805ea27606429288ccdda8e5	CM2\boros guildgate.jpg
+82d262e3c308df58959a65e30e53656b	CM2\boros signet.jpg
+ea5d6a19ed1b9b1ceb30fd1b16513761	CM2\bosh, iron golem.jpg
+52119ddb4dc2e5d37ba3b7ac00b45205	CM2\bottle gnomes.jpg
+ccb52535f6fb20b508fce241009910d7	CM2\brave the sands.jpg
+b76e997a46dccf9a43d1cb4db4ed16a8	CM2\brawn.jpg
+9fec23c6f0d792b22026327b841b4b87	CM2\breath of darigaaz.jpg
+279776235da7fb52ed73fc661b814f29	CM2\bred for the hunt.jpg
+88be0d195a0f88e332551a2db2147c07	CM2\buried alive.jpg
+915a821008042a7ac5aabfe4ce75875b	CM2\buried ruin.jpg
+e7482d73aa1e80781aea59c86f96805c	CM2\butcher of malakir.jpg
+ba0d2f130c0f7b8275d02103802b84fa	CM2\caged sun.jpg
+489ec72173fe24d387f47f718474550e	CM2\cathars' crusade.jpg
+e6a0fa9b0eee0550fe60f490fea98c52	CM2\cathodion.jpg
+b7fd1a626bec0083fc2a337499fd10da	CM2\cauldron of souls.jpg
+aae21e1ff3ad855801c4dcb1601dbe1c	CM2\champion of lambholt.jpg
+9cb5e123af69c09bcdc28691cd61160a	CM2\chaos warp.jpg
+3a541c67a4e5c42703ca7f9c7a512795	CM2\citadel siege.jpg
+7d1024acd5f36486c3d93126ff2496b5	CM2\coldsteel heart.jpg
+c7e78622fac041b72001179d5c64eb76	CM2\command tower.jpg
+7acc5ae186fedf41396d27ce179c2098	CM2\commander's sphere.jpg
+70f5518fa0425509f829d266e96fa44e	CM2\corpsejack menace.jpg
+f24148999fadd7574821ac3918c98f63	CM2\crib swap.jpg
+bc35425b8785ab91baa8bdc794cb8c22	CM2\crystalline crawler.jpg
+7fce8deb758a6540a7486e5c9f3c4f65	CM2\cultivate.jpg
+27f7022e564bb9971764428f014c0c07	CM2\curse of the nightly hunt.jpg
+356b1475f75ede065d7aaf60b30ded0c	CM2\custodi soulbinders.jpg
+60342de69f43908811b5dadd486f3ac2	CM2\damia, sage of stone.jpg
+f7ccdbbcbe493f01553bc9cb94284849	CM2\daretti, scrap savant.jpg
+af9187d73ec764a93f77304ff9c97c3c	CM2\dark hatchling.jpg
+e2c1126adb903d4f775b535a4bf1548e	CM2\darksteel citadel.jpg
+6d49f23ebdf9ef98ebc348019d60dc35	CM2\darksteel ingot.jpg
+f6fd12f0e5bb5b79fc5639f1a0c3fb66	CM2\darkwater catacombs.jpg
+eb9c47f89505a6892a62790ff97ae394	CM2\dawnbreak reclaimer.jpg
+2ae6186e128637ed068b2a15e73ca445	CM2\dawnglare invoker.jpg
+277cf40ca748763ef565cbef1ded06a2	CM2\deepglow skate.jpg
+2dcb16ec2393153dd01eac4202077664	CM2\desecrator hag.jpg
+9e6785e41fd6ffa38591c358f2b4ae02	CM2\desolation giant.jpg
+239e2f249d582a084fe41f5e94d2faa5	CM2\dimir aqueduct.jpg
+30c1e2d13a721d579b247c5ce180a40c	CM2\dimir signet.jpg
+1c8ae5149be8f888e379b0c3d2a22b43	CM2\disaster radius.jpg
+9756be931070c00d790624f14e0d4137	CM2\disdainful stroke.jpg
+df74fc846d5386e1acd8617c60f9e24d	CM2\dormant volcano.jpg
+e288d78edca024922ff26c465bceda47	CM2\dreadship reef.jpg
+68b7c0b8250c9df2187ddf187e615394	CM2\dream pillager.jpg
+62acbd43eae8278b32691299aec1a0c9	CM2\dreamborn muse.jpg
+e41ca432896f4edc2e2226bebc87087e	CM2\dreamstone hedron.jpg
+38161e9bf951c1bff1b8b0439222bd76	CM2\drifting meadow.jpg
+5d70e1ab89995c60c654c46a531bf7b7	CM2\dualcaster mage.jpg
+6938d142c6cc4af2d12aa5a08b225024	CM2\duelist's heritage.jpg
+8003485a2d1588ad80fc7bb4610cfe53	CM2\duneblast.jpg
+cbc9b3a2e77b85b528f22e6d9ec7a85b	CM2\earthquake.jpg
+e45491afffbaf0def04c781d77e8f1f0	CM2\elite scaleguard.jpg
+41b297f91595d4acd4a87437b2ace1bf	CM2\enduring scalelord.jpg
+0651e079baba073e8de48b83dfc4e008	CM2\epochrasite.jpg
+58c5c76d33023cc35defee46be9fedac	CM2\eternal witness.jpg
+444742a135b01050625ff1dfb1b50b45	CM2\everflowing chalice.jpg
+766dfc23458820f8a8504dc9bf18748f	CM2\evolving wilds.jpg
+5704a2f1f7963f2c96f5856a7ad1599b	CM2\exotic orchard.jpg
+d3d98ca25a2248452aa496eebd516a47	CM2\extractor demon.jpg
+763b92e61117f1304370ef17e4a6e278	CM2\fact or fiction.jpg
+8386a1853a4b742fd2a7d81e8b4071a5	CM2\faith's fetters.jpg
+c505e7ba1709c864f490fbd754bf3103	CM2\faithless looting.jpg
+04776d56e72128d7292928ab485f001b	CM2\fall of the hammer.jpg
+c02060a80d8e601103eca3eeff91a357	CM2\fathom mage.jpg
+e8a9862fd2a455ac55084bbb049b1f5c	CM2\feldon of the third path.jpg
+170aeecfe4b50cb2935fe68bd2db849a	CM2\fellwar stone.jpg
+2d9e8a76ce424ca37c4950daa26ba840	CM2\festercreep.jpg
+67020708742a424ad5991dfdf63911be	CM2\fiery confluence.jpg
+04b2918a5ee6e84729bbd43e9567c78c	CM2\fire diamond.jpg
+add7b2739eb0c232682d2f2d09f9f127	CM2\flamekin village.jpg
+3139b8fe6e7cf91f93e2a0a8ddde7b4a	CM2\flametongue kavu.jpg
+b490e84a807c1ea2f4246ce9f1fc34fd	CM2\fleshbag marauder.jpg
+3b686f390618d24d866453a4147c3043	CM2\forest1.jpg
+49f8db6e16601380a6a9a50b4faf591e	CM2\forest2.jpg
+548b7b884a54b5c27a05dbe1a4beab41	CM2\forest3.jpg
+bdcc5d1c23d0fe9d305e3f9dda211984	CM2\forest4.jpg
+664e88b98e54e688caa15e1addbc8788	CM2\forest5.jpg
+22a9c37ec59b5f9287de86314507f1fc	CM2\forest6.jpg
+3243c191bc0c3fe1babfd78d15446273	CM2\forest7.jpg
+30ec3f024adf618d6b216db7dd3f60e9	CM2\forgotten ancient.jpg
+c744f7869e13e73896c7b827392b9808	CM2\forgotten cave.jpg
+51641cced8be37bc18c39e5ccab87981	CM2\fumiko the lowblood.jpg
+0c50e735f6a6e597460f0491e4cb167b	CM2\ghave, guru of spores.jpg
+3e4135fdfdf57005e222b6a41e9e2f28	CM2\ghost quarter.jpg
+ed3cbd3aeb386d4657c722646362f661	CM2\gisela, blade of goldnight.jpg
+20da944790d3767d2e2ca3203be51e0c	CM2\goblin welder.jpg
+19ebe47d21bd2792c75aa5ecd1218b6e	CM2\golgari rot farm.jpg
+d02ee43f7b57f1b2b410aa89372fb73a	CM2\golgari signet1.jpg
+da43e552b9cce9923e41e15c8509e454	CM2\golgari signet2.jpg
+d42b3d6a94caed1d529f2f2344bb7bef	CM2\grave pact.jpg
+557b41b7455bc4b880ed21e5b3dd4beb	CM2\gravedigger.jpg
+24dac6ee7bf0f90de715e95005b66998	CM2\great furnace.jpg
+31db1a2237600dc9ee80c8f3ff521543	CM2\grip of phyresis.jpg
+d2d27e17d382a18744dc7439a5aa376d	CM2\hamletback goliath.jpg
+3ac4ad276bebc11eda1cd88325e66999	CM2\hammerfist giant.jpg
+0a00bfd8b71bd1b64d20fe9fe218d058	CM2\hardened scales.jpg
+82c780e1517d0d10eba8ef25067a9d2d	CM2\herald of the host.jpg
+ed1a3af54930c118c55cf2db0a2ba953	CM2\hoard-smelter dragon.jpg
+ddf472817194d7b46983d59e40001399	CM2\hostility.jpg
+e480156895c7c42f2a95d1df121bd3da	CM2\hunted dragon.jpg
+b07dde3e4f6ffa0f00daf1931f81292c	CM2\ichor wellspring.jpg
+01eeb0128b19370bc326636e5c670c82	CM2\ikra shidiqi, the usurper.jpg
+71787afc2ffc7c1b5d5e97190240102c	CM2\impact resonance.jpg
+75681832fee2100113b7002915bf09dc	CM2\incite rebellion.jpg
+b55f10f9591b7fc8df149f9d0a16d39e	CM2\inferno titan.jpg
+a4b4ef66dff94414648ffcf2e4e57165	CM2\ingot chewer.jpg
+47c2a13126bc9eb79ef6062188f2120e	CM2\inspiring call.jpg
+32d245d2fe8493da6373238b0bc5c0ae	CM2\ishai, ojutai dragonspeaker.jpg
+f790e8ab4234e1201dcb9b0980cca571	CM2\island1.jpg
+af5f34e4ad2968bf554ac15f1a788ccd	CM2\island2.jpg
+6cbcbd28f7c9a4ee9b0126f011b78c90	CM2\island3.jpg
+a0cedf1e7957d3c388bf6a39e14cb790	CM2\island4.jpg
+58d252b7c267d6e68c9ae8b58fa91ffc	CM2\island5.jpg
+eeacd30e2647acfdb7aa4bfe7fcca7aa	CM2\island6.jpg
+4822aec652c1bb8e274d49751d4c8283	CM2\island7.jpg
+8bc365228959437305453fe1314e69e3	CM2\jalum tome.jpg
+1890c3e7f384a1353c1190e6b2b2dc6d	CM2\jareth, leonine titan.jpg
+83962438abe035fe695a5e47facf0f3a	CM2\juniper order ranger.jpg
+88ed0c4de95ce861669007974a750c9e	CM2\junk diver.jpg
+11be3ece1f7c27ebacccb03c5165097e	CM2\jwar isle refuge.jpg
+7eca4de19f0b0839f74544d0f0f4a6c4	CM2\kalemne's captain.jpg
+132552ebbd5a0ed67dd0df13511aaf79	CM2\kalemne, disciple of iroas.jpg
+42c6bd3e2d1902f0845459e6ebb931e4	CM2\kalonian hydra.jpg
+8a719f334f7adf8bb89d3466f328bf12	CM2\languish.jpg
+085e4e37a00adc01e179fa31bb722da6	CM2\lhurgoyf.jpg
+158c7ee7a9736f369948df4c3d2eb787	CM2\lightning greaves.jpg
+883a88fa093aef9d157d0bf1ce604369	CM2\liquimetal coating.jpg
+4e61834a5477de2ebbf7f6443f82a6a1	CM2\living death.jpg
+21db2d657e9900c1af5f60c71676619e	CM2\lonely sandbar.jpg
+f19f32023ffa337df393810f04054972	CM2\loreseeker's stone.jpg
+1b72e34337c13422aad00b562bf54aee	CM2\loxodon warhammer.jpg
+bc2f016dc0e267746ff7de2018221d68	CM2\magma giant.jpg
+fe63c4ca88fa86472dc850724718a0e8	CM2\magmaquake.jpg
+7b67948926f211ae6479b531ec71145b	CM2\magus of the wheel.jpg
+2b55d48f8b016b571c2b8583f32a1766	CM2\manifold insights.jpg
+f048bf80cc3a1e32bd0beeedc955b66b	CM2\master biomancer.jpg
+752e80daf13a270816cf4a4c8216b2b9	CM2\memory erosion.jpg
+dc8825ea94d94daca33915627c3afec9	CM2\merciless eviction.jpg
+8eb5c3b69035fc1409d2b57d15975981	CM2\meteor blast.jpg
+192b929c60486cd15d67a7dea7fc43bd	CM2\migratory route.jpg
+22a23af00ea310c596c4bf1ee13fc1a7	CM2\mind stone.jpg
+0db714f565fc778ff95d10cef52922fc	CM2\minds aglow.jpg
+146d404ecee1bbb881f626f38d01ac57	CM2\mirrorweave.jpg
+1e495ef080c74f25c797d046ad944aa5	CM2\mortify.jpg
+34b340214e6dac817a88ad3d9cd3a04c	CM2\mortivore.jpg
+1c3290b0ac6ee7d2a23800e0acd6d01b	CM2\mountain1.jpg
+af6d27470bb60080d9771e0ae4779f06	CM2\mountain2.jpg
+dc9e6952f80dcffd9809cd6430677bab	CM2\mountain3.jpg
+8b1e3c987c6beabb4c1a89e4d9e33a9d	CM2\mountain4.jpg
+4427164a88c047804a05ba9a228be9d5	CM2\mountain5.jpg
+ca8ec44ae31b567d6802136d65e05680	CM2\mountain6.jpg
+c028c3cce73559a31b72206630021874	CM2\mulldrifter.jpg
+ba623f5d9462a03e949394bd5756cd90	CM2\murmuring bosk.jpg
+3bf4d769d309a51cc433f56a26053ae5	CM2\mycosynth wellspring.jpg
+a61e7daf6a3708ea64691a0c805b48b3	CM2\myr battlesphere.jpg
+d8b3306c4f2c26cfa5b1f3f2e09aeb94	CM2\myr retriever.jpg
+cb93eb66d2c1cf3cfb9de9e7634d7ad4	CM2\myr sire.jpg
+04fe312c1fb3b8ff3c762b335b8f9841	CM2\necroplasm.jpg
+1aba1f5f5f591a21b754236aeab25a19	CM2\nezumi graverobber.jpg
+1aba1f5f5f591a21b754236aeab25a19	CM2\nighteyes the desecrator.jpg
+327590c7dbe2310b1366d6e77fa3ec3e	CM2\oblivion stone.jpg
+e282f3ee6322c0bce57312dd2cb3932f	CM2\opal palace.jpg
+4029f197a2253efe742dd95d7b78d1d5	CM2\opulent palace.jpg
+91491aacaf3baccba78a7b5e6bd1721e	CM2\oreskos explorer.jpg
+f72f88ac28b111ae2450b867a05bff15	CM2\orim's thunder.jpg
+61445300008e9bc4212dd046e62b8b07	CM2\orzhov advokist.jpg
+18161f5ea816f9ad577d40e8b14092d1	CM2\orzhov signet.jpg
+b2fb353575aab14b8015b474cfe9f841	CM2\palladium myr.jpg
+618ec476a3a728a880ab3f54b6abbfb2	CM2\panic spellbomb.jpg
+b792106755eaa5f3e14f4ab6e4e18bf3	CM2\patron of the nezumi.jpg
+e3baf185c8cbe97eba76df284d19c915	CM2\pentavus.jpg
+4358e759fef2c675281a8c07a6461138	CM2\phyrexia's core.jpg
+3be9df6e17518be3242961b27fb578b5	CM2\pilgrim's eye.jpg
+7223bba44f2e5f208fcc2a76f9180d73	CM2\plains1.jpg
+4227c24f5fe3a40170bb9bc14192dd2b	CM2\plains2.jpg
+73d7225e6cb9b6c0a97e6d881b4db597	CM2\plains3.jpg
+cc382e4d5178150882cca6da01f19377	CM2\plains4.jpg
+994d6f971dcd5b231f682c41e77bcb9e	CM2\plains5.jpg
+a8297ab83f22a2669e8b3ad557d0e5c6	CM2\plains6.jpg
+f01754a3fb51b2e8804c75c118cd0457	CM2\plains7.jpg
+1ca11bf180c45db03d80b0aacf07de19	CM2\pristine talisman.jpg
+f34a94163a0c1cb1a27af6dfd5d0fd4d	CM2\putrefy.jpg
+b0283123377507f9cc99a1b02bc82d66	CM2\relic crush.jpg
+f197f94cddf4704b2d5301c463120294	CM2\reliquary tower.jpg
+8ae782a545f99a665b87103c9044eeb9	CM2\reveillark.jpg
+29ede4e4576d07ddecd76eb4a61b59fe	CM2\reyhan, last of the abzan.jpg
+b73705ebeb6e2a8d2e716a3296f40f13	CM2\riddlekeeper.jpg
+f7a88b87e6c77fe2c35cd2c887276f9d	CM2\rise from the grave.jpg
+245a57556c29840a981029a9e71ef90c	CM2\rite of the raging storm.jpg
+67cac8c49a5590340171343f185598ff	CM2\ruby medallion.jpg
+6c390acf1eef264c7bc00ca5e4f35f50	CM2\rupture spire.jpg
+07105f3d5219779bfb2999de1ea0c3c7	CM2\sandsteppe citadel.jpg
+cc71124ac0a2af1a68a3379357db58b5	CM2\sandstone oracle.jpg
+741e33d4450d19721a26709498e3dd4d	CM2\scavenging ooze.jpg
+d1ea22485c99c070d90b0626d8d2e50c	CM2\scrap mastery.jpg
+1cafbf511f68762dd55e7988177cb751	CM2\scythe specter.jpg
+c3a7fe729c34c389d793449af6fc7e25	CM2\seaside citadel.jpg
+4fdafe36706438c3c519dc09bbdfa6ee	CM2\secluded steppe.jpg
+f2c16ebafe8364e6bb4db860d55d5ea3	CM2\seer's sundial.jpg
+723b269b480aeb094558b564ec3edc8b	CM2\sewer nemesis.jpg
+ffbd4ca79717643dcfc12cc73144c364	CM2\shared trauma.jpg
+711ccffb5852a227b20b1ebb7d480858	CM2\sign in blood.jpg
+69786aaa3f50176700ea8d0ab8bfe2b7	CM2\simic growth chamber.jpg
+ba869fd5c8ebfa270bd8bbd8ad068c28	CM2\simic signet1.jpg
+207a55c6f65fe42599c397f48320affc	CM2\simic signet2.jpg
+f084bc15f64105628e6be4f31b671065	CM2\skullbriar, the walking grave.jpg
+d63df2b2c417c9cfba65303b403722c2	CM2\slipstream eel.jpg
+3fe3a49018dad1a7b059791625cc0142	CM2\smoldering crater.jpg
+b7dad256bb8aa6165c1930471e36e3d8	CM2\sol ring.jpg
+5b01a63ac9cf2d9e2f1f9d76e649978e	CM2\solemn simulacrum1.jpg
+dcef4c08ac236585263c2030c8fcb156	CM2\solemn simulacrum2.jpg
+004800d23414cea6206ff57d28e9037e	CM2\solidarity of heroes.jpg
+00eacfe6ab06f09b3edbddbe73999322	CM2\spell crumple.jpg
+3e822fc6c684c8e530e84bbc89d4311e	CM2\spine of ish sah.jpg
+c2c308c6688516cd55a93556ba2913a1	CM2\spitebellows.jpg
+66113305055aae663a622d66740214ec	CM2\spitting image.jpg
+719d3bb85fcc3cba1e03c25c3366cc25	CM2\staff of nin.jpg
+718687643da8b2c62c71455b07b4cbef	CM2\starstorm.jpg
+8c053cba20dd56b2d1e381b7fe4a2483	CM2\steel hellkite.jpg
+6dbc8b3aa01a67976428ac5a1044ffb7	CM2\stinkdrinker daredevil.jpg
+8a344ccde484cdbd84ac77ce78c959f5	CM2\stitch together.jpg
+b05b617a347a0d67273704353839f55c	CM2\stoneshock giant.jpg
+d4cc463fa5435a1bd94dbcee39756729	CM2\sublime exhalation.jpg
+65ae9f5a572b865622b2335fe1b8e031	CM2\sun titan.jpg
+fa17d8c569278ca35f9b592d47da6485	CM2\sungrass prairie.jpg
+482888598d6634765ee7f58ef40d5044	CM2\sunrise sovereign.jpg
+b63832d43dbda5cf865f949eccd75a9f	CM2\svogthos, the restless tomb.jpg
+629b584fa6470b0eb3f87506cc56b431	CM2\swamp1.jpg
+22afe8aa295f640f299c21272a215e49	CM2\swamp2.jpg
+6de815669d7f6390bca918695fc60ac7	CM2\swamp3.jpg
+75e9ad1ac3442c27ee121046ad693684	CM2\swamp4.jpg
+61d29049178e3f51bee06995a5f8c009	CM2\swamp5.jpg
+0e9d2f1f0bb66d9fd4175d2504f6612d	CM2\swamp6.jpg
+8bb346161fe6438bf254b3b1658c18ad	CM2\swamp7.jpg
+23e6c66e3b1ede80356b7b19bc6efca3	CM2\swiftfoot boots.jpg
+4667b054a903d25cb0856819f4f014c3	CM2\sylvan reclamation.jpg
+d041dff1c8b1e7bd46debae3253d4706	CM2\syphon flesh.jpg
+8f215b77d656bc2d79f2e83c629b5f2b	CM2\syphon mind.jpg
+5c1b2247dbe2feee295d8f27837dad69	CM2\szadek, lord of secrets.jpg
+2efdef47d571ed5ebf3284be506b264e	CM2\taurean mauler.jpg
+3b6c1dea03b7cc130bda97489b3d8b85	CM2\temple of the false god1.jpg
+bbceb1b71068e81b66bf0e416d137460	CM2\temple of the false god2.jpg
+2dd526310be2ef3f4f26d113ed88433f	CM2\terramorphic expanse.jpg
+2c6eb15276b7f3a8d958fa8986884826	CM2\tezzeret's gambit.jpg
+5ccd56d91658b48cfd93fba1f1f37faa	CM2\the mimeoplasm.jpg
+06cd10225d03bd00ddff769391ce153d	CM2\thought vessel.jpg
+a0a29e4b51d2d7beb9abcbc606735057	CM2\thrummingbird.jpg
+ff412abefded3b4cab6c6935c42c7b5a	CM2\thundercloud shaman.jpg
+bfc88dba841fb0a2247a5ecebfcc9e6f	CM2\trading post.jpg
+0a8d46f981b6fab577f0d4968d52d6c2	CM2\tranquil thicket.jpg
+4d58c2178e7f466ce771cbcec06c67e7	CM2\treasure cruise.jpg
+6085d4ddb8ee4dbb9714f50570cc6237	CM2\tribute to the wild.jpg
+1060c7f393d99bb61f69eb9cd3e6a389	CM2\triskelavus.jpg
+8c366652b21ec9f7781d62aa374ec1af	CM2\troll ascetic.jpg
+0a91f8b6822b32dbf45caee18a7ef20b	CM2\tuktuk the explorer.jpg
+80e64373b0875d4f4a33cad928d95353	CM2\tuskguard captain.jpg
+efe39dadf3eed84c505dd61d3cecf56d	CM2\tyrant's familiar.jpg
+1d9a57aa773e2f9b328bdfff69a561b3	CM2\underground river.jpg
+47d8f60ac1b57a5a89a8188b7212fae0	CM2\unnerve.jpg
+3d3f571e6f23d81a86696b5f2fbbb1d5	CM2\unstable obelisk.jpg
+5e557de36b15541ded8c29d3c4323085	CM2\urza's incubator.jpg
+9b6af419c2a04975f82934b3b76fab27	CM2\victory's herald.jpg
+8da5bc46e8aad829ddd9eafec53829b9	CM2\vivid crag.jpg
+443cc49a72e9c863789a30cd23358283	CM2\vivid meadow.jpg
+b778f9e7daed0e9d4229b81b001ec7ef	CM2\volcanic offering.jpg
+433dd8af0700089c7ada2c293ee65cb2	CM2\vorel of the hull clade.jpg
+c88a698aa6abdd58e4da468be4f88afa	CM2\vorosh, the hunter.jpg
+cb45e28de15a024ce7f2f501a3f8fb88	CM2\vow of flight.jpg
+d6bf212b619cdce7a1c95bccd65d2b7a	CM2\vow of malice.jpg
+b2225f7a56f0936e06e6bfa68515839f	CM2\vow of wildness.jpg
+c1c7301432fbabd6ac37f53bede19bc0	CM2\vulturous zombie.jpg
+0ab0da8e4b8f88069c7b380a5e6920a7	CM2\warchief giant.jpg
+daaa2077ca2ea5c4b36e7b3ea0011945	CM2\warmonger hellkite.jpg
+e3bf70dc0cd98e4cde4d6f4fd780eba6	CM2\warstorm surge.jpg
+afed6d639cf165edfb1484df970df438	CM2\wayfarer's bauble.jpg
+af06e98cf8ce2743e6c1d60303342423	CM2\whipflare.jpg
+5943829f8c2d7eec40a48f890f4252b7	CM2\wind-scarred crag.jpg
+47f34d6d89a2e6154045031d280ac009	CM2\windfall.jpg
+5b902f2679e6bf820938144131b647f8	CM2\wonder.jpg
+120350ce4bd87fbb1f891271eae72099	CM2\word of seizing.jpg
+ce2d4e85b832b4a01d3a4c449cba21f9	CM2\worn powerstone.jpg
+367f4789869a4291870822daa9ae8107	CM2\wrexial, the risen deep.jpg
+d3483e688dece0965813424749b9dfcd	CM2\wurmcoil engine.jpg
+e3acc0a6cfb36a00d70e8a3f17e7381c	CM2\yavimaya elder.jpg
 6c56ffca299947982e3a03332772298f	CMA\Acidic Slime.jpg
 674cad54c9cefe4397643ffffdf25535	CMA\Aerie Mystics.jpg
 453590d36ba9ce6d30c1c2f72b2faeee	CMA\Aethermage's Touch.jpg
@@ -15428,6 +15997,46 @@ ba41550b0db6ab712efad0543a8e8258	GPT\Vacuumelt.jpg
 30984945ec4fcf2f5827fac7dd5b9b1b	GPT\Wreak Havoc.jpg
 1a12ca31e6ca77edf186b773e4d7ed7b	GPT\Wurmweaver Coil.jpg
 f8d28f61a22b87345eb45825393b8bc9	GPT\Yore-Tiller Nephilim.jpg
+f3161b767797bffc4b870a562a69c140	GS1\aggressive instinct.jpg
+55dbfc33912ab01f2cbb77efa041a7d3	GS1\ancestor dragon.jpg
+a9cfa3e3ac16ea624cdf2a48b91483fb	GS1\armored whirl turtle.jpg
+7cdeca9b48e5fcb893d1fac1fc916584	GS1\breath of fire.jpg
+1abbe14f2df1d3935b398395164e1d4f	GS1\brilliant plan.jpg
+910fd480501485356eae1d3cc8ee79e0	GS1\cleansing screech.jpg
+75dd682a1f267d072dee8d7e4be7ebd6	GS1\cloak of mists.jpg
+8acd52a7168e9022cf24fc623c708a94	GS1\colorful feiyi sparrow.jpg
+5455963185809dc4966a7e09b24cc7ce	GS1\confidence from strength.jpg
+73e28cf901522271928fb8106938adaa	GS1\dragon's presence.jpg
+8c769b788a2a3e83be7eb6fbaf0806c1	GS1\drown in shapelessness.jpg
+ad456e91efff492aee64a67b71130511	GS1\earth-origin yak.jpg
+d8d6dbb77aeea3f97de9d350ab42ca42	GS1\earthshaking si.jpg
+2431139f1b85a3f55efb9b837f84d164	GS1\feiyi snake.jpg
+34e17fb250c44593a57b40b2b6fe4059	GS1\ferocious zheng.jpg
+b04e899400e66ca2a8a06ca3fb1d4bff	GS1\fire-omen crane.jpg
+65e2e2961ac83da0815fad74634732fd	GS1\forest.jpg
+ff58062d4b45456659ab295f69f8efc0	GS1\giant spider.jpg
+858a5d7d68b6c1e5961c03b0aeaec707	GS1\hardened-scale armor.jpg
+f10c643d94ff7a9b6618bb6484d3d65d	GS1\heavenly qilin.jpg
+cb2f0b872c8f8bc7c331d058bc8700f7	GS1\island.jpg
+856fa30027787375f02d7dbb6973b953	GS1\jiang yanggu.jpg
+fe24dd3e1b498b4610187b4dff1af8d7	GS1\journey for the elixir.jpg
+1efe1177694aff7f5091797362816889	GS1\leopard-spotted jiao.jpg
+62b6b25f68d4b26218dce105de74460a	GS1\meandering river.jpg
+910fe4b1d6f89f8cf5f22510f77b4634	GS1\moon-eating dog.jpg
+5e04df0068cee3e68d5b1a1dad2e640e	GS1\mountain.jpg
+dc4f8837e5578f92a99dda045398e7d5	GS1\mu yanling.jpg
+46d4b4d0e56f75da482a9070a6258621	GS1\nine-tail white fox.jpg
+b5fa8f11ac7fdffc1c575e3e8229932c	GS1\plains.jpg
+542fd521e224e7c461c2d6713e180906	GS1\purple-crystal crab.jpg
+c44737b632da40ed62d399bd357a702f	GS1\qilin's blessing.jpg
+8a7df9c5cb5abf063dc97e8aef743272	GS1\reckless pangolin.jpg
+0edccb983cd51d0a8c222544ed7b8a8d	GS1\rhythmic water vortex.jpg
+672b486832a16aeb7c6eaa2687dc55d9	GS1\sacred white deer.jpg
+c0cc461e45137ae42a958dc671d054cc	GS1\screeching phoenix.jpg
+43ddf759cac589d265e1c232f9c3ea9b	GS1\stormcloud spirit.jpg
+29cb8f2626c14dea844531742059ccb8	GS1\timber gorge.jpg
+32c32424effb62491c67d1967c525e83	GS1\vivid flying fish.jpg
+82538eee6f5c3e9966edb3ddc4df1686	GS1\welkin tern.jpg
 ddb6af8f9c07bf7e89027ea957f39c95	GTC\Act of Treason.jpg
 414d47df6d5f5d1e3bf06d1e8ee91cc1	GTC\Adaptive Snapjaw.jpg
 86faf19516cd8a0317eaad0c23496986	GTC\Aerial Maneuver.jpg
@@ -29922,6 +30531,14 @@ ef2d71edcf01765bc604ef7b2583a05f	SOM\Whitesun's Passage.jpg
 5005e78d693b8950a4422178c92cefc9	SOM\Wing Puncture.jpg
 14f7851e7f0cc7b20897f5cd72d3d547	SOM\Withstand Death.jpg
 d5f94383fc5eaf64ad9a54259b2a20eb	SOM\Wurmcoil Engine.jpg
+6bb23e72e204e2f9f75447b3c8e31cad	SS1\blue elemental blast.jpg
+4321844842b6dc759382afb903608355	SS1\brainstorm.jpg
+4b62bf3795a724866bd53b488342d065	SS1\counterspell.jpg
+b05e6e1e2ddae0859167c0f81ca33122	SS1\gifts ungiven.jpg
+f212cf4ea69899977f0fe4e2c9c3f193	SS1\jace beleren.jpg
+676807922dad982f8065ee2d57174728	SS1\mystical tutor.jpg
+37cae31de95b4b7ee657df3619507880	SS1\negate.jpg
+1f8406ce4b73b1d1357c9766bc46f06d	SS1\threads of disloyalty.jpg
 e261a68ce45bedf54ebd1795fca07692	STH\Acidic Sliver.jpg
 8317a277fb681e7e154464f9ef3610c2	STH\Amok.jpg
 3fd0bec6dfd182f9524ac95413b2fc24	STH\Awakening.jpg
