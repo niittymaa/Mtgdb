@@ -5762,8 +5762,8 @@ c3415d373b741e9e823d6c34b6b7ff50	BBD\relentless hunter.jpg
 7da652b14d1c23ae2549997956f57df3	BBD\rhox brute.jpg
 6a145595e240b71fa6eec3daa7bd6b71	BBD\riptide crab.jpg
 6f53c627040de1b52afd85c522223b7a	BBD\rotfeaster maggot.jpg
-7a423bf22b23564955cc4a9e76df6cea	BBD\rowan kenrith1.jpg
-8f93bcbc149df467026124d163204d27	BBD\rowan kenrith2.jpg
+8f93bcbc149df467026124d163204d27	BBD\rowan kenrith1.jpg
+7a423bf22b23564955cc4a9e76df6cea	BBD\rowan kenrith2.jpg
 7fbe5cb367d77ea6f152b4101cfb6f02	BBD\royal trooper.jpg
 514e1bbbb96a280dc6281693dae77351	BBD\rushblade commander.jpg
 74be5af6410599f74503dde8cff7fecc	BBD\saddleback lagac.jpg
@@ -5830,7 +5830,7 @@ ff52e0cbe4f142ed90b6fda43930c832	BBD\virtus's maneuver.jpg
 01b5c866e3bc44ce8a6cb1ef4f0e5443	BBD\war's toll.jpg
 c73872caab9f45fe5622b763926ecaec	BBD\watercourser.jpg
 0c88f4456489f5e653140d5475ff6ef9	BBD\will kenrith1.jpg
-524f61b99d78fc91b18463767fe81195	BBD\will kenrith4.jpg
+524f61b99d78fc91b18463767fe81195	BBD\will kenrith2.jpg
 ae7f0366de741780a916f9e4ff5fd59a	BBD\wrap in flames.jpg
 6e333d0df79547a1034122da9b237608	BBD\yotian soldier.jpg
 4e20a9daeba7b1871f8d96ee6b268f39	BBD\zndrsplt's judgment.jpg
@@ -21888,6 +21888,321 @@ b1b866acae3a1a5ffefa10801fd4fd35	M15\Wall of Limbs.jpg
 81da90c731442d16e96fc2d01cae7c7c	M15\Yavimaya Coast.jpg
 5dfb615539e3b876a98bb553d6d9600a	M15\Yisan, the Wanderer Bard.jpg
 59935b03cc5c809a774b2440ab0b18a5	M15\Zof Shade.jpg
+5fe0370bfd2153d86e8e4863357b5a74	M19\abnormal endurance.jpg
+285c3c06799aced479021683885866bf	M19\act of treason.jpg
+8409bd4f33194e952d2c59b2c815fa7e	M19\aegis of the heavens.jpg
+46f39b97b4afc61c5cb61f8dba6faf7b	M19\aerial engineer.jpg
+94d70c8222e93b3c118bfd04157fe793	M19\aether tunnel.jpg
+6bac73791372839016e734530985ee27	M19\aethershield artificer.jpg
+3d1773d566109e063129f49463a7f106	M19\aggressive mammoth.jpg
+3c5670658469aa3685f97b5736cdd832	M19\air elemental.jpg
+cda2dbe7d398166256b1c3d0c5086afc	M19\ajani's influence.jpg
+effe08622de85251994d188bdefdc85d	M19\ajani's last stand.jpg
+a543649de00c7fd96e07c800a712b6f7	M19\ajani's pridemate.jpg
+3446c90dd4d57b3ba11c478859fbac9c	M19\ajani's welcome.jpg
+014d66937001dc8d0d14890658ca2d94	M19\ajani, adversary of tyrants.jpg
+b98c7dc8cdd4d33bfa880367eef77226	M19\ajani, wise counselor.jpg
+a13b9dcbf9735e9c16b4341ae864787f	M19\alpine moon.jpg
+5cf77a69bf86da8651b4e4cf7c4bfcbe	M19\amulet of safekeeping.jpg
+4dc4fdb7a7faf1e133539ba5fe8302e3	M19\angel of the dawn.jpg
+6377c000f136f2ad74b57aeca3189e48	M19\anticipate.jpg
+4ddfc8042bdf3dcc7f229e05ae1d0e93	M19\apex of power.jpg
+28cde4eda1792917a7e567864646ec3a	M19\arcades, the strategist.jpg
+67073631403a784f079eee0b7783f8ec	M19\arcane encyclopedia.jpg
+81d44541391fd3f8d8698911fe9c666b	M19\arisen gorgon.jpg
+fa2b4dae70360ac58e21e7c05e93beaa	M19\aven wind mage.jpg
+56fbfd6fc78c599db4ca3690d66b9472	M19\aviation pioneer.jpg
+1fa449a5a97fad3f2d700dff762d74f7	M19\banefire.jpg
+1fa20164030a64a55a30b57c5c63fa66	M19\befuddle.jpg
+ed75b4c7b59e520d1f9a032fb9803cf9	M19\blanchwood armor.jpg
+5712334a2edab2d50cdcc4e3b23e1be3	M19\blood divination.jpg
+c9087ac6388d6ce1d1c2d7ff7ccf954b	M19\boggart brute.jpg
+b35014ec92ce051de97707cd3c26e956	M19\bogstomper.jpg
+e796173d6c75b762c9c6e2a4f860349f	M19\bone dragon.jpg
+ae669d8051cf45a0bf2cb24bb4b34db6	M19\bone to ash.jpg
+0c753537bbdf674416c86c5d5a817e64	M19\brawl-bash ogre.jpg
+7001be6b751f9a3ec550135aec706f12	M19\bristling boar.jpg
+b4ce0e8a19d035815234027dddadfbe1	M19\cancel.jpg
+073c1891ea99b3ea145c519d10464d82	M19\catalyst elemental.jpg
+a9130a8a6af87c78440d8a460c859740	M19\cavalry drillmaster.jpg
+e9abe796b9e68cbdf87e5ccc76646c09	M19\centaur courser.jpg
+838b8df066562695d6ffd9c38045b705	M19\chaos wand.jpg
+c69be29e7f6c6f25b18fc3d932cf910f	M19\child of night.jpg
+3393640695f82cc75bfa4a15fc393a52	M19\chromium, the mutable.jpg
+ea1fc14b1ffa13bd520de49099039ca2	M19\cinder barrens.jpg
+eb77005c25ad3dd8fe07084dc0e45f93	M19\cleansing nova.jpg
+91a08c1bad9091a78a390fcab40d98ae	M19\colossal dreadmaw.jpg
+4c5035055c90835e2c0ce61a0bf3d9b8	M19\colossal majesty.jpg
+37207c62b3497cafbef08d0484335f24	M19\court cleric.jpg
+9ddf707abbc10f5b21804767d02f31bb	M19\crash through.jpg
+836361bb4c894bae5a2a520ebcc474aa	M19\crucible of worlds.jpg
+67b096a92b1e6423a077440ec9c2b45e	M19\daggerback basilisk.jpg
+de0b1bbb77fa5d8d91a719c4784d016d	M19\dark-dweller oracle.jpg
+58cb02fd41bec31f2809f4382fb13310	M19\daybreak chaplain.jpg
+c8e8ff241f9124e8dac91d74a079070d	M19\death baron.jpg
+4a81426db85265bf987d3383fb34a33a	M19\declare dominance.jpg
+ffd084400e5c51d07639ee9a0f853c53	M19\demanding dragon.jpg
+d8edd8d61e9e48b55b1ecff765f06ea5	M19\demon of catastrophes.jpg
+00471672e88694f4be9d7e55c39d7e8c	M19\departed deckhand.jpg
+e21810063d2edd0bfe95057381367423	M19\desecrated tomb.jpg
+659ea7de057b6b2dfcd60f41ceda1f98	M19\detection tower.jpg
+5cd6ea1719797240f18d208707a286b1	M19\diamond mare.jpg
+047a3d5402de907eed9a0176d1b77cfa	M19\diregraf ghoul.jpg
+44c5e27526038488f6ce76f2f54730a8	M19\dismissive pyromancer.jpg
+bac41449e149614b75cd545edf693055	M19\disperse.jpg
+3323d6425656b24058d0783d8f4cc7cf	M19\divination.jpg
+7d94ff473a296eac9b007e0bef607be5	M19\djinn of wishes.jpg
+8e491a1732cc9f92fa7ce3692a52a3f0	M19\doomed dissenter.jpg
+5d6691fb4b0fee7ff8fde02c8bd81222	M19\doublecast.jpg
+f249069a740df5887cbd84143ce22111	M19\draconic disciple.jpg
+b1acc40cdb66d655b2b4f36468fb39d5	M19\dragon egg.jpg
+3c99873371b08cb55c8bf23aa5a2c0ca	M19\dragon's hoard.jpg
+c2afbcb70339369380f7650521d78dfe	M19\druid of horns.jpg
+8e81b7c89e6f64e9c8e11a776d48b5d4	M19\druid of the cowl.jpg
+366297b594a4ee445e5e6b27a471e19e	M19\dryad greenseeker.jpg
+a176149af8ce44943d499c196ae0fc18	M19\duress.jpg
+f3b59c18c0d620faee9b07c2b15ddd16	M19\dwarven priest.jpg
+66ed9b33a4066f4237d4c506904ae50d	M19\dwindle.jpg
+49199d2cfcbb91db74eff48ed0831416	M19\electrify.jpg
+41851fe6a08db9bce9edfdb8ddb18c9e	M19\elvish clancaller.jpg
+ed40cc3704110f45985ff198c2211021	M19\elvish rejuvenator.jpg
+d6e019c7fb106f30198664105b51651d	M19\enigma drake.jpg
+551e372df2b9c77fab4af66d704fec9e	M19\epicure of blood.jpg
+6ec4f3988da019312c94eaacb795f636	M19\essence scatter.jpg
+d2fe4a9a7875927da982f6ab0427c9eb	M19\exclusion mage.jpg
+e5e4281f93d97b810484d9e6648d561b	M19\explosive apparatus.jpg
+85bf68c885a232eb08c566bda9342977	M19\fell specter.jpg
+421b243f12e90f8eb01db0621daf8dc8	M19\field creeper.jpg
+67204f77c2efa1588b1ca6e607f39591	M19\fiery finish.jpg
+52471cfe78a3d52973c7317cccb462f4	M19\fire elemental.jpg
+640817f4ad5458bf1e7e6c475705acbb	M19\forest1.jpg
+6a442aa64651a2149169a40f0e19c062	M19\forest2.jpg
+3ff53f3e35e67779dea924c21093937a	M19\forest3.jpg
+e2d2240cdc864dae6520650f0ef504be	M19\forest4.jpg
+29242732ae659e39cc89b9f378d57f55	M19\forsaken sanctuary.jpg
+6a67bb1517678d2632c34cbf29d56bd5	M19\foul orchard.jpg
+afc7b2bb879b48bff6a70ff85d537fbf	M19\fountain of renewal.jpg
+8bfd818d3ced1ea33e31ed469a2bb148	M19\fraying omnipotence.jpg
+73c12c5e12a1ff169ee209549709d954	M19\frilled sea serpent.jpg
+954434b8d7f83f01466761e79434735d	M19\gallant cavalry.jpg
+c328a6045c3777c807fcca47b3a8e31b	M19\gargoyle sentinel.jpg
+6f2a49d6b0ee07396eb2d4a40e809c23	M19\gearsmith guardian.jpg
+492d7a023b4e6a9f1f1d6a681f0af785	M19\gearsmith prodigy.jpg
+72a4cad351df61f80229e1ec07b58795	M19\ghastbark twins.jpg
+a1a34bb11b306e4ba49caeac82c3e9f8	M19\ghirapur guide.jpg
+2e6026edf0e7baeae9dd6c6a20a5a39d	M19\ghostform.jpg
+4b2ecb4a52c0e2056139cf89a5e51964	M19\giant spider.jpg
+ac2b658ffe0882e209361a29a9f8b05f	M19\gift of paradise.jpg
+97c4d83d3b89e13c4b2c21a4447472e5	M19\gigantosaurus.jpg
+5ac97b8904f22d7972a7fcc6b5ada9a6	M19\goblin instigator.jpg
+f575aad69cb1aa670572b1e30f872243	M19\goblin motivator.jpg
+02a36f80dcf9c2751a20b117516d4441	M19\goblin trashmaster.jpg
+ad4fc357717b1f5d6a16b0e5b7f34405	M19\goreclaw, terror of qal sisma.jpg
+2d8a69bae2fc755a54b94d8fcf4be4f5	M19\grasping scoundrel.jpg
+382be65bb97e7e30504b0a0a4740dbc9	M19\gravedigger.jpg
+5f439c9d28f2519ef22350a54ccddff5	M19\gravewaker.jpg
+e9e6fec68879385fd5980163d757ff53	M19\graveyard marshal.jpg
+99f027dab6c7eb7cdab62102f4507c7e	M19\greenwood sentinel.jpg
+e63fc6086e71623ad620cc7358b06124	M19\guttersnipe.jpg
+9863909953a30d9fffb45d4599e8244d	M19\havoc devils.jpg
+b719da6a1dcb96f77b426535d8c9b545	M19\herald of faith.jpg
+bcfd082f7509d56b3f3366e3af122a70	M19\heroic reinforcements.jpg
+998e326b77eb4d4ef663e2cbddad5129	M19\hieromancer's cage.jpg
+702d126308615f8ce2deef0a75e37f0d	M19\highland game.jpg
+0fb6a778642b3cc894770e60f0297d2b	M19\highland lake.jpg
+a7bd01871b630ce83e6a47976aaa7c4b	M19\hired blade.jpg
+6c23a773c05594e7c2a8da122751f64e	M19\horizon scholar.jpg
+cbfb865b05e76ba1ddf59503033aed09	M19\hostile minotaur.jpg
+7ae45a669c7b060a7164cc7d60166e47	M19\hungering hydra.jpg
+8099502c292e2f8bf593538157b0bd05	M19\infectious horror.jpg
+b237fe2383914fd61596262cf239972e	M19\infernal reckoning.jpg
+5f8991643615a239f92d4b9b09e36c0f	M19\infernal scarring.jpg
+0438dc6e8ec810d47150ded7efc3bb97	M19\inferno hellion.jpg
+9057d5cbcc670fee2ed7cf6d9e78febc	M19\inspired charge.jpg
+1e191b8b5a80b830bf0229d7ba46cafa	M19\invoke the divine.jpg
+a16720ffb09e05d2fc12518839a607a2	M19\isareth the awakener.jpg
+ad55519ae24601497b963082fd47d7e3	M19\island1.jpg
+705482043076f33dd665ea8c80aae2ca	M19\island2.jpg
+c2d379627f59284fa12b80e4ab22341c	M19\island3.jpg
+00bfa0f74e1252773bf507c4e4ddf45e	M19\island4.jpg
+19b246725091887f6b0eaba94ceb323a	M19\isolate.jpg
+2741186ba23d6163c7adbf317d0907d2	M19\kargan dragonrider.jpg
+473329e1a17e4b456dc9b72fa4bf20ff	M19\knight of the tusk.jpg
+7a2468c1fb19cb5ee57ec196656cd64e	M19\knight's pledge.jpg
+bb339b7d27e5c19196a124dda0ad20b4	M19\knightly valor.jpg
+02bcce592a3efcf055e1222dcb0f273c	M19\lathliss, dragon queen.jpg
+e2aa8b19bdb730439a10a299e4fd57c9	M19\lava axe.jpg
+e2f69c667697a6a04ab6e6f9264863ea	M19\lena, selfless champion.jpg
+eb522f2437870f613fa2af3f2d1d3a7b	M19\leonin vanguard.jpg
+44b88a23763d47ae1f4adfdca134a432	M19\leonin warleader.jpg
+70af732569897b15a9172ca5167fe299	M19\lich's caress.jpg
+4ce705b592df7f73bcbc042029a11485	M19\lightning mare.jpg
+7c4848a0001122fcd7519b694f84830f	M19\lightning strike.jpg
+86de6d04a453a9f82032f53af623c291	M19\liliana's contract.jpg
+f34da8deec8da2c354c7eb006f04765f	M19\liliana's spoils.jpg
+74f33c84909e2e5f6325def43c503328	M19\liliana, the necromancer.jpg
+af8eb88c5b0eaa265d95feb7ccca767b	M19\liliana, untouched by death.jpg
+027821e22bd36fa46f57fae15920ae92	M19\llanowar elves.jpg
+2a331517bde42ec35c2ba2bf2e9a20c7	M19\loxodon line breaker.jpg
+924afefa9cfd0adc4a23a31ce2116d59	M19\luminous bonds.jpg
+4011678cc49f6ee2979597fb41f4a1fd	M19\macabre waltz.jpg
+c70322d869bd653d946ad9042efc2e15	M19\magistrate's scepter.jpg
+acf6fc511c9cd398bbe4c291bfdff730	M19\make a stand.jpg
+4e13465603310d878596b036f3fbe00a	M19\manalith.jpg
+8a0c0a734ddf382f10e2155310018273	M19\marauder's axe.jpg
+fc127b57835cc2fb20035e0d30752f2d	M19\meandering river.jpg
+402c6f7bc320fbfb9fed7205a1741b90	M19\mentor of the meek.jpg
+347cac6a9ae8124c7f1e0c79156a90fc	M19\metamorphic alteration.jpg
+1304be875f60468a6f740764cea311b2	M19\meteor golem.jpg
+f9dac6192c13eae76156294b4882339e	M19\mighty leap.jpg
+67dd6395c0dd2d7b34a8d20e4c1d1629	M19\militia bugler.jpg
+4a2648318a6f0f5873c4ea180f11fc2b	M19\millstone.jpg
+4f406ef536adcbeaf785d0478f9d206a	M19\mind rot.jpg
+2a777c0cf052563fbf442371701cc6a9	M19\mirror image.jpg
+bd0b62368915f0fad3f0753210c67559	M19\mist-cloaked herald.jpg
+6607b0510237cc74232c4b718e587c75	M19\mistcaller.jpg
+6e159d44e6356d081d6a7762305b6172	M19\mountain1.jpg
+c3ce90770d3ffcf520f7f23ad5461bca	M19\mountain2.jpg
+414824c0622683e910831683faaae5e2	M19\mountain3.jpg
+0095b9060cbc6b83aa42651554350297	M19\mountain4.jpg
+750564707efe60c7fbf56f4a22a919a3	M19\murder.jpg
+5423b1c42f40bc948fc0f5af2b5af8ea	M19\mystic archaeologist.jpg
+4f65ed4ade947ba746a30bd7595d1918	M19\naturalize.jpg
+7941ebaee3b99f0f8d846261252440c5	M19\nexus of fate.jpg
+ab7e7104893a3a160cecf06e626623df	M19\nicol bolas, the arisen.jpg
+28fa097db5d4c3bb957fbf15c8c8164c	M19\nicol bolas, the ravager.jpg
+66261616c3a5902dd1d73c05ffce5eaa	M19\nightmare's thirst.jpg
+e234ade86523fe7cf63ae694e443f4f3	M19\novice knight.jpg
+aff257dcc084cf0d6970554896c814e2	M19\oakenform.jpg
+63c452525019d7d9c4966a5e31980b4d	M19\omenspeaker.jpg
+ff3997836e1b160ddcaebe70c649dd13	M19\omniscience.jpg
+11dfab6bfa1d29b02a59636c1f80e193	M19\onakke ogre.jpg
+2fc5e226b7a3a7fb391303935c068f8b	M19\one with the machine.jpg
+90702c4899770986e15ea62a6bb813e6	M19\open the graves.jpg
+682f4dddf75e49a31ca1cae9329b449c	M19\oreskos swiftclaw.jpg
+a1c0f82ac915e56c7d90ced6b5cad147	M19\palladia-mors, the ruiner.jpg
+aecf168a5039337da3d559abba44c32a	M19\patient rebuilding.jpg
+ae0b8170aa4e7b1f4a34555a46ae64c3	M19\pegasus courser.jpg
+05cc615bd6d5246edd36d57b483d00cc	M19\pelakka wurm.jpg
+c3f2af862485e20dadcda1f03e53923c	M19\pendulum of patterns.jpg
+2b2f3eaf68bda8bfb405a2687f7a622c	M19\phylactery lich.jpg
+d3d9f0d4a4b83e76e26f386c29654c2f	M19\plague mare.jpg
+c8a2d7e95f05fcc02ed7b337c2afca08	M19\plains1.jpg
+c59500b7c4c77cee494959bd2bb6e7fd	M19\plains2.jpg
+a3bb1fd36dc72eb736bae8414a82416a	M19\plains3.jpg
+d5cf49c9533b7479d00f1cf0cc0e1712	M19\plains4.jpg
+4540862bc28b006d16cbbda9d52b1b52	M19\plummet.jpg
+1edf4a1256d1fc708f397ec6439a808f	M19\poison-tip archer.jpg
+def62536e628caebfdb8a5678dcfcde1	M19\prodigious growth.jpg
+b6b924fac73442bae4f76802a30b6a7d	M19\psychic corrosion.jpg
+b7939bc9308c1977e97456d1c3aee491	M19\psychic symbiont.jpg
+b92c9fd293271688808aaf2469dfc658	M19\rabid bite.jpg
+d77d7f05a55dccbe8c140da859b0a938	M19\radiating lightning.jpg
+df2c2b1b295b25f56cc7026072456241	M19\ravenous harpy.jpg
+bc79cde8a97396cb18c56806c74c193b	M19\reassembling skeleton.jpg
+93bea5892aba82d786d72c2d93f83b49	M19\reclamation sage.jpg
+4fadbb7f3c70e08db9bdd0e9e648ade5	M19\recollect.jpg
+986cab67570a9fa23f383dfb88ad1fa8	M19\regal bloodlord.jpg
+9e0e6eb41efa7e54defa0ab67c0c5439	M19\reliquary tower.jpg
+215477f71202fe9ec370cf76469388f9	M19\remorseful cleric.jpg
+d259a2c195e81e640b831f75d2ff5284	M19\resplendent angel.jpg
+f84ce157fdb6b018fb0c3776dfda308f	M19\revitalize.jpg
+c8de8945c41d4c3ad59fd7801c2d59da	M19\rhox oracle.jpg
+34a9f2b8833328a25657798123167b47	M19\riddlemaster sphinx.jpg
+c7e17875c14b5b8a25bb1ba7e37faab5	M19\rise from the grave.jpg
+1d7e39f6ca2db7c1635a341a57f04b91	M19\rogue's gloves.jpg
+db4610482add13633a517ad1b738891e	M19\root snare.jpg
+1ecefaed07973e546af3858a38046ce0	M19\runic armasaur.jpg
+3d92e7dbd776e19b6dcb1385d8ddb5a4	M19\rupture spire.jpg
+1feeaf495cbfbe9fc1a52c055965d974	M19\rustwing falcon.jpg
+85118a5c32ab818393d3b28615f126a1	M19\sai, master thopterist.jpg
+493f03ef7b58c58f82d86f301540e10f	M19\salvager of secrets.jpg
+91b543b7b226a5290087b903c11cf318	M19\sarkhan's dragonfire.jpg
+915e0cfda90dbe9dfe4d4526a10b232c	M19\sarkhan's unsealing.jpg
+da90283b4e05abe1ee35855131c46c2c	M19\sarkhan's whelp.jpg
+dbdd4753b62d04cf870f413ddc175d8d	M19\sarkhan, dragonsoul.jpg
+bf3e95b20d17f9e6efcb6400d15a4566	M19\sarkhan, fireblood.jpg
+de2feb8ee1489d7c205907789aa51025	M19\satyr enchanter.jpg
+a00f4aad93a4a9c9b18fe34b2e69ddd4	M19\scapeshift.jpg
+78aa0272edf5b637f428e989e4438432	M19\scholar of stars.jpg
+33d3128dcc7b4b41f6cb1f2a4e732710	M19\serra's guardian.jpg
+5f5edf96719840fd1a7855acbf508377	M19\shield mare.jpg
+c4d00062f5605691a1d4b0005c5cc2e2	M19\shivan dragon.jpg
+27483b280990ca6cc2df8a73a3e428d7	M19\shock.jpg
+ceaa87bcd7ef99d54818f320bc2a8752	M19\siegebreaker giant.jpg
+e190ef7bf51aeb5325b0c9abe216105f	M19\sift.jpg
+eb7a43a668b89cb702cb05a03966c06f	M19\sigiled sword of valeron.jpg
+2269d5a6bf4e37c3b8485a48ab754c29	M19\silverbeak griffin.jpg
+13909e3e662c08e59a68bed18cfa62c3	M19\skalla wolf.jpg
+8db17ca9976bf13599afcd42717c4709	M19\skeleton archer.jpg
+e8d3a5a3c52041a406afd7c35d61964a	M19\skilled animator.jpg
+634ab0baa05287562a2571952d0708d0	M19\skymarch bloodletter.jpg
+b0bf8ac1a8332f7491c2bb9d3b7c92f1	M19\skyrider patrol.jpg
+ae473b92c7d14af6c29db022f12d52c7	M19\skyscanner.jpg
+3f1d6f0420377ff8e51d48b8489d8f35	M19\sleep.jpg
+1e7752ecab79c9ff7e1becc1caa3eaff	M19\smelt.jpg
+6be738325de22f3951f5e16cc18706b7	M19\snapping drake.jpg
+52e6937e425326d0bff7948d2de23d30	M19\sovereign's bite.jpg
+af73246fcc9c30d2523a5db27d62377e	M19\sparktongue dragon.jpg
+67ec2be0d445e5ff726af811beb46313	M19\spit flame.jpg
+5d64d5d48786d6ee6090f727957f94f4	M19\star-crowned stag.jpg
+10d9ff53c25a788c944a249d2cb3b207	M19\stitcher's supplier.jpg
+b6819a69045a65219bc7ab3c26a0c9f0	M19\stone quarry.jpg
+826a5d33ccd19f9c4dc79425befe47b9	M19\strangling spores.jpg
+ae7ba83fc389a8b858faf661a07a721c	M19\submerged boneyard.jpg
+28f4e009bfab7b228d654d59e8b61af0	M19\sun sentinel.jpg
+5d2952e42ed4b63a39b6d30293f6526f	M19\suncleanser.jpg
+85d470b36746968f47c70055946dde6f	M19\supreme phantom.jpg
+664af3d4c39a98f993866e67bbcade5f	M19\sure strike.jpg
+2ff7f148359d469811cf3cca9d161519	M19\surge mare.jpg
+c59dd1f5d2c40b324c19f7bb6bcef44a	M19\suspicious bookcase.jpg
+f99da53bd247560d668a0575bd28b92f	M19\swamp1.jpg
+1a8b968031a7cf46301df76f5ef1af16	M19\swamp2.jpg
+5aefd3376b0d3795d09fde78b334bb5c	M19\swamp3.jpg
+1fa57616cce71ba665a37b18570bbc39	M19\swamp4.jpg
+6e5ebbb2540dcba842024e10bfd9927e	M19\switcheroo.jpg
+51fd0971367e6afde5487eeb516a738e	M19\take vengeance.jpg
+94f44b8fa92120d3c4678bc177d97f6f	M19\talons of wildwood.jpg
+285c23d3fbb24fd0f1411ce7645b57a6	M19\tattered mummy.jpg
+c3a1a1478bd1a2e9b19ee9ed06e1d709	M19\tectonic rift.jpg
+0841d3a138f0dada7ffe19e45e03f3ae	M19\tezzeret's gatebreaker.jpg
+b74186036b5cf9d15f4b736d1fb9e5b9	M19\tezzeret's strider.jpg
+cc5ac60e01bb13030ce5340a278cec39	M19\tezzeret, artifice master.jpg
+28d8e456418d34172ff6ff7e3d89b4c4	M19\tezzeret, cruel machinist.jpg
+99858a691c864264f856d6aa0edff325	M19\thorn lieutenant.jpg
+2e30a04f5bf1fabb8c0c2335e03fb442	M19\thornhide wolves.jpg
+41c4d0a52f9e6af4aabb0b8fba302288	M19\thud.jpg
+efc821f53de7bc2c6f44d7c608824cd9	M19\timber gorge.jpg
+53e880aa8f2c94c9cdec0b4f7d5fcb33	M19\titanic growth.jpg
+239a211efab7b3bc4a0e0153f2813dda	M19\tolarian scholar.jpg
+aa24031d23e2164132d8bc6034c52ad9	M19\tormenting voice.jpg
+2b9caa7ecb4e864d196812defc47e1c0	M19\totally lost.jpg
+b9b16a02c3eb1538e6ce53c96dbc78e4	M19\tranquil expanse.jpg
+22efba7c7a3f547c3e69eea85bf9d06f	M19\transmogrifying wand.jpg
+dcaae9fa1a8a093c5095fa4f9a44dbd8	M19\trumpet blast.jpg
+fda90dba218c40f986fa6dafd6ab2fef	M19\trusty packbeast.jpg
+f87db2981863e6ab4cbb3aac19e08e35	M19\two-headed zombie.jpg
+5dd97f094cff7fa8be6d0eadc4b97bfc	M19\uncomfortable chill.jpg
+a392c471e70625e89a102a53cdf46652	M19\ursine champion.jpg
+7d9cb0037902514841e867e6295b75ab	M19\vaevictis asmadi, the dire.jpg
+8a759eaabfa3ef7e2119cc4adbef082e	M19\valiant knight.jpg
+410c7842076e0a8e0a5efcb606d61de1	M19\vampire neonate.jpg
+cd3a5bb0fddb21a19b6288a82b90643c	M19\vampire sovereign.jpg
+092883f2f9c07b1595af3105333ecaf2	M19\viashino pyromancer.jpg
+e4be770a553cfb069099be0ef4c1dd20	M19\vigilant baloth.jpg
+c26c6042fff9f60e010645a1dcdc1ccc	M19\vine mare.jpg
+cef7068ba6c0ed5215cf568d821dd74a	M19\vivien of the arkbow.jpg
+58c7b584da4be3198774514865e74266	M19\vivien reid.jpg
+4a2b5e36f08e50e1e895b3a96a6e7eaf	M19\vivien's invocation.jpg
+83318b17d18dbd58d5efa50a77b91311	M19\vivien's jaguar.jpg
+6ea09f92548a74cc643c8bdd3f75f14a	M19\volcanic dragon.jpg
+65bd8cf2e0609bd197fcf1d9d60e8bf0	M19\volley veteran.jpg
+6be2c8cf2fce28b34827a4831baccb5a	M19\walking corpse.jpg
+d221f75f082126c373336d2c59d0ea13	M19\wall of mist.jpg
+b3ba71619866f26cc3bcb574e91e9730	M19\wall of vines.jpg
+52f3c498a4578088ef6560428cf51633	M19\waterknot.jpg
+89fe637cb3303d712fa0594c6ff32f1f	M19\windreader sphinx.jpg
+765c44af233728ce607efe5bbd1db686	M19\woodland stream.jpg
 dd18d91bfd186f44f02ffe566e1b94d1	MBS\Accorder Paladin.jpg
 82d0a58343aaad5b9aaacbab4a1b4776	MBS\Ardent Recruit.jpg
 476046a5444f53e1e379849da52149c6	MBS\Banishment Decree.jpg
