@@ -8385,6 +8385,314 @@ df530eeca3c2211c5ad21120ff0fbc0f	C17\White Sun's Zenith.jpg
 88a7fbf35e5ba50e46dfa3fb7f5511dc	C17\Wing Shards.jpg
 9913dcf70d7676f55f8330df17cc33b6	C17\Worn Powerstone.jpg
 1afc55e181594b3884094afe33b12b4b	C17\Zendikar Resurgent.jpg
+f496032725ccba582783781cc6551c53	C18\acidic slime.jpg
+a39da3f90231531b2b86de831c262489	C18\adarkar valkyrie.jpg
+af10abe76974e63a72e8eb638e5024be	C18\aether gale.jpg
+420f1d534eff8f17eca86da7dee72425	C18\aethermage's touch.jpg
+2bd900f361446f9ab555016a54681a07	C18\ajani's chosen.jpg
+7f670aa368a2d7e07c1088cbc78c8604	C18\akoum refuge.jpg
+6ee4391c91b211b095a14171dee3225b	C18\akroma's vengeance.jpg
+5d8c83b4b053ab259eae0f268a16fcac	C18\aminatou's augury.jpg
+2ac09b90600431fe7ea421876bbd361d	C18\aminatou, the fateshifter.jpg
+3e3b5d372c254f130c6c0632e46cd2c7	C18\ancient stone idol.jpg
+e68c3be8a8038a01d5f4f088996b9436	C18\arcane sanctum.jpg
+a028960aebd8bb44ca4e7ac6ddf228ce	C18\archetype of imagination.jpg
+f1b2033ba83042e9ba764a338e837044	C18\arixmethes, slumbering isle.jpg
+91b920196beb9b6389c73ddad9bddc12	C18\army of the damned.jpg
+546e4662b52a65c3aaddde6cf3cd7e8f	C18\aura gnarlid.jpg
+99169ce7e957fb531beaf1e8cb9c1fa5	C18\avenger of zendikar.jpg
+ee2eb1cd7d00e16081011415f75b8586	C18\azorius chancery.jpg
+92f54e419f5b96ab6a4f73be3bb42150	C18\azorius guildgate.jpg
+e27a85cc6c74b7181c03009ec5257d2d	C18\azorius signet.jpg
+9416e27065ea12d9d8b303560ae9f028	C18\baloth woodcrasher.jpg
+e014435a4dd7a71e7296e511ee1249cf	C18\banishing stroke.jpg
+d65d35cfa6823d15e7c904f6574004a2	C18\bant charm.jpg
+23191b0fd85a2f12bed53dfd31ab3873	C18\barren moor.jpg
+c072e3f290a2dadbafdd66ca68a21e3e	C18\bear umbra.jpg
+cf14b6258c8876a47f44ffa8164ab4d7	C18\blasphemous act.jpg
+93a9ecfe8ca22e1d396bd0c0c4460dc3	C18\blighted woodland.jpg
+75ff06694610e0c0f0d98eb1333f6b0e	C18\blinkmoth urn.jpg
+8a87637ba1efb7690da07fa2559744e7	C18\bloodtracker.jpg
+5f50e3c775387250602d924ee4426d13	C18\blossoming sands.jpg
+dddad554be0fa3e5d87af6c65f27b8d7	C18\bojuka bog.jpg
+5b1f33828efca098e4552b6d1cec53a0	C18\boon satyr.jpg
+03621d8916e6500d24b1a7cc546655ff	C18\borderland explorer.jpg
+40f1a7c26f4a21ecd93f2e819304e601	C18\boreas charger.jpg
+7879e36b59cb624619645063e148421e	C18\bosh, iron golem.jpg
+3f19351cf4420b364abb89abbd9570f2	C18\brainstorm.jpg
+b851bd13b31de148064696f7580712fa	C18\brudiclad, telchor engineer.jpg
+26b0d31244d60cbbadf7531c453daf46	C18\bruna, light of alabaster.jpg
+a5e79bf0138d8ff37fae8e846d32f9d5	C18\budoka gardener.jpg
+782ab62c78122f02fa52ef8ff51c8f6b	C18\buried ruin.jpg
+f5c535674b2a5eeebc0b935bc387c6ca	C18\celestial archon.jpg
+1bc9c5ae485a1b105ff299e95b8a693a	C18\centaur vinecrasher.jpg
+61af54b6efc79cb68a36e753b6d9eb05	C18\chain reaction.jpg
+14ec066db1b8aa40674aff10bd4bfc44	C18\chaos warp.jpg
+1180d302bea17281cc4f369f8a079607	C18\charnelhoard wurm.jpg
+42afafbfd2deb323aa46d2a42a20bda5	C18\chief of the foundry.jpg
+10d6a20ea20b2810a63e4579dc99f281	C18\cloudform.jpg
+93b9f3224357e0909e2f0510f3272672	C18\cold-eyed selkie.jpg
+cc467325a372586728e92463b49ef31d	C18\command tower.jpg
+1c4af489f677547b7f1bda6dcdc09ff4	C18\commander's sphere.jpg
+b6ae399421e10aae9ddab0f53afb7041	C18\consign to dust.jpg
+7781fd4af1c85f7b37fe6a54609cded3	C18\conundrum sphinx.jpg
+5d6fb0b20549eacba6d9d3b7a38ddc49	C18\coveted jewel.jpg
+eb80ed0e67d75758f66aca97dbb3efef	C18\crash of rhino beetles.jpg
+4ec3ed80d02e5cf56591eb5eeb8090e9	C18\creeping renaissance.jpg
+56ed70073f9da68870bc0056dd77dee4	C18\crib swap.jpg
+4d2a0cfc539e10a6bdd31e3dd160c19a	C18\crystal ball.jpg
+e21397b3a675240cd9a3d6fa7665917e	C18\cultivate.jpg
+9de89d3c92ad659150626988d5e63aaa	C18\darksteel citadel.jpg
+16afc284a137b439aa5ab5648407b2d7	C18\darksteel juggernaut.jpg
+7c37505fd52ac84e0b8783d5aa655dd7	C18\dawn's reflection.jpg
+ab13c5fb59c325ede0b445cc6096d6f4	C18\daxos of meletis.jpg
+fba3beb085a7eece2cf3daebf94b30a8	C18\deathreap ritual.jpg
+790d477fc4263cdc7311a39add1d39cf	C18\decimate.jpg
+a639f9d4a2f2f3b23f4b18bd2e7e2a95	C18\devastation tide.jpg
+115133922cf6150ce33e6eaf321cb132	C18\dictate of kruphix.jpg
+cd515d5df8749fb5d74d5a84d28de60a	C18\dimir aqueduct.jpg
+ea9071a968f1098334487eee12894fd5	C18\dimir guildgate.jpg
+7149bba22cf41e9da4869973d558ac3e	C18\dimir signet.jpg
+1c436359383a5c273e2002a02557aff4	C18\dismal backwater.jpg
+cc44217b18ad0bafb268737987fe7646	C18\dismantling blow.jpg
+c8188eb29895d0e1a43eac24d277c594	C18\djinn of wishes.jpg
+a5e79bf0138d8ff37fae8e846d32f9d5	C18\dokai, weaver of life.jpg
+07a308ade6fce96aae43a1a060020bef	C18\dream cache.jpg
+9dcab40b3a24f5f5bf53de5413d1d59c	C18\dreamstone hedron.jpg
+92d07591a6649d0eeddca475c95d5e00	C18\duplicant.jpg
+d6a81cecc0401d8cf7d9d1dbbadc4637	C18\duskmantle seer.jpg
+74416723f36f571efdf5e5728665d3be	C18\echo storm.jpg
+5c1ce866fb3c584dd28863497b53eca2	C18\eel umbra.jpg
+3a2ebaed04233bd9f65fd7a587eb1301	C18\eidolon of blossoms.jpg
+edae4980660a3d45ef2de2079d2cc079	C18\elderwood scion.jpg
+74b723ffe64995a275bceb5e75f3be02	C18\emissary of grudges.jpg
+3e56a4ae8a8f9996ddb68afe2737be19	C18\empyrial storm.jpg
+9e48fbd20d5600452aeb316626302e8d	C18\enchanter's bane.jpg
+26a3d6f880c5360dd586304b5b393962	C18\enchantress's presence.jpg
+848cdfc4a99681104c5baa86e97ee9fa	C18\endless atlas.jpg
+b10d0d89d1de7ea356aa319d48cee51c	C18\enigma sphinx.jpg
+ee3b796a81a1cdd74323a42f73077dc5	C18\entreat the angels.jpg
+b6aad0d679dd4eae30a458d7e063538f	C18\entreat the dead.jpg
+78c24a06aaf5775f0dfe43f78f3ea545	C18\epic proportions.jpg
+e6787be05582b3557127bb0821c0c0b1	C18\esper charm.jpg
+9ddfa1bc3208229afcae8611fdc2536f	C18\estrid's invocation.jpg
+b7d3ed898f26a0fefe74bbb8ea3f72e6	C18\estrid, the masked.jpg
+6150f69fed6a284e3b381ff8b9f2e021	C18\etherium sculptor.jpg
+8fc3fe53c6c6d02b4130974a63f1842e	C18\ever-watching threshold.jpg
+426e129e87c2320bc77c427da0706a56	C18\evolving wilds.jpg
+752f59127fbff081a17baba5293f67c6	C18\explore.jpg
+bf68a7ca61fe68af1491aa56f1e227f2	C18\explosive vegetation.jpg
+786bef68a3a31a65fbf4359b4154f86d	C18\far wanderings.jpg
+b231ac653de8cb5d884173e8eb4ffc80	C18\farhaven elf.jpg
+7cfe2410a7adcf0d64ee630f509a2e19	C18\fertile ground.jpg
+295aad21617f097c4f5682baa08f0e9d	C18\finest hour.jpg
+ffc88f99ca85b9e1beefe4e1d1ff8524	C18\flameblast dragon.jpg
+5efcf8b23805e5266c6d88a4d5527e45	C18\forest1.jpg
+cbb992da3d307c9e7eddbb3a3b1a740c	C18\forest2.jpg
+dcc000c2dc2370c851b6262ee78a909b	C18\forest3.jpg
+e9cbdfbe878459b63a74d9ee13835fae	C18\forge of heroes.jpg
+e9f9c92ca50abefc2b87f64094aa8120	C18\forgotten cave.jpg
+b7517e8d347fe50677ccd647b5bed1ea	C18\forsaken sanctuary.jpg
+27c40bc40bbdc0908b03986b32c96ad9	C18\foundry of the consuls.jpg
+dd6bad5376164fc418fdc1bac34074d7	C18\fury storm.jpg
+49e1164ab3eb9392bb005af679700467	C18\gaze of granite.jpg
+f288dd9df66c192500adac453c9a39a1	C18\genesis storm.jpg
+8f770ba7901071a1b518ed329939af03	C18\geode golem.jpg
+ca9996a4fcbe409ccfa02bbca44817a5	C18\golgari rot farm.jpg
+701356dc5b758f831eb9ca5a6d6c37fd	C18\grapple with the past.jpg
+5137f2e019d599cade1c28001d343c89	C18\great furnace.jpg
+c1752be0a0ef0505e9083e36626596c4	C18\grim backwoods.jpg
+e8a02d77d77db5c67b7d428ee347c724	C18\grisly salvage.jpg
+1b21edb597b537040898eb333c12f671	C18\ground seal.jpg
+199331b8e9f3dc5fcb422fc53ce9c311	C18\gruul turf.jpg
+3d58499fef55ec7b3a2d772252315caf	C18\gyrus, waker of corpses.jpg
+cdbe423fc455cc5318d26c6bc10bf3bb	C18\halimar depths.jpg
+4980bc831df1d7af5dbb173533ac9458	C18\harrow.jpg
+9792c94d9348e4baff05df8c3f79d5a4	C18\haunted fengraf.jpg
+15fc3fde49c4481683a2bbf684ca38c1	C18\heavenly blademaster.jpg
+f790d476c8f113412a0ad3b0111b48ca	C18\hedron archive.jpg
+0df914448f6d24cc9d7e278ec36fba53	C18\hellkite igniter.jpg
+a339dbfe126818d6a8aca0d1e1cd843e	C18\herald of the pantheon.jpg
+e0cedc0b5c2aceecd33df0bf25c3d853	C18\high priest of penance.jpg
+3fb6502d952b735980958f87ec5508af	C18\highland lake.jpg
+0c109b0b592f29a7cb13d4a8b919e8c4	C18\hunting wilds.jpg
+cf063241ddcfec48ba93f6e2fb5622ab	C18\hydra omnivore.jpg
+edc9784b0ac43167e78d2c692477538d	C18\inkwell leviathan.jpg
+bad86676aa02a901f29bf2a48b4b2912	C18\into the roil.jpg
+68a344c2918935208dac7be74efacbd7	C18\island1.jpg
+3a6d79dac5753917a82602a00dc72988	C18\island2.jpg
+4c0e4ea40645e99c3237acdca2f4b956	C18\island3.jpg
+f8856b038b64b09fdcf5d6c7a366ce00	C18\isolated watchtower.jpg
+1bf703974fb0a77a5d64c4d2edc5679b	C18\izzet boilerworks.jpg
+3d73f36bd95aa1829496f3ead81f2d07	C18\izzet guildgate.jpg
+cd2458a9306ab70d19f04bea8687ebdd	C18\izzet signet.jpg
+0ce9d64ddf550117f06ccb7ad00ea2b8	C18\jeskai infiltrator.jpg
+0a0fc222adc0595b79d2aeae4ba8b2ff	C18\jund panorama.jpg
+0dda25808390c79d34e5888deecd767e	C18\jungle hollow.jpg
+b65842fe571558fafc9f2516fcc4f4c3	C18\jwar isle refuge.jpg
+c218b263490f729e545cd64a86aab073	C18\kazandu refuge.jpg
+dac94e5372a5b7aae2ec6e60447fe5f8	C18\kestia, the cultivator.jpg
+14c57dca883ed336a545df89dabf3e85	C18\khalni garden.jpg
+c7fb94783109a6bb1b0791b40613a9ce	C18\khalni heart expedition.jpg
+7f4635e66ea33d8364b6d308e502bd40	C18\krosan verge.jpg
+cfd8fcd82344f7b032f5a3ec7c086f2c	C18\kruphix's insight.jpg
+fe0ab286981d6813e45b6db9091804ee	C18\lavalanche.jpg
+d2873c3d9029f5a10f02bfd307db22a2	C18\lightform.jpg
+d67f10ee7497192a6bb88e76c44e2e00	C18\lonely sandbar.jpg
+c83119849e19f73c87f07333dce83fdc	C18\lord windgrace.jpg
+1cb924852365138a4d8136b8fe3b7b58	C18\loyal apprentice.jpg
+c406948670150ccda84bebe79bbbc46b	C18\loyal drake.jpg
+c1845b139d625c08eac7dad4e745a7f1	C18\loyal guardian.jpg
+e682563f3c304ecd67b0ec336c8385c9	C18\loyal subordinate.jpg
+21793ce8838bf983e95e89f9b2b4c6ba	C18\loyal unicorn.jpg
+3310e80caee5984346a3ada63ac6628b	C18\magmaquake.jpg
+bd5f114106f5e2df96ac582c495d4089	C18\magnifying glass.jpg
+e411d88fc8a1b938bfdf31d0cd3bc350	C18\magus of the balance.jpg
+36997891b16b62131fcef89e0c6456d5	C18\martial coup.jpg
+a87cef8d216d46826bb72fb88aae7c6b	C18\maverick thopterist.jpg
+95bae24113e0551770edf59ce49868fe	C18\meandering river.jpg
+958469786e599c9c4cd81e684cb3469e	C18\mimic vat.jpg
+57f4721b0951dbcb6ceee1b50045c40a	C18\mind stone.jpg
+9807baada16659e2bab86c386aca3323	C18\mirrorworks.jpg
+6dacdb4c55ccbb9fa663bfc4dfd42e19	C18\moldgraf monstrosity.jpg
+218dbd77900ddfb9486c0b31b5cd9ea7	C18\moonlight bargain.jpg
+ab02ceed49a6531905be288d568df839	C18\mortify.jpg
+65cb3f8d85ecd7650c882b7e8a1f7025	C18\mortuary mire.jpg
+20634e7e920e177da3f820e603bdb6b3	C18\mosswort bridge.jpg
+598584e5b509c1295d76c09561df939b	C18\mountain valley.jpg
+a1ac2c928c1b0f42523ef1ca98b15a63	C18\mountain1.jpg
+8bf88869657818990b1692672bfce47b	C18\mountain2.jpg
+37122d28c2ffbe7b235b44cd953c4f87	C18\mountain3.jpg
+3059afc1567f66181b6d7b96da5a98a6	C18\mulldrifter.jpg
+9fd4eca724dbca89bd9bd1bbd7f1206a	C18\myr battlesphere.jpg
+e53784aa02a150e4850373edcaa5eba6	C18\myriad landscape.jpg
+e3ce73c00274e212a43c747d6020438d	C18\myth unbound.jpg
+97137c0b70cb58dc73a01b7b53969065	C18\nesting dragon.jpg
+904e15913b9658f5e9fa8fbec529a528	C18\new benalia.jpg
+676992dae4ac5c08ae36e02166031d02	C18\night incarnate.jpg
+c95430e5b8d3c366e0a57f8945acaf04	C18\ninja of the deep hours.jpg
+8c4ab199dfe1eed76b87114ef6f684a5	C18\nylea's colossus.jpg
+92eb19ee3eed91523ea7e200c27650e4	C18\octopus umbra.jpg
+84406222193917a17e9514004ce38073	C18\orzhov basilica.jpg
+490aa01130347b6dfb8f47d883b11f5b	C18\orzhov guildgate.jpg
+974e61ff78068c6450c2608cc5199a34	C18\orzhov signet.jpg
+48a8d7f8e4e01f3f607c2c00b6a9e2ae	C18\overgrowth.jpg
+30b0606406c5442c939809bad8057328	C18\phyrexian delver.jpg
+01fcbf62f616e0833061d3b5718c4e96	C18\phyrexian rebirth.jpg
+a556a7ab50b589696b2dae761ddc3cc0	C18\pilgrim's eye.jpg
+0c8f19ddc48e5caa9a6262a7c31bf2ae	C18\plains1.jpg
+6b11b3bdaef268074720445ef8adfdb6	C18\plains2.jpg
+571f809a1c11cd022e2a58fc145dbad5	C18\plains3.jpg
+ed24f45dc739a7827e40d42cbbbfc9aa	C18\ponder.jpg
+c89c877ae810584fa4efb55e03eaf969	C18\portent.jpg
+e429fee1c8c55840d6e28013cfdd39df	C18\predict.jpg
+22caabd71aa55c11d0b1aa65d0c52962	C18\primordial mist.jpg
+17f330eb6069f5ad517111b9fdb216c9	C18\prismatic lens.jpg
+cc139e5552fb75d7165e91ac6a6c5396	C18\prototype portal.jpg
+02f1f0202e9aeb5c50f4e1dfd5d70731	C18\psychosis crawler.jpg
+c0c37056396b64db35fbbe17155a927b	C18\putrefy.jpg
+5a8da039c704bb7aa4e320208c5a6e98	C18\rakdos carnarium.jpg
+d1dc4ec8ab6ae5ba2773eaf30d7bfaea	C18\rampaging baloths.jpg
+39cef665a816fbafba6f53c56961a1a1	C18\ravenous slime.jpg
+490a6f69c3ab4cb5c0b60be29e10be8b	C18\reality scramble.jpg
+71aa345d39f8ddce9dd4049caba9ff17	C18\reclamation sage.jpg
+803fe2a0d0677aea06847decb7dd2327	C18\retreat to hagra.jpg
+443fcd0d9cfd8e58eea0e6807df2f2d8	C18\retrofitter foundry.jpg
+9a4ad5fe0c568ac6e89531c9d424e2ef	C18\return to dust.jpg
+3af80070449f0ce5a35400076e85f7df	C18\reverse engineer.jpg
+6b93f7d301308c050797c544a9fdb2d9	C18\righteous authority.jpg
+f3d90be5855e92af595621a509573cf3	C18\rocky tar pit.jpg
+914f67d9543a658d1b5394f448a8219d	C18\rubblehulk.jpg
+8b6d075406768ba987c021af980cb88c	C18\ruinous path.jpg
+06c1d77bbc0cc2107ef81d94a15baf74	C18\sage's reverie.jpg
+715ee742a1381d8be025b2af8941c9d5	C18\saheeli's artistry.jpg
+46cc299196459719c15e54d709ef8f67	C18\saheeli's directive.jpg
+816d21020406b52717c60e9724a04308	C18\saheeli, the gifted.jpg
+6e1c3d5d6052ae6aa71670d43d1928e8	C18\sakura-tribe elder.jpg
+cdc90f06ef5bdc8f80d845d9b7505829	C18\savage lands.jpg
+e207689da0ba0b719e0dc3642c76a58e	C18\savage twister.jpg
+e1533c8a7e43054723fe3ebf43dfe54d	C18\scoured barrens.jpg
+fcbb6abd2efc2448b181b94dfedde5ba	C18\scrabbling claws.jpg
+d64e01ef369d167c14607914ed964be5	C18\scute mob.jpg
+5940431b5eba3578c50a1e3ca69cd01e	C18\scuttling doom engine.jpg
+489f5c29bb06ba52efef304c0f2ccf6e	C18\seaside citadel.jpg
+8e86e4f2c42d7dabe2d6d742ff0d08c2	C18\seat of the synod.jpg
+8b65357dd40e144b83d110a69b230705	C18\secluded steppe.jpg
+368810959525dcb8c05ddc8b27264b53	C18\seer's lantern.jpg
+155dc26a8f4630dc20daaba84f36b00d	C18\seer's sundial.jpg
+181ba46a4a2fcbff09c1194c392e7648	C18\sejiri refuge.jpg
+4b1af5b83f66a976d78cc79ff9619c10	C18\selesnya sanctuary.jpg
+09574f20fca16b824d9c1aa926d4bdc2	C18\serra avatar.jpg
+2859b15f81b53a2e4c6c5e7cbcac66cc	C18\sharding sphinx.jpg
+2bf56a194bcaf135a86b10a5783d18de	C18\sigil of the empty throne.jpg
+75258122f6da12374efb1fc962fb8ae6	C18\sigiled starfish.jpg
+84d63aeee290ef4671a1588f51b092b2	C18\silent sentinel.jpg
+3a14041376c3c8e43ff423c2f76bef79	C18\silent-blade oni.jpg
+2331d657415432b1953ad7e4a28eea35	C18\simic growth chamber.jpg
+c531e59b26d251e5e98c5a44381211de	C18\skull storm.jpg
+14eba664a5e314cb0b0e99319af744c5	C18\snake umbra.jpg
+6d6a6b776287bb2945d4aae391a3e591	C18\sol ring.jpg
+4051f18c45ac519b51e420f44c32c90b	C18\soul of innistrad.jpg
+59eb865651661c6ea6180362d86d2a66	C18\soul of new phyrexia.jpg
+ab5aa1562bb09316c6bce9ae4c985f87	C18\soul snare.jpg
+532bdbd35671c76ccc74a65b4b192060	C18\sower of discord.jpg
+deba2ea55b451d3519ac4ccf2b198829	C18\spawning grounds.jpg
+3e46fc24a566d4c7cb4b9b60caf15cad	C18\sphinx of jwar isle.jpg
+b3c06ad430272ea658b7942259fbfbd1	C18\sphinx of uthuun.jpg
+3f245231c9b4872cfe5e7db46bb75b5f	C18\steel hellkite.jpg
+511cd4b4098aae9f66c3fe656c532751	C18\stitch together.jpg
+63065e8a6a4e878c675c8d72ec433380	C18\submerged boneyard.jpg
+d645f4cbb4a5c3b02d316446a8a39e70	C18\swamp1.jpg
+d833a649d840f6333c2f11828d5dcc8b	C18\swamp2.jpg
+ecde5eb409cabed1002ae9d03fef9f89	C18\swamp3.jpg
+eea88fa322c849e1593933b91e519d9e	C18\swiftfoot boots.jpg
+d457c4fee961a8b73b60755b0ed0442d	C18\swiftwater cliffs.jpg
+d016d311e0d8e85554140b2dbabbfca6	C18\tawnos, urza's apprentice.jpg
+b9ff4779cbf6ff23d9770cef0d05169b	C18\telling time.jpg
+6bc624a49ac1bb8e5d6c30d841be3510	C18\temple of the false god.jpg
+ca4271c1e5dd91c592dcd946c5eb291a	C18\terminus.jpg
+31765457c8a001da8b90b4abb5fdcbf5	C18\terramorphic expanse.jpg
+d207bdb5ef4044c37143b23f587d94bc	C18\thantis, the warweaver.jpg
+9a293b51eca06f661eb8a7bd7b0ff891	C18\thirst for knowledge.jpg
+d7a96dbe15d7cc6106d1b0689328cbc9	C18\thopter assembly.jpg
+6ab3d6e950153c9f919d1f60b9b148c1	C18\thopter engineer.jpg
+ccbee9970cd98f5685462630cee50ed6	C18\thopter spy network.jpg
+156b95ef95d58733effa4e515b316d4c	C18\thornwood falls.jpg
+1c5bd6eae8bfe61ff0bbd8a19c72cc2c	C18\tidings.jpg
+35337ee7044a465eb6ee14f618abcc67	C18\tranquil cove.jpg
+a4ef976346dab73d41fb08704311f205	C18\tranquil expanse.jpg
+a51886c5735f6afb98e3ffa768bbfbb7	C18\tranquil thicket.jpg
+7618f3fddc735494adfd899125bb3215	C18\treasure hunt.jpg
+e795ecdd6e42da908a026912195a7c95	C18\treasure nabber.jpg
+40406affaa394908d691ba24a455f809	C18\turntimber sower.jpg
+ea396de5d511dcad7f887c112f3c8f61	C18\tuvasa the sunlit.jpg
+b3a2c3cd07c2054583d27dfe42c64b87	C18\unflinching courage.jpg
+9b2597294c7b851c8b8ca87990f042c9	C18\unquestioned authority.jpg
+4948e65c8498f04e043b145a69c38594	C18\unstable obelisk.jpg
+3d4073faff3aa7dfcc180faf713c7987	C18\unwinding clock.jpg
+7cee141d737dfec3d67bcbd2b82db717	C18\utter end.jpg
+b915a79eaef3d8a9f0df2199876763d2	C18\varchild, betrayer of kjeldor.jpg
+6dbcb743f8d1c2eb33b0dbaba405c4cd	C18\varina, lich queen.jpg
+a6af6d9c9059524a154c02b790dab2fc	C18\vedalken humiliator.jpg
+d560538a1cb82c8658d716d723ac9c4c	C18\vessel of endless rest.jpg
+b5fd3d010cf5e06a9806891e2e01d17b	C18\vow of flight.jpg
+5f6d44820406412b6a2016ec9f9db544	C18\vow of wildness.jpg
+5b29c31c991ab37324c1c6c46b40551f	C18\warped landscape.jpg
+569624805fae8f1536feaf4adaa825fe	C18\whiptongue hydra.jpg
+298c971224aeb665ef4a88fc5eef1f05	C18\whirler rogue.jpg
+5598b88e5bdb599de69b93a96aaf2289	C18\whitewater naiads.jpg
+c6f01cbf608fb92c98e367831f115fca	C18\wild growth.jpg
+520a223268cac04ebeff9767b3f31685	C18\windgrace's judgment.jpg
+a165df00a429330476f19c1746cd0763	C18\winds of rath.jpg
+1cb49850579368b606530e0721931820	C18\woodland stream.jpg
+3e47a3c5f1c3cc26eec9ba7a814339d4	C18\worm harvest.jpg
+3b153b98da479e9f827e6eb33cdd0b6f	C18\worn powerstone.jpg
+619c31bd4372c07665e748551cd21fbe	C18\xantcha, sleeper agent.jpg
+89ac91e143a4411e906049f6c3edea9f	C18\yavimaya elder.jpg
+340facf4dc5dae972f9a12676f160f7f	C18\yavimaya enchantress.jpg
+838982d749fd2105e467c9833e8d0beb	C18\yennett, cryptic sovereign.jpg
+120113104437ceaadb4dca2cf044cda5	C18\yuriko, the tiger's shadow.jpg
+dd4981d50fbb6969d665786e2e6ea6f7	C18\zendikar incarnate.jpg
 c713a24ba4dbaf6f037f494bad145546	CED\Air Elemental.jpg
 d367e8f5c0c5a7c055d91fa1bd116542	CED\Ancestral Recall.jpg
 3f8093aee65348d19ca69d97f29f6fcb	CED\Animate Artifact.jpg
