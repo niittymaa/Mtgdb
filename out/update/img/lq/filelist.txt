@@ -8422,7 +8422,7 @@ dddad554be0fa3e5d87af6c65f27b8d7	C18\bojuka bog.jpg
 3f19351cf4420b364abb89abbd9570f2	C18\brainstorm.jpg
 b851bd13b31de148064696f7580712fa	C18\brudiclad, telchor engineer.jpg
 26b0d31244d60cbbadf7531c453daf46	C18\bruna, light of alabaster.jpg
-a5e79bf0138d8ff37fae8e846d32f9d5	C18\budoka gardener.jpg
+a5e79bf0138d8ff37fae8e846d32f9d5	C18\Budoka Gardener»Dokai, Weaver of Life.jpg
 782ab62c78122f02fa52ef8ff51c8f6b	C18\buried ruin.jpg
 f5c535674b2a5eeebc0b935bc387c6ca	C18\celestial archon.jpg
 1bc9c5ae485a1b105ff299e95b8a693a	C18\centaur vinecrasher.jpg
@@ -8456,7 +8456,6 @@ ea9071a968f1098334487eee12894fd5	C18\dimir guildgate.jpg
 1c436359383a5c273e2002a02557aff4	C18\dismal backwater.jpg
 cc44217b18ad0bafb268737987fe7646	C18\dismantling blow.jpg
 c8188eb29895d0e1a43eac24d277c594	C18\djinn of wishes.jpg
-a5e79bf0138d8ff37fae8e846d32f9d5	C18\dokai, weaver of life.jpg
 07a308ade6fce96aae43a1a060020bef	C18\dream cache.jpg
 9dcab40b3a24f5f5bf53de5413d1d59c	C18\dreamstone hedron.jpg
 92d07591a6649d0eeddca475c95d5e00	C18\duplicant.jpg
@@ -9632,8 +9631,7 @@ ccd11bb84c233ee54e24825fff9f8ca9	CM2\myr battlesphere.jpg
 e12519d85a724a535141ca87879df170	CM2\myr retriever.jpg
 67d0adcf21183cdd17e4af1556f49e75	CM2\myr sire.jpg
 cb9300a41123c225e5e86bd4d25d9ba9	CM2\necroplasm.jpg
-cc43c7005a0134fd3898f4f7dd03eb5c	CM2\nezumi graverobber.jpg
-cc43c7005a0134fd3898f4f7dd03eb5c	CM2\nighteyes the desecrator.jpg
+cc43c7005a0134fd3898f4f7dd03eb5c	CM2\Nezumi Graverobber»Nighteyes the Desecrator.jpg
 f31e3480ac182a293f48499c38714d29	CM2\oblivion stone.jpg
 3ee1018debc94f2f31c46b3de9954d5d	CM2\opal palace.jpg
 a64ab7f0394fc4d4542b52852e2a5d06	CM2\opulent palace.jpg
@@ -16305,6 +16303,279 @@ b2410bf205c8efb49baafc092e701f69	GPT\Witch-Maw Nephilim.jpg
 b52ae324dbb71d1b3a0281afbdabbe2f	GPT\Wreak Havoc.jpg
 7b4a1d83211001e2ea24123353893c54	GPT\Wurmweaver Coil.jpg
 28940b0c14a23b15e741815acc3bc145	GPT\Yore-Tiller Nephilim.jpg
+591646b5850019da0f2e86395a0f7935	GRN\affectionate indrik.jpg
+48709b8817ba1dfae9931d32c92c8251	GRN\arboretum elemental.jpg
+02e6448913ab69451e638f01ed265941	GRN\arclight phoenix.jpg
+8a2d3f63d48c6d8de0b0d52f7b6d843c	GRN\artful takedown.jpg
+055108c8b215150338309b531251ea49	GRN\assassin's trophy.jpg
+ec7583529fb9726824befc968a9633f8	GRN\assureassemble.jpg
+e27d64b0ab3ac89ea25fc89469bf7706	GRN\attendant of vraska.jpg
+344608d34da1c5e509bd2783ac662e27	GRN\aurelia, exemplar of justice.jpg
+828b7ad4fdae5d8fe67ff0b0111c2480	GRN\barging sergeant.jpg
+017c085b360b0d86c1165770da5bdefc	GRN\barrier of bones.jpg
+327be588e711bfaecc5dd67728557fe2	GRN\bartizan bats.jpg
+0ca789873a9631d634b9b446dd09e95d	GRN\beacon bolt.jpg
+07b6dd1022804aae33accad73c48da11	GRN\beamsplitter mage.jpg
+d2c2fd65ceb9ffc08a54e2c408de5868	GRN\beast whisperer.jpg
+cd2afea6954c4d3283f6653a4237f06c	GRN\blade instructor.jpg
+b975c3aaff3757a6cdf41bcff5cc61b1	GRN\blood operative.jpg
+4869bde0e92562b8ff572ad82c87d1d9	GRN\book devourer.jpg
+1ef3d42f78bf7fad5c04e2e6cd01bf25	GRN\boros challenger.jpg
+cf5de362349a7930ca027db2864df93d	GRN\boros guildgate (a).jpg
+0866f584eb852134e629caaabd73f6af	GRN\boros guildgate (b).jpg
+1922eb8fc607469552c1f8638a43c8bf	GRN\boros locket.jpg
+c35f092edbfdf9e4e7078c33c824935a	GRN\bounty agent.jpg
+6b3207284f417f4df439d348fe349908	GRN\bounty of might.jpg
+3ec6960385e462f43caeb72e467a44cb	GRN\burglar rat.jpg
+b9a5101b8544af0bcfb68cbf3b56cd11	GRN\camaraderie.jpg
+b921e7c9c909670df9d13c8a2ca0cc25	GRN\candlelight vigil.jpg
+c4058721bd55b26ec409eaab5a6c8c82	GRN\capture sphere.jpg
+fafb530295993b7c8850164c38e2f023	GRN\centaur peacemaker.jpg
+623484f206231ba2f91f5cb2211ffb6e	GRN\chamber sentry.jpg
+1f46b68c694789ca9b7e47f956ca6f92	GRN\chance for glory.jpg
+e91cd7f1b4effe2d018a5ea48cce0649	GRN\charnel troll.jpg
+9496c9f151cffd2cc193bcd082a30cda	GRN\chemister's insight.jpg
+26ae03d33b0fcedf8986e20c63950c06	GRN\child of night.jpg
+bf6e4cbd9cddc198cd623d9b71c5c1dd	GRN\chromatic lantern.jpg
+2994b279f7072a6ec019be8facf6c5a1	GRN\circuitous route.jpg
+53ec78f26c8bf7c4172cab6b9c8a8db1	GRN\citywatch sphinx.jpg
+0b75869f91e1029d6f97eca7de0e27e5	GRN\citywide bust.jpg
+5ca4e3182554922f4df7c7c42eb5da41	GRN\collar the culprit.jpg
+4acf9a188b361c9cb9ed521c3f4abff6	GRN\command the storm.jpg
+f3cc2baf9927d43f0b3682b0f9566eca	GRN\conclave cavalier.jpg
+5575860fd735c995e15db567b34cb6f2	GRN\conclave guildmage.jpg
+b1df664d8d56ced90631259108b713ed	GRN\conclave tribunal.jpg
+3f793d4077e16b51b3ff1233a21b6d2b	GRN\conniveconcoct.jpg
+85b009ad99989a772e477aaf7c2ea042	GRN\cosmotronic wave.jpg
+71c615b2a89d81b6c7eb5230c917d0a0	GRN\crackling drake.jpg
+0f2128ade04aee07a406bbb9e892311f	GRN\creeping chill.jpg
+df4b1acfa1e1e727c3410f6dac6f4177	GRN\crush contraband.jpg
+e27a630c5dd668ec1ca28a70d3f7b9f5	GRN\crushing canopy.jpg
+3d242e2d4e6bd22190d9dc246f6f74c2	GRN\darkblade agent.jpg
+3dcc2cd8d517ebd64d3f4a3bf1248e44	GRN\dawn of hope.jpg
+5901ebed9632bbb290ad501be176607f	GRN\dazzling lights.jpg
+6c8d9ea11b8aed32c3803619eab4f381	GRN\dead weight.jpg
+371a40d59542ca7ab5dad0d74bf25cf3	GRN\deadly visit.jpg
+afa6cf97bc64e48d283b58ac6d58a2c5	GRN\deafening clarion.jpg
+8755d2ab86076b1e54e39801548a8c18	GRN\demotion.jpg
+b824b14e7586886276d6eab06c9f4c24	GRN\devious cover-up.jpg
+620c4337c8c2d57f930a5de471b4a0ce	GRN\devkarin dissident.jpg
+fde5acebcbead671cfe8623e8fa4e4ba	GRN\dimir guildgate (a).jpg
+60adb98b675b7914a9e29aa725625428	GRN\dimir guildgate (b).jpg
+749e0cda01a8129792afb1eebd76956c	GRN\dimir informant.jpg
+c157a9149017781a861aadd75b63aaa0	GRN\dimir locket.jpg
+70447f20b3108c706b026b2578c3a935	GRN\dimir spybug.jpg
+a78a8f15696f2ed0e673759bf36184e3	GRN\direct current.jpg
+1768c6bf29e708d7cfc9c5fae266e639	GRN\discoverydispersal.jpg
+570c1ba01c131b787a8f984897c12b5f	GRN\disdainful stroke.jpg
+8a78d2cb5820463fb5980d98c1f62b6d	GRN\disinformation campaign.jpg
+6869a715f12e0726fa4383c1a64b3dc3	GRN\district guide.jpg
+52d9ba0fd7c4c5bdc99adc441b4152b1	GRN\divine visitation.jpg
+cc4b2f4fd9e766106dbb5d0ce19a4033	GRN\doom whisperer.jpg
+081e6eb2bf687e9293e1e8a3192fa1cb	GRN\douser of lights.jpg
+6bc70a7a0d783edfc9f1734a0703bde0	GRN\dream eater.jpg
+926f4e6327ca4e7fc60236ad7e2bd5d5	GRN\drowned secrets.jpg
+beddf693681025d420f244fba69b2926	GRN\electrostatic field.jpg
+e65c2018907f0d0cc5ed11e4ac7e86a4	GRN\emmara, soul of the accord.jpg
+ee024986e616a748f579c826fda3168e	GRN\enhanced surveillance.jpg
+2a3c7e4c1c283e70b67929f3f872608b	GRN\erratic cyclops.jpg
+a214a205e30d211b736763d75e8521cb	GRN\erstwhile trooper.jpg
+f2e909c888ed207c7520046baf5ffd9a	GRN\etrata, the silencer.jpg
+1b9e73a0274acc1e360bb5b2ea848217	GRN\expansionexplosion.jpg
+36409bf4270c2a13808adc1b318662a3	GRN\experimental frenzy.jpg
+dbd0b760e9a8f2aa6563c14982551e0a	GRN\fearless halberdier.jpg
+d048b2c66b0ea8418849f2d8299857f8	GRN\findfinality.jpg
+75d6c00f832c38165cb5235c223f27d7	GRN\fire urchin.jpg
+5aa01e547d3f36e9a496cd679e768083	GRN\firemind's research.jpg
+36ce7fef6683fd09e38db6a2cdf543c0	GRN\flight of equenauts.jpg
+b5a2e8ea20bf52797a6e7d28e6b81c03	GRN\flowerflourish.jpg
+453af049e42208b151d79eed98899d62	GRN\forest.jpg
+9448c54ab29866af156eb3fa6da053c7	GRN\fresh-faced recruit.jpg
+f599fa2da57bfbd7d57d5b54421b91d8	GRN\garrison sergeant.jpg
+c9bab48488d5a4957a4f0e7c24a4e2d1	GRN\gatekeeper gargoyle.jpg
+77629f86ce1dea918f2d40e71f89b7e6	GRN\gateway plaza.jpg
+4a7979d4fb973b84dd5bbf77bbbab644	GRN\generous stray.jpg
+24f88dcdaa4edcc0032edc61f21a44eb	GRN\gird for battle.jpg
+569b86ed6a1488e3d30a7f18d949b668	GRN\glaive of the guildpact.jpg
+7d37c31635f6484d6efd03c65a7eff9c	GRN\glowspore shaman.jpg
+fbbc34c24ba6a46fab0c9c36850d40d8	GRN\goblin banneret.jpg
+6019d6bace43c55ffac0bcd8f2e912fe	GRN\goblin cratermaker.jpg
+3d62c572cee52715c908b74bb770052f	GRN\goblin electromancer.jpg
+e9fcc6454d19a2e8f57e5ac8005fefb0	GRN\goblin locksmith.jpg
+7728c945d9cc198b31aa8d7c630248c8	GRN\golgari findbroker.jpg
+bfa6912e290741dab704744d10e97f78	GRN\golgari guildgate (a).jpg
+d5c271501536ba9ef6238545dc8e0be7	GRN\golgari guildgate (b).jpg
+fbd786f5b1996eb2aa360cb44f4d8eb3	GRN\golgari locket.jpg
+9d5fc18fb3d383be04da5c4134fa4287	GRN\golgari raiders.jpg
+1360c55f43f9225a9eadb56e0ad315d5	GRN\grappling sundew.jpg
+ac7527b4786e296a01635371d5ca5faa	GRN\gravitic punch.jpg
+2d85fd2b9992a66c6225032a9d4e92b2	GRN\gruesome menagerie.jpg
+b93bda34d97cadc174f8f19227959271	GRN\guild summit.jpg
+08f73269482f16c77f68049a3033d198	GRN\guildmages' forum.jpg
+a4c475a05f545cc22a208ebdbd439616	GRN\haazda marshal.jpg
+df1504ccf29a1abf07c040fd1b4d2559	GRN\hammer dropper.jpg
+8dc85f570e18d001afa9a14495bed19a	GRN\hatchery spider.jpg
+eeaad08f8bb34584c5f5e9692f400792	GRN\healer's hawk.jpg
+be98d184f91473182956808eedbf6a99	GRN\hellkite whelp.jpg
+5a6748c13b2292857efe1d655ac0ed83	GRN\hired poisoner.jpg
+72940c0e7c3d29bcf97e9c1dc2baa432	GRN\hitchclaw recluse.jpg
+ee22def09821f8bce220d3e0c06c4d5a	GRN\house guildmage.jpg
+f66ea54b2835ab5464a25be406718b8f	GRN\hunted witness.jpg
+90737994593dc04799a917c940bd00d6	GRN\hypothesizzle.jpg
+34edd8a24c89dcc2f099cbcaa2252442	GRN\impervious greatwurm.jpg
+22f963966862eb66c969f6e84f355008	GRN\inescapable blaze.jpg
+063dfff88130d50e4f7ceae301447a36	GRN\inspiring unicorn.jpg
+345397bbc90d8083e0614329ceb98141	GRN\integrityintervention.jpg
+2648491a8b0de5fc743a95a9f7f81225	GRN\intrusive packbeast.jpg
+b225f36c4a4b4226480ddc35a9cbebb4	GRN\invertinvent.jpg
+c220fa83ef393c5096839a8bc0795a66	GRN\ionize.jpg
+f8e2301c570ed690173edd3153375c33	GRN\ironshell beetle.jpg
+95a55e7cdb392bc3036b42da08856ad5	GRN\island.jpg
+35a89b5615f29c44351390c282f1afda	GRN\izoni, thousand-eyed.jpg
+8a2bb0a7cc403c4bd5f877eba9dca75d	GRN\izzet guildgate (a).jpg
+d7c680ab8ed4555977296ae7425c950e	GRN\izzet guildgate (b).jpg
+16c85430110443485d32c52b9333b557	GRN\izzet locket.jpg
+193dd40d0303b7127d0d8ff86e597d5c	GRN\join shields.jpg
+908083e9ef9e2f148ee7c159f807006e	GRN\justice strike.jpg
+aea19ce3149077144f573009fde98e8c	GRN\knight of autumn.jpg
+e1f4037f5b8b2701ca7f01f44bada497	GRN\kraul foragers.jpg
+7e1b07f901ac4aa66cc6f7817ca0f560	GRN\kraul harpooner.jpg
+98e7ff4dfaddf51119630bbec2a6ac38	GRN\kraul raider.jpg
+9011ee6bcc76435901fba53044f59255	GRN\kraul swarm.jpg
+66014dc62988b39f1656475bdc45d792	GRN\lava coil.jpg
+1a6b0500ccf9159ad353aaf5213da273	GRN\lazav, the multifarious.jpg
+3173d0855c50e1dfc10fb6daf403bcb9	GRN\league guildmage.jpg
+fe97ad4082c718d4193f7d850703236a	GRN\leapfrog.jpg
+f38028bc52edbbee7f6d37d720595655	GRN\ledev champion.jpg
+6ca3d912983c41fdf6105ca54cea93c1	GRN\ledev guardian.jpg
+373284ecf1f4ba40d2168cdbe568e900	GRN\legion guildmage.jpg
+525585f0a107f8ecd05877c8dcc73d16	GRN\legion warboss.jpg
+4c20f327bd87ce607761d7224e52339a	GRN\light of the legion.jpg
+2eb4536594bb53f584b491e8430da986	GRN\lotleth giant.jpg
+c7cc2201d2db9a82d809bf703766189d	GRN\loxodon restorer.jpg
+e86069a42b03a0f75ffdb4fa9bf5b0b6	GRN\luminous bonds.jpg
+7b7b020827dd75b813eca3c52f89bbbc	GRN\maniacal rage.jpg
+e3a7646f210fa12ac5376e43e7839a5f	GRN\march of the multitudes.jpg
+ac5ccaadc43acd59808edcd19ee28598	GRN\mausoleum secrets.jpg
+5701ca45a375f2f9e530f23cf1803078	GRN\maximize altitude.jpg
+76d4fd620f3d19c2cf082f9448059b62	GRN\maximize velocity.jpg
+6caa001cd968f051aba88f705ec59f24	GRN\mephitic vapors.jpg
+149408c6a60c82ef753e3b1c003c5b33	GRN\midnight reaper.jpg
+0dba7ba89b3c14c55b78e43e65561536	GRN\might of the masses.jpg
+99973e433dac549f0fef70a618e61716	GRN\mission briefing.jpg
+c7f8bb9dc1aef3c6db809599d400dd59	GRN\mnemonic betrayal.jpg
+19a6c61612f3e341abd862964fd9c11e	GRN\molderhulk.jpg
+2366b6ffc3335468415e386cb3aa07f2	GRN\moodmark painter.jpg
+62a02410143783037977ef52bcf0f7c8	GRN\mountain.jpg
+ca3fbf524f93b3e6658f74c5bef1eb43	GRN\murmuring mystic.jpg
+a4736e79514d52428cbd8c40da600e7d	GRN\muse drake.jpg
+05248ed8f5fde47230389a817c0721d9	GRN\narcomoeba.jpg
+fbef6258a6c62ea63111e7292070bc23	GRN\necrotic wound.jpg
+0953a295aafaefab0f1a088f7bfa0fcb	GRN\never happened.jpg
+26a9b1fc97de31068e132ad6c4ef567e	GRN\nightveil predator.jpg
+b5078b55ff91c230f1dd7b75992e99dc	GRN\nightveil sprite.jpg
+ff246ce7c23067b85c6a11bcbaf0ee16	GRN\niv-mizzet, parun.jpg
+f4282248e22067b00c4ab5dbc6ecab0a	GRN\notion rain.jpg
+e99888db45fd32b1f6cc60f247f36a4f	GRN\nullhide ferox.jpg
+221f477a56e13b0a68181e6b43ae3717	GRN\ochran assassin.jpg
+fb3316f88ff97245e00f1f5a705b1f08	GRN\omnispell adept.jpg
+03ffdef09a044bc240109c6a7bb69fd4	GRN\ornery goblin.jpg
+b9a21e814fd9dad38e4a065bfdd863ea	GRN\overgrown tomb.jpg
+707811b1fc4328e30f8b365d247fcfbe	GRN\pack's favor.jpg
+69c3a3b7bfa23d31fcefbcc776827b05	GRN\parhelion patrol.jpg
+5fc97af0136295289f3292c02bf72ada	GRN\passwall adept.jpg
+a89290bf54229cc7ca3d5dc03523037c	GRN\pause for reflection.jpg
+9666cf3f1964c5806fee1b6e2dd4b2cb	GRN\pelt collector.jpg
+a3224b27601abe631d36cd6515d36629	GRN\pilfering imp.jpg
+cdd73799fb4e1e0eeaea3b74407ffa47	GRN\piston-fist cyclops.jpg
+adbc52f1feaade3fd46d8b583b21bd5f	GRN\pitiless gorgon.jpg
+7b5657b8d68950ddbc8cdc9f3301e27b	GRN\plaguecrafter.jpg
+aefda0e19f1f3b42990e173a46b3aae1	GRN\plains.jpg
+fbd3823fae9515ab0ad99d3c35682908	GRN\portcullis vine.jpg
+bcbe5e8b6282e812823811d264617850	GRN\precision bolt.jpg
+9357bd8261858dc8f1bea676e2029928	GRN\prey upon.jpg
+257ee366b198fc9590b7890c346d31ee	GRN\price of fame.jpg
+1bb66643a0dbc9281eadc7278f1ac069	GRN\quasiduplicate.jpg
+fab3d210cf0db45708cd134d671b9939	GRN\radical idea.jpg
+15e5e3d553576fa630b8b8619da2f0a0	GRN\ral's dispersal.jpg
+056f0ba215b2a8eeaa84ed91420b6f50	GRN\ral's staticaster.jpg
+69238651221bd4ab36b54ab483b1a078	GRN\ral, caller of storms.jpg
+dfbecd9d32c7521d2a47afe6c228ddd0	GRN\ral, izzet viceroy.jpg
+1b80fd85a1468efd37585e94b6bb7380	GRN\rampaging monument.jpg
+5265d45f46e38965fd7869b0745deee6	GRN\responseresurgence.jpg
+5c37f7762bb2e118de433c8f66fad28d	GRN\rhizome lurcher.jpg
+55ba78f09817811c7090673a028defde	GRN\righteous blow.jpg
+8319a4922d06493d25a3c955b9b60844	GRN\risk factor.jpg
+576eb81441f5043d752520f7b50a446b	GRN\ritual of soot.jpg
+93c1d65665403383a1bc8f451fbf0892	GRN\roc charger.jpg
+70d620509182fd0f56d2afda75bf9b30	GRN\rosemane centaur.jpg
+99f3ad927ef81b1934f2727610fdb616	GRN\rubblebelt boar.jpg
+65fc2e4baed9927a876d6dca99e99acb	GRN\runaway steam-kin.jpg
+8a2c06c38fc626024396df631854683c	GRN\sacred foundry.jpg
+0d8a128937101f83507111b08bf81986	GRN\selective snare.jpg
+b178d09914281c6a878cec803a5da1fc	GRN\selesnya guildgate (a).jpg
+4b74c405bba61f4b05279d0f2b6d9e32	GRN\selesnya guildgate (b).jpg
+64774a4cd943a395c31aeeab671d4bf8	GRN\selesnya locket.jpg
+9312f15695cbd1a59c23438a89e65f63	GRN\severed strands.jpg
+e2d872cf9f6b88396c29a1d3cdcf3f97	GRN\siege wurm.jpg
+8f669009e1d11c042a68ca03b6a7d7ee	GRN\silent dart.jpg
+9e908a16777f7dd996bd1172f8376873	GRN\sinister sabotage.jpg
+e0a76142af5790341d7a15f9409af4ea	GRN\skyknight legionnaire.jpg
+7ba996ff465006580ae00f7eac7567f7	GRN\skyline scout.jpg
+f97ed735ab16ec1ef4530fc0655fe548	GRN\smelt-ward minotaur.jpg
+d21d1a50d0579ce9bee4fa50a4c419c5	GRN\sonic assault.jpg
+addf0bc444e9bb8f93d341657ddceb7c	GRN\spinal centipede.jpg
+762521c9a197312d154b8b3e6ed05081	GRN\sprouting renewal.jpg
+9d295d93a116c7b86a2af2d8d6fe1615	GRN\statusstatue.jpg
+51abbd5ff8ace139d73ebdac380b5325	GRN\steam vents.jpg
+b391e117aecd5e87050429dd73009b97	GRN\street riot.jpg
+e88c2f5e736b86bd1b803583736e663c	GRN\sumala woodshaper.jpg
+6e2ccc3030b12c0ee58d02a81aecb1b3	GRN\sunhome stalwart.jpg
+e9e2361a6245b3499a3ea135144d9517	GRN\sure strike.jpg
+b8d4e6875950a18459ce3a237e80c6b8	GRN\swamp.jpg
+7547450674bdf25cc140f6bd058047f0	GRN\swarm guildmage.jpg
+0f584b029cf2258576176f08db3a18d8	GRN\swathcutter giant.jpg
+1ff5ab5a0a7015c6e487abed6efe4603	GRN\swiftblade vindicator.jpg
+2345b9826f1cb93568c53fb3f5d3b7ce	GRN\sworn companions.jpg
+9af0474cbca6d5884a0fc54fa4bdfc42	GRN\tajic, legion's edge.jpg
+522610edda396fb8482c04831020c8ec	GRN\take heart.jpg
+fc8cee3acdc40668a95453c9f489a136	GRN\temple garden.jpg
+65efeabef283ef47eb038bc13e7c806f	GRN\tenth district guard.jpg
+dc0298b9fea290da278597605b3589ed	GRN\thief of sanity.jpg
+ea92f3ef9a6d0d821b8cf481cc72b07d	GRN\thought erasure.jpg
+6e853089838a635ea49c960e5171f9cc	GRN\thoughtbound phantasm.jpg
+1b90283e36e89b77c40270e8db8b5589	GRN\thousand-year storm.jpg
+9799f5963462f1096674fe8aedb3da2b	GRN\torch courier.jpg
+3717e29e593d8fe30210784913acc357	GRN\trostani discordant.jpg
+5222f7f162dd265c19b45df9023e75d7	GRN\truefire captain.jpg
+34aab9a192dc6108bcd085bbe4181e76	GRN\undercity necrolisk.jpg
+a745aba313d842466804ac62cd905d6f	GRN\undercity uprising.jpg
+072604e4e70fb35f2cb038cbf0c20da7	GRN\underrealm lich.jpg
+b1f5f9fa7782599ddc8e52385e4e29d0	GRN\unexplained disappearance.jpg
+8acbfa3ba1d44113b1fb40534a56f4e2	GRN\unmoored ego.jpg
+a3c92929ff8335fc29ac042847bccd00	GRN\urban utopia.jpg
+009d957621310709ddf3c460d22c96a4	GRN\vedalken mesmerist.jpg
+8d75ce8d48d6ef050c12732aa23d8377	GRN\veiled shade.jpg
+232a50bc2efd5bd1a71f8a7aaed76489	GRN\venerated loxodon.jpg
+d17695e5619e4f6bc45f84628ccaccf2	GRN\vernadi shieldmate.jpg
+57655d46e56d897d6a8678b759877b74	GRN\vicious rumors.jpg
+81df7ce9dc2e4873cec2217786416a9e	GRN\vigorspore wurm.jpg
+d495eb4abbdf6f806f772f2c8f36002e	GRN\vivid revival.jpg
+012c497365cbb3f6f8e25d50c2006030	GRN\vraska's stoneglare.jpg
+f55fc82ee3075980606e17166dc4f8d6	GRN\vraska, golgari queen.jpg
+29939abc78ad9342d543974256aa43b1	GRN\vraska, regal gorgon.jpg
+0c7a40357e1c88254ed15bb391d518d6	GRN\wall of mist.jpg
+9f6cc4e66e3447d2b5d6505a4d354d2f	GRN\wand of vertebrae.jpg
+3dc2af3c290fc9354fe48e95bbf2ca7e	GRN\wary okapi.jpg
+505c7b9942b68a0601e702016d376398	GRN\watcher in the mist.jpg
+dd25917413a95f0d6402a3e194c04164	GRN\watery grave.jpg
+4edfa0bebbf07ce1d4543ef0904bb112	GRN\wee dragonauts.jpg
+e4c47df515fc70bb16f27c1f5ae4b709	GRN\whisper agent.jpg
+e6348be23dc8a5c881aad059217d7c8e	GRN\whispering snitch.jpg
+e9fd07a980f29146a9f34139e0fcbf47	GRN\wild ceratok.jpg
+34f2ada71524073e292d85375decb351	GRN\wishcoin crab.jpg
+a2d8398c0eb6cad578850ad1d4a68f28	GRN\wojek bodyguard.jpg
+c17d71bde311b5c980aa6c775dc37115	GRN\worldsoul colossus.jpg
 a29e45d19545621f997bf7f33de883b7	GS1\aggressive instinct.jpg
 d6e46504e862d1986b8ff9ca4114161d	GS1\ancestor dragon.jpg
 e483af3d0928c368a90031d14364de0f	GS1\armored whirl turtle.jpg
