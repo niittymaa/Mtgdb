@@ -22963,8 +22963,275 @@ ac784a6d6cd0ad51135529ec5ebd0d81	MD1\Shrine of Loyal Legions.jpg
 82cd1c7f01ae424df19427e5e26d81b2	MD1\Vault of the Archangel.jpg
 b2182e5eb6a18e9416e57768e67c93e5	MD1\Windbrisk Heights.jpg
 8373e8e46f0669cb2bc2b0c3b7399db6	MD1\Zealous Persecution.jpg
-0330d86706c068432a5ba46be455592e	ME4\Regrowth.jpg
-f76ce2e56407265747a6ed944c40d9ed	ME4\Sea Serpent.jpg
+1ecb1fd5a7d13197e17a2a1ce0604de3	ME4\Acid Rain.jpg
+f1b927a6afe628773824f75b03489e21	ME4\Aesthir Glider.jpg
+e99876ab18f5384e1625a3b5b583783f	ME4\Air Elemental.jpg
+37c2950573309b800c6e6edf5a4bf523	ME4\Al-abara's Carpet.jpg
+093ff58c1ba42b5fdc6c86a06c647741	ME4\Alaborn Musketeer.jpg
+e3320b7b7d3162a12c8e9cafa077ab0f	ME4\Alaborn Trooper.jpg
+0dd462d91f3b86f0401fd067b8b909fc	ME4\Aladdin.jpg
+f088443a47d02b11b08725b548bd1eb3	ME4\Alchor's Tomb.jpg
+0d3ebf18d80f72f7feabf8d2c874e774	ME4\Ali from Cairo.jpg
+328ea156e2a525aaad2a856522db294e	ME4\Alluring Scent.jpg
+4eaf57624c3196a83827e13268761db6	ME4\Amulet of Kroog.jpg
+327e9d1583e961d097454734f65bb3ed	ME4\Angelic Voices.jpg
+7b0d5d0368d56654dd8e81c6839b5657	ME4\Animate Artifact.jpg
+02d40fb96fe88d5cbcd8b6a2437eb550	ME4\Argivian Blacksmith.jpg
+b1d8fb433333cfd482ca2ec92250111a	ME4\Argothian Pixies.jpg
+edf92354fe6b6ea5b968c6338f765cbe	ME4\Argothian Treefolk.jpg
+64528a038268aca291ddb922e0339584	ME4\Armageddon Clock.jpg
+dc2cb38865b80481893400060e7f53a9	ME4\Armageddon.jpg
+a6d1fd6599582877e1ba1a03ffd1e1c1	ME4\Artifact Blast.jpg
+f556c794141e9999f6378721638f73da	ME4\Ashnod's Altar.jpg
+457b0966ed51666e896d27180760c0c3	ME4\Atog.jpg
+cbdb4dcd09ab6ce5ec4c76c4c6ee7853	ME4\Badlands.jpg
+46524f14104edbe89a2b4440385c627a	ME4\Balance.jpg
+bf13faba98d857871ea9422d6e011253	ME4\Basalt Monolith.jpg
+e32d6b0936b424ba67ddc1ffec170f6d	ME4\Bayou.jpg
+83c436775d2fedec3d5971fc896aee1f	ME4\Bee Sting.jpg
+5be1d6e20bb864c6629464152769fc82	ME4\Bird Maiden.jpg
+e9ddd67dbb353d493439cf8081a9e680	ME4\Black Knight.jpg
+2d6a5f5bf7a1ccfc63a12a0931f96ce5	ME4\Blaze of Glory.jpg
+f5bcc7fc4c6ade7a9249a77b41a2c9af	ME4\Blue Elemental Blast.jpg
+4bfd75de2084fb20d586762443084f46	ME4\Book of Rass.jpg
+cddae92e44cdb24e2ec8209eee7a3100	ME4\Bottle of Suleiman.jpg
+88e77433a7217043fcddab8f6a79aa77	ME4\Braingeyser.jpg
+30d72e2850585486ce8d6a614bb0485e	ME4\Brass Man.jpg
+b11cdc0df8f11b3fce3281b90b92ac3e	ME4\Bronze Horse.jpg
+67e8a0571061b6701b6a18613e3660b8	ME4\Candelabra of Tawnos.jpg
+4782183c77599d78a24c15641eb07c39	ME4\Celestial Sword.jpg
+16efe079d4868e4194c408757e78796b	ME4\Champion Lancer.jpg
+afc8182714fc358d9e20fd2bd7f1576b	ME4\Channel.jpg
+1469554b75e5efa681f3451b0d295d09	ME4\Citanul Druid.jpg
+da64acdebd9dcb47060a15ed0c73ce82	ME4\City of Brass.jpg
+8334f372aa23fc09c626630e2f4ba1b1	ME4\Clay Statue.jpg
+a9f093c86f2cd76df8da6f145b2d5624	ME4\Clockwork Avian.jpg
+891210405f6bbc5ab0adf57121fe3932	ME4\Clockwork Gnomes.jpg
+6db78524581aecb27134187e22fecf90	ME4\Clockwork Swarm.jpg
+9082d32d8c9f7db6280a70f6e8ee43e6	ME4\Cloud Dragon.jpg
+baad9ad4ca784000f4638bf148d44b45	ME4\Cloud Spirit.jpg
+6255b165dd6bb441277d5b6acc733822	ME4\Colossus of Sardia.jpg
+7942ddcb56b2059eb9c5dbf12ec94279	ME4\Control Magic.jpg
+d6b7945bef349a11653155aebf17dbe6	ME4\Conversion.jpg
+9bd69a287adfab4c832a8f8f9053ce59	ME4\Copy Artifact.jpg
+d80a0cbc891b290bab836124728cf221	ME4\Coral Helm.jpg
+1cc7551118c9d41ffa50cf34dd39db6c	ME4\Counterspell.jpg
+f6542c9e3148849e1c3850b0c66f7bbc	ME4\Crumble.jpg
+26c0b2f44bfe728c75c413d541e68d73	ME4\Cyclone.jpg
+477ea7ddc62d1387b856c7df7a7b7204	ME4\Cyclopean Mummy.jpg
+3cae65dd5a499ad888b46fa877c1d996	ME4\Cyclopean Tomb.jpg
+c47fce2d7cf007d36191969bbac90fc4	ME4\Dakmor Plague.jpg
+ac321ffc1cb3de4fe876cb22d2040a65	ME4\Dark Ritual.jpg
+4b8d2a67e647accba379c9200e8960a8	ME4\Deathcoil Wurm.jpg
+0032c5840dcc8e5d0253eafa4873ce60	ME4\Deathgrip.jpg
+0dc11602a7183b7b3febcd5a36cab16f	ME4\Demonic Hordes.jpg
+c1283cd2054dd52580fb60057fb89d98	ME4\Demonic Tutor.jpg
+52a61314a4eb8d142e1d3b50f383c5e2	ME4\Detonate.jpg
+34681e04d94e52c48b38995b80cc55db	ME4\Devastation.jpg
+c231cda6e252c9b01243f19bc0dd49c2	ME4\Diabolic Machine.jpg
+ccc964263ad254050f8965f63230c45a	ME4\Divine Offering.jpg
+2950cd42d3bd2c4080857d29f8920d59	ME4\Dragon Engine.jpg
+674285b584fd968c7cd891669d0e78b1	ME4\Drain Power.jpg
+93c204f19cad326edfff66799db18ba8	ME4\Dread Reaper.jpg
+0a5f1a2c5497bfb52e39f6e0061f00bd	ME4\Dread Wight.jpg
+07f9c33f8d3ba95fa245fee8eb7b88ac	ME4\Drop of Honey.jpg
+a6e785d236e06044769ad70e77de4b87	ME4\Drowned.jpg
+49170fff407f82322ffc3d46c87f0002	ME4\Dust to Dust.jpg
+482bc5609d490ef6e50657dcbad12a92	ME4\Ebon Dragon.jpg
+c18a74382158aa8d7f9b447382dbac44	ME4\Ebony Horse.jpg
+af9d78a74589f011e69c6255333a719f	ME4\Ebony Rhino.jpg
+5964e602e0550d5b34f0d38768f40fe7	ME4\Elephant Graveyard.jpg
+a7b42ad8f8389268b32a559ec87e207f	ME4\Elite Cat Warrior1.jpg
+00ab42ffe523e425bb65d1cec1c05917	ME4\Energy Flux.jpg
+ee78bbbc29f837fc92de7ed5138220cb	ME4\Eye for an Eye.jpg
+d9c859dd95b8aa9e3beb63869200c821	ME4\False Summoning.jpg
+c5d0daae606944a9e17ba0cb28eb5067	ME4\Fastbond.jpg
+72e664bc5540c009c600bf797d1949f9	ME4\Fire Imp.jpg
+0509b5664c5d72dd84123bade278dd75	ME4\Fire Tempest.jpg
+333923528fe8ef42687ad341bdd3ff55	ME4\Fireball.jpg
+f09df689181aa5f18afa3ea34c9e899d	ME4\Floodwater Dam.jpg
+f8d512041a6d74b7fcfbc814983da8c8	ME4\Flying Carpet.jpg
+49587899accfac8caf48086ae547a9d1	ME4\Fog.jpg
+eb56bea05b9901702191db314ead4f7b	ME4\Force of Nature.jpg
+d85635f7473a9c40bdd22d6ecd44764d	ME4\Fork.jpg
+8814f51726bac759a6813114898ca18b	ME4\Foul Spirit.jpg
+9bb85598fade2bdf8474f9dde44415bf	ME4\Gaea's Avenger.jpg
+5fa6aae8d53afee7164d6e828b0ee397	ME4\Gate to Phyrexia.jpg
+8b9ca764edd0b51882be34a4c4245e42	ME4\Gauntlet of Might.jpg
+3bac5d3637276f02561389b16ac90e31	ME4\Giant Growth.jpg
+581a25a8182991bf87990e33dbbb8616	ME4\Giant Tortoise.jpg
+52cc255ce2bc6918d01dc4de52dc191c	ME4\Glasses of Urza.jpg
+ab8e7290804f236a8885bc2b9a1338ed	ME4\Gloom.jpg
+f77faa83d21190028a0c39862b8a37e1	ME4\Goblin Bully.jpg
+6a2bc70bfbb1aa2e54f4f73a30196f33	ME4\Goblin Cavaliers.jpg
+a192889651b01df990fb36524a6d08cb	ME4\Goblin Caves.jpg
+e4407886bcf5e1d9689470a566083454	ME4\Goblin Firestarter.jpg
+635c04c77f2a6585e7d18e94378a3cb8	ME4\Goblin General.jpg
+80200e03b8f39fc0434fa6cfbb0384e8	ME4\Goblin Shrine.jpg
+bdb95b563c9f93d67d2eecd285600f50	ME4\Goblin Warrens.jpg
+69ecd5e032ae72d32406a2032c7c9f39	ME4\Gorilla War Cry1.jpg
+0e75f5d09bede8f9281fdd9a65599ba7	ME4\Grapeshot Catapult.jpg
+7ce975eac372e3474420f9e06f3392fa	ME4\Gravebind.jpg
+b88e15412af2da21f96a1022e7ad52c9	ME4\Guardian Beast.jpg
+76b82c6c8d8537c3aca986b041f48f4e	ME4\Harsh Justice.jpg
+eeda8e7098b76466b77e83758ee378c6	ME4\Hasran Ogress.jpg
+6bb37dd687b14a25e2ca08caba3c36a4	ME4\Healing Salve.jpg
+d2db14a268ba0e37b8a3788d9f8a8d9a	ME4\Horn of Deafening.jpg
+cdb925dc8fdaeb3d0723c30a8a667240	ME4\Howl from Beyond.jpg
+9a3144422041d17fe64982151331c673	ME4\Ice Cauldron.jpg
+13f0e364fdbcae7d50b9d65e8a45711f	ME4\Icy Manipulator.jpg
+671be94cc1fd5f0784de357f0f8258da	ME4\In the Eye of Chaos.jpg
+eb3afd30449ea7030c81b12d152dc3ed	ME4\Instill Energy.jpg
+ba1508cee24fee8c42784ffdc88f0836	ME4\Ironhoof Ox.jpg
+456cc7fc9083e0178c9052742ff7699f	ME4\Island Sanctuary.jpg
+636f2c8f15fa7eca024c1e120c08f27f	ME4\Jade Monolith.jpg
+3bcab1ba6af5baf66de82a9e6439ef68	ME4\Juggernaut.jpg
+978fd9362414f249974d3c2c8278f99c	ME4\Junun Efreet.jpg
+141617b047187e76695f3412ecec0c32	ME4\Just Fate.jpg
+8f5303742bc77b3dac99690b3bd48c40	ME4\Kismet.jpg
+90d5dc4ececc73fb83b972623b753075	ME4\Kormus Bell.jpg
+9759c65b84f1cfea228a53231965ea62	ME4\Kudzu.jpg
+23712bc8d862e9410e6087d774efdd4a	ME4\Last Chance.jpg
+d0c288a6ac5470b23e792c3db2b52f06	ME4\Lava Flow.jpg
+e89081eb3a065cd6418d3c48356ecff2	ME4\Leeches.jpg
+82883c1da9518ee997e3a51f8f923512	ME4\Library of Alexandria.jpg
+436d2640cf11ee90a4c8922031cd0f07	ME4\Library of Leng.jpg
+45b7e8d462f8dedb5be2d6b7387caa85	ME4\Lich.jpg
+5ae0038ca1ea767803f1b29d3b74ebe1	ME4\Lifeforce.jpg
+5952750f1552507d66eb96c2b01895a6	ME4\Lim-Dul's Cohort.jpg
+56d81af5ad4ae99e2f29cde675adf404	ME4\Living Lands.jpg
+9150933dcd69a297e2924c0bc7bdfae5	ME4\Living Wall.jpg
+28eea20e04691dce4d2e165df2730517	ME4\Mahamoti Djinn.jpg
+0c38916825c5544e57411dcf98b51569	ME4\Mana Matrix.jpg
+ce2a21850234e6ba3658f66079e4324d	ME4\Mana Vault.jpg
+ecd660daaa2e39d12525b53acef52dd0	ME4\Martyr's Cry.jpg
+6bec6a532cda38a23be2e833b06b7eab	ME4\Martyrs of Korlis.jpg
+45ecfa45edbf3a8280f43903aa7e35e1	ME4\Maze of Ith.jpg
+b0d92aca243e2cecd4002d40a70870e6	ME4\Mightstone.jpg
+776aeeab772de8c5b0870d7383952a21	ME4\Mijae Djinn.jpg
+e14cbf2a382d5f53100e4c004b02ec8a	ME4\Minion of Tevesh Szat.jpg
+5414f14624f5463eb8d6c5b36916f84b	ME4\Mishra's Workshop.jpg
+f3feb33255ad6cfd6f5767a8af00d120	ME4\Mystic Decree.jpg
+4f87452b8af48888f361e4dd0c890161	ME4\Naked Singularity.jpg
+6ae2483b36638245683407ff4b3e6406	ME4\Oasis.jpg
+c735538c45b6e1d65a385ef87d591911	ME4\Obelisk of Undoing.jpg
+3c00e277e311c54d2e18b5b10b5d2bfd	ME4\Obsianus Golem.jpg
+5f98f9045996f48c569b4083319f11fb	ME4\Ogre Taskmaster.jpg
+f4ddaea380c715afcac0a19b762da8a5	ME4\Onulet.jpg
+686e98cd6626bcf16ea11bcc92aee65e	ME4\Orcish Mechanics.jpg
+6768919cd21779ce96e1671c09386ce7	ME4\Osai Vultures.jpg
+c5b687f1f7f0404f48f8ce7018c7e383	ME4\Overwhelming Forces.jpg
+40db3e7ac5eae830efb3ee31b6dc80aa	ME4\Owl Familiar.jpg
+de17cb3084f9f00af50d39662e8c3f7f	ME4\Pentagram of the Ages.jpg
+2b66313e19a04bd9469116f6b8b60c60	ME4\Personal Incarnation.jpg
+290c4bc18eb80b8c5867d96206447c36	ME4\Phantasmal Forces.jpg
+2cbffe3a2c8e2caaded4e8aac4745e9f	ME4\Phantasmal Terrain.jpg
+add1fb00f71e1fdc0ca714747cf64575	ME4\Planar Gate.jpg
+e29c7aca5c9d30bc1b8c8e293d080938	ME4\Plateau.jpg
+61c5b5f6b97ec7a5af75d32c1f778c72	ME4\Power Artifact.jpg
+a4f503626b6ac9a4c8a6240a03865633	ME4\Primal Clay.jpg
+3f12eec41df86db76ca8c9e7a43b1098	ME4\Primitive Justice.jpg
+df8213bc351bccb72aaacf1abb54cf14	ME4\Prodigal Sorcerer.jpg
+61ad43b5e152ca4642d97dea3c3ad226	ME4\Prowling Nightstalker.jpg
+27e547505bfa96a5001d22ca88bc1f1c	ME4\Radjan Spirit.jpg
+4d7d0530b56a6c35964c4b8b9a558e21	ME4\Rain of Daggers.jpg
+0dff55688a36e3cce9adc49da972b649	ME4\Rakalite.jpg
+f1d88498483442b35ba75df85e10447e	ME4\Reconstruction.jpg
+72eb45503981f1aeebae4917004dc5b8	ME4\Red Elemental Blast.jpg
+5f746632c5caa4ca9532d7e1722213e4	ME4\Regrowth.jpg
+a83dab18476c22c739170502b391b728	ME4\Righteous Charge.jpg
+cd23dbf422e29af76832ba3b4397033e	ME4\Ring of Renewal.jpg
+98141c23249e7083386464b77de9e6ef	ME4\Roc of Kher Ridges.jpg
+5d017e9dc655f4ca1c50dbcb1302f9db	ME4\Rock Hydra.jpg
+d0daefd0282f0de58f67c29f12519232	ME4\Rockslide Ambush.jpg
+79d2a3eeaec6fbfe5853d8612ae09582	ME4\Sandstorm.jpg
+7348763f28a18e21afb3d9333798e4db	ME4\Savannah Lions.jpg
+3546ee8c23f7b77724d1f4bd58a6983a	ME4\Savannah.jpg
+d87ac92984469a5fd3dfacca86b0d793	ME4\Scarecrow.jpg
+b3b580a34b17ce60e57284a5726b0de0	ME4\Scarwood Bandits.jpg
+eeb9234fb012f0f22cbcfa3d3d21035d	ME4\Scavenger Folk.jpg
+5b9ff87b5fcc99dafb53e3e9de2e1461	ME4\Scavenging Ghoul.jpg
+11acfc1ef7c9e1bca2901adfefb6ad91	ME4\Scrubland.jpg
+8db72a250a378f21d34a7365e072b557	ME4\Sea Serpent.jpg
+5d0085f6d8176fe9da291767f42a89e2	ME4\Sedge Troll.jpg
+6e9bccc304185ec21c0659cfdfe48ce5	ME4\Sengir Vampire.jpg
+1518dcccb30138105b50ec03bd3aae21	ME4\Serendib Djinn.jpg
+8f0d1284b2f861fc1b03bfe99b65e35e	ME4\Serra Angel.jpg
+c1462d0b471ec3639755a9d05e10a79c	ME4\Serra Aviary.jpg
+9f5821906f685b2f4bf610d37f3dfebf	ME4\Serra Bestiary.jpg
+4c51bb8d2e7c15c4cb03fd64812cfca1	ME4\Shapeshifter.jpg
+690f9fe36f34db8d15ad59a65617b0b7	ME4\Shivan Dragon.jpg
+5fefd5f2fad0ed7e398c32f76b367589	ME4\Sinkhole.jpg
+f96b6f5002efb01f1fe136c0453f9138	ME4\Sleight of Hand.jpg
+f3ca3a85edabdfabffbecb44bfc7bac2	ME4\Smoke.jpg
+86a70a6d1886ab7abb4f2c1e0612df19	ME4\Sol Ring.jpg
+af1a5c9c9b315658a05f82e21e5ef012	ME4\Soldevi Golem.jpg
+0a43c29b0ebb418f86941d5633861875	ME4\Soldevi Machinist.jpg
+92410b98e2aa890c9731cb6f417b9e2a	ME4\Soul Shred.jpg
+9330f5e3c14809bbd248879657775a60	ME4\Southern Elephant.jpg
+7d9ccbb04549839a4e728c96fdc74787	ME4\Spotted Griffin.jpg
+838c2c47d2073a074cd3aaaa5d795762	ME4\Squall.jpg
+efbdae7734a83fa608bc892be903abee	ME4\Staff of Zegon.jpg
+b5625f10024eedd712321654c8db38f9	ME4\Stasis.jpg
+e4a519893269779dbfba6301434db098	ME4\Steam Catapult.jpg
+93d6437c5afdc5561b6d66c37f734766	ME4\Strip Mine.jpg
+012d1d918f0b94c760ea0150edbfcaec	ME4\Swords to Plowshares.jpg
+8028200789675fefad8c23d06cd0d822	ME4\Sylvan Tutor.jpg
+3fbb30d6074bf77b4de661da50b007ca	ME4\Symbol of Unsummoning.jpg
+0b04075655a560aed1ec78a09e456712	ME4\Tablet of Epityr.jpg
+73100f0abac907bcb1b7fb019d58f2f1	ME4\Taiga.jpg
+3d1965b802997627a9d83ff24cf41cfa	ME4\Talas Researcher.jpg
+e5e84e688aad3aa09181d6f6250c4273	ME4\Tawnos's Wand.jpg
+9adf16c412a1a6653fa7bdfdd139d943	ME4\Tawnos's Weaponry.jpg
+45cbfb0c13487930bd08223827aca28f	ME4\Temple Acolyte.jpg
+4b16f45b8895c89850ab1a75a53da09d	ME4\Terror.jpg
+7290b881c0e7f9e8a7c5caa5610ccd3c	ME4\Tetravus.jpg
+dffd3d3fd7e20675724b495c15004b28	ME4\Theft of Dreams.jpg
+d68fbbbc49df02280e4c04a8daec4eee	ME4\Thing from the Deep.jpg
+f906e9cc666ba0deccbd437795920e78	ME4\Thunder Dragon.jpg
+36b578a7f08937f5e4e944ee3a9e6309	ME4\Time Vault.jpg
+d843f3eeb036af0d6bed14dadb716233	ME4\Titania's Song.jpg
+bf0cc856745a4c699ab42e9921374d60	ME4\Transmute Artifact.jpg
+388cf3fb7c54bbd47ab7ea0ccb245a3a	ME4\Triassic Egg.jpg
+947a40347030ac102583fb2cc4969095	ME4\Tropical Island.jpg
+d4251bd8b4b507c071d2d4264c260c63	ME4\Tsunami.jpg
+0130ebe55320bbdd74cd2237859ebf80	ME4\Tundra.jpg
+7a228a43510ca1b3b751bd1ee53d1c4b	ME4\Two headed Giant of Foriys.jpg
+d9b0a27cc2400c76a9c99a6c8bcaa51f	ME4\Underground Sea.jpg
+575146f7b45f2d6b90cee56a98210962	ME4\Urza's Chalice.jpg
+011f8308cf1c2f122bd50e02b93f17e4	ME4\Urza's Mine1.jpg
+9d09943dc9ea109db8474a1ca005e64a	ME4\Urza's Mine2.jpg
+0646024f18f65c8e35fa361515c5154c	ME4\Urza's Mine3.jpg
+354565e0b9dbb1577d2978f5ad1b7ee4	ME4\Urza's Mine4.jpg
+3b063812eff282c0afd3df4d40bd032c	ME4\Urza's Miter.jpg
+036163929ff89c61a3f76381a9e25231	ME4\Urza's Power Plant1.jpg
+01e6ab8a88b160e7acc5fcee4d6e88b1	ME4\Urza's Power Plant2.jpg
+7656d1f731460ea136fcd13f5bdfd04f	ME4\Urza's Power Plant3.jpg
+bf3d77d2f4db4ca733e253a5b14295dd	ME4\Urza's Power Plant4.jpg
+4c9f464a48ad8b36e97d759d9ed6fa10	ME4\Urza's Tower1.jpg
+bd655fc4afb9c9949d8ca609aa873fdc	ME4\Urza's Tower2.jpg
+d599b68858fcf6eda53d9705913085f7	ME4\Urza's Tower3.jpg
+55cb7654ba5ea82136e19fceb967f969	ME4\Urza's Tower4.jpg
+58a37bc970654418b694d8d7ee7f8c2f	ME4\Veteran Bodyguard.jpg
+4392505c20d81dfdf3186012b6f182c0	ME4\Vibrating Sphere.jpg
+858fec236f408acc88bc0ca4cd88f8e1	ME4\Volcanic Island.jpg
+eee86fc2a66c2291f52406e94966aa60	ME4\War Mammoth.jpg
+2ffa26da2ae5bd79015819a360ccaddf	ME4\Warp Artifact.jpg
+63687a800c5ef5f87f0cdffb946edf69	ME4\Water Elemental.jpg
+dcbce09b1449457325dffd1424f0ae0e	ME4\Weakness.jpg
+9ad614459803052754682fb2dfa2ec49	ME4\Weakstone.jpg
+beffbbd155ce5ad9b633d086ced6c1ce	ME4\Wheel of Fortune.jpg
+3ff462843d7524492a9e12a03308630f	ME4\Whiptail Wurm.jpg
+ea8989b5555b1eb3fe2b98cf0acbdb4f	ME4\White Knight.jpg
+f21581728a48e94bc39b3bf3644e555f	ME4\Wicked Pact.jpg
+9f7fa21f1465e069bca7e27292c79331	ME4\Wild Aesthir1.jpg
+097ccbc7868421732f10a5d268345868	ME4\Wild Griffin.jpg
+9fb94a262f5ef65a6a04ddb01045b754	ME4\Wild Ox.jpg
+67d488ed4b93f16a60b4e99354ca579c	ME4\Wood Elemental.jpg
+82fe6d7cf695c05b9b33c5a0a26568a5	ME4\Word of Command.jpg
+b34c27b0cff931e2555d512ba9b7455a	ME4\Xenic Poltergeist.jpg
+bdaca004eb28b5019a0a237202479f64	ME4\Yotian Soldier.jpg
+f62e124a404e1d26405586a69006dff6	ME4\Zombie Master.jpg
 7cc88b94ae243b561b76142dc3f98d5a	MED\Benalish Hero.jpg
 1f2805e723abaeea175830ea030d83ee	MED\Death Ward.jpg
 81631a0355576d0856e66b11d03b6e2f	MED\Erg Raiders.jpg
@@ -26485,72 +26752,89 @@ a8f0301c332e6c8f298ebb316e1714f3	pALP\Mountain2.jpg
 2394a70c508986b172bca9cc0f73e7d8	pALP\Swamp1.jpg
 9aca3f1807c751510ce7dfeedc286ad8	pALP\Swamp2.jpg
 c46f2d2d6152d249c23439fdceeec7cc	pALP\Swamp3.jpg
-b803fa5ff02d328e749bfbe0c14175fd	pARL\Arc Lightning.jpg
-293d40622d240dbee20ed3e6b449bd2c	pARL\Ashnod's Coupon.jpg
-0a1d3c0247c959596fb68f3d1906b5e2	pARL\Bonesplitter.jpg
-6b12cadfe32a91749d75fdcfe569b09f	pARL\Booster Tutor.jpg
-39d67fb6195af1d65d45f647d866b8fb	pARL\Castigate.jpg
-5ec43bc66c68337d9fc19bd0f3d990e7	pARL\Chill.jpg
-bad370abb098e7140f82b00026e4969e	pARL\Circle of Protection Art.jpg
-e926aea04eba352cfefa6ae0fa77409c	pARL\Coiling Oracle.jpg
-2a48bb56458e0d28f4da9f443e95bd0c	pARL\Creeping Mold.jpg
-08882aefcc352c77ddeb9481bc388221	pARL\Darksteel Ingot.jpg
-59b689c058c2b79814549a856415d800	pARL\Dauthi Slayer.jpg
-44c7ba4be0c3efd609aee3f00003451e	pARL\Diabolic Edict.jpg
-e15bbec1f3efc6c280dad4e62d545f1d	pARL\Disenchant.jpg
-8baf1886d8b2d73779b5e821b4d877b8	pARL\Dismiss.jpg
-8228ab7423ac78cd79afdcc72dc5b89b	pARL\Duress.jpg
-f3007adc0246108e2ad95b61bbb5c82d	pARL\Elvish Aberration.jpg
-eab71f4220bfe80a576a8bec2e558bb1	pARL\Empyrial Armor.jpg
-cb5b0335aa315617cc52ce5e49c44e15	pARL\Enlightened Tutor.jpg
-16f0eb3d537c11a07e6482ec751a5db0	pARL\Fireball.jpg
-6b8208071feeae106a5be2880225a6d7	pARL\Fling.jpg
-1875e5cfe0b6e02d7b74bec4d279b7f4	pARL\Forest1.jpg
-b5781393541aad216036483131d56b9b	pARL\Forest2.jpg
-3be174ff5f30a2b6b5b5ff74a22f039a	pARL\Forest3.jpg
-b97ae919a659e48e6e42b142d47f2549	pARL\Forest4.jpg
-eac33461ce58802ff51c0b199fa4f07f	pARL\Forest5.jpg
-f9e92b223a3466ee9988e7d57941f7a5	pARL\Gaea's Blessing.jpg
-aa8a051f1ae93d21a34f26e71c36e8b2	pARL\Genju of the Spires.jpg
-3746e979393f50437e52a08ac331e5f1	pARL\Glacial Ray.jpg
-4bea63f875cb49363374a6a14e79f631	pARL\Goblin Mime.jpg
-6684624b8a65a528a0b3cc114e2418f9	pARL\Granny's Payback.jpg
-120f4da75dc4533d8d8628321750848f	pARL\Island1.jpg
-c7ff627580e3741b002ac86bb390343e	pARL\Island2.jpg
-59c440096f041cfda4a6a9217f248933	pARL\Island3.jpg
-bd4e9871b1765133fee5461a2cfbf8c9	pARL\Island4.jpg
-8c054305b352ca766759b88829858e44	pARL\Island5.jpg
-13df9113b5c4786a4eeea46216eb6542	pARL\Karn, Silver Golem.jpg
-a756c694ae191ae29bed48ed470371ef	pARL\Man-o'-War.jpg
-652957c2f59f12cd15568a1f23371e92	pARL\Mana Leak.jpg
-97a74e12139fa2fa3b6edb6955e47b42	pARL\Mise.jpg
-cc15179e003b8e3759b2ae0f1bed943a	pARL\Mountain1.jpg
-900567a7f8c7ca42191ccf2944188f8e	pARL\Mountain2.jpg
-b6fc73bd273330ead42c1ea2d46096f2	pARL\Mountain3.jpg
-b8e6ebfe6340450c8250b3baca8b0999	pARL\Mountain4.jpg
-df1ed503f61f843a93b6f81d032d26f9	pARL\Mountain5.jpg
-fec6adc375b1c3e722a2781a0612b75d	pARL\Okina Nightwatch.jpg
-3175c48575637dbd77875d00483c059e	pARL\Pillage.jpg
-73991224f288b9cdc5aa347ab536688b	pARL\Plains1.jpg
-ccd97326ea9a7366b691622acc91fd75	pARL\Plains2.jpg
-6ecdaf13f59805a0ac7fa45b7b5daae2	pARL\Plains3.jpg
-c4d054584d374910642c50ec8fa4497c	pARL\Plains4.jpg
-80d289a2c8533813676b4a8e150a3e32	pARL\Plains5.jpg
-56844624927dad5f2ac870412d2f1d6a	pARL\Pouncing Jaguar.jpg
-7602bba0c773ed99eb25991beb803a4d	pARL\Rewind.jpg
-c189e5ed04cfad3ef4be64c71a4b9f05	pARL\Serum Visions.jpg
-99866e3912d882466077b3db2fdfc021	pARL\Skirk Marauder.jpg
-59e806e66cb63151eab2af36cf5a636c	pARL\Skittering Skirge.jpg
-925321d70a528f6203b89e29dc24b5c4	pARL\Skyknight Legionnaire.jpg
-82919c4aca662c5e835229245b95f6de	pARL\Stupor.jpg
-1b51997e4c3b9e408116e5c51e7526f9	pARL\Surging Flame.jpg
-c79d5d48fb2844f7ba55bbe629e39a17	pARL\Swamp1.jpg
-91e11fcd1745635caa4a0c624c0fcd20	pARL\Swamp2.jpg
-b3e3e00619d53fd2c525f878a0bfb96c	pARL\Swamp3.jpg
-0ada90069d372ed32b03214d673b8e89	pARL\Swamp4.jpg
-e8d7553e89bbbe965278efcc629164d5	pARL\Swamp5.jpg
-183f2af73a54385f1649b98f2ece72c5	pARL\Uktabi Orangutan.jpg
-eff08500571e48469846e28d70057e4f	pARL\Wee Dragonauts.jpg
+9f8d1626f57b487dddc0c3f66daf19b9	pARL\Arc Lightning.jpg
+da40446c34228086eb1a680d32c7b486	pARL\Ashnod's Coupon.jpg
+40547a0d7664dff6a6ddbbe2670b0f33	pARL\Bonesplitter.jpg
+99d61347f8189ec5229600dc5fe8d182	pARL\Booster Tutor.jpg
+a214522abb4311233464bcc933b23ae3	pARL\Castigate.jpg
+d96dcbdfeeb3fe00ea181231e15c4851	pARL\Chill.jpg
+f3f2d4bd4b4875d7a159b931c58f5dbb	pARL\Circle of Protection Art.jpg
+2a5b459d327fd870be2528418c4ec21a	pARL\Coiling Oracle.jpg
+25291f439a51d7b9687707c84e58590f	pARL\Creeping Mold.jpg
+520e129dd8f12f0a648be0db936b03d8	pARL\Darksteel Ingot.jpg
+3a03938f64982e364a053183b1da2409	pARL\Dauthi Slayer.jpg
+61d4590762049ce14a8f83b39c718d44	pARL\Diabolic Edict.jpg
+31010331a1a5620f9428598f94e10c8e	pARL\Disenchant.jpg
+e6ad7147f036bb45e62a2044be3093d7	pARL\Dismiss.jpg
+d277a2886d871d96a23e0bf0121e105c	pARL\Duress.jpg
+6c67a1fe594ec1488831d1060b66de8e	pARL\Elvish Aberration.jpg
+38de14edce606e688a1e6d292bcc388b	pARL\Empyrial Armor.jpg
+577ef89820b7acd3d02012064749f6b4	pARL\Enlightened Tutor.jpg
+603974cec453399812e25842463b18c8	pARL\Fireball.jpg
+707b00f80742a03b7d5a0f0958336692	pARL\Fling.jpg
+f8ac82aa156303cf8391b556cadb6b86	pARL\Forest1.jpg
+bd15f13951a5c93624976b4ee5372ff3	pARL\Forest2.jpg
+e1ac8a9578a95a6ed563a8534f3b2a1b	pARL\Forest3.jpg
+73b5dbaea1def5ab3dc8e7c067ef658f	pARL\Forest4.jpg
+886e7345c9b756066a6cc6c38980065a	pARL\Forest5.jpg
+f0e105eca01c541263cf2bc506425699	pARL\Forest6.jpg
+346fdd9af00242dfb2febbe42f4acf1c	pARL\Forest7.jpg
+ee29d67d463670eb55d54dedbe44fe59	pARL\Forest8.jpg
+f66d9a1bed7cff3147ac22289d95ea51	pARL\Forest9.jpg
+8e7637d0307e4ea20cf19127d0dd3f8c	pARL\Gaea's Blessing.jpg
+b27a7454ce0940fb3301aa885b6090ec	pARL\Genju of the Spires.jpg
+e426d0427a0204dc6ef132531af7a0d9	pARL\Glacial Ray.jpg
+c6a919b71d4f80d236d189398876c5ae	pARL\Goblin Mime.jpg
+5e5a20a46d0168ad198fc869c892650e	pARL\Granny's Payback.jpg
+f1d54407f53c621be2a2091446085411	pARL\Island1.jpg
+25d7b854a3bf087615bff672df292826	pARL\Island2.jpg
+899a0a56d01893398b8628681e06378c	pARL\Island3.jpg
+ad9fa076b192effbd34029fa3d1ebfbe	pARL\Island4.jpg
+1dfed109ae2c599803c370394610019f	pARL\Island5.jpg
+7a4df0390d0447ebd45b8cb7a34b0d49	pARL\Island6.jpg
+63b5357ae61204f20d2e3e9402055518	pARL\Island7.jpg
+1f329bdd75d4c4a89329977d0be1df1b	pARL\Island8.jpg
+d45a160669943fffd3561aef7cc5f036	pARL\Island9.jpg
+e2207933a29b8b96b8cdf40fe8d024ac	pARL\Karn, Silver Golem.jpg
+a415e8c440371b37adb9e89efa37fdff	pARL\Man-o'-War.jpg
+f006ea820cdcd8a2611012e56eaea8e8	pARL\Mana Leak.jpg
+38765469b3ae10f39c5b5011439511e7	pARL\Mise.jpg
+388b3141712a1dcb86797230de6f51a5	pARL\Mountain1.jpg
+08e0b3c11d606d0a8ea7a061271deff5	pARL\Mountain2.jpg
+42f22f1ed949fb9f78a9959adb27c3b3	pARL\Mountain3.jpg
+5c74cb1028eaf1294884a683b4bd82ba	pARL\Mountain4.jpg
+d9e8c628a35d65eb85b5c23ee3113c1a	pARL\Mountain5.jpg
+2065a36df67a7fbf8d13cc71c18d6d87	pARL\Mountain6.jpg
+f24e30aac1559e7e70b56b812f94e6c5	pARL\Mountain7.jpg
+e15915a8a0ddd6bf89c7c4320023ee7d	pARL\Mountain8.jpg
+1205728e17ab80ab2324f59fe0984ff1	pARL\Okina Nightwatch.jpg
+072a0ed17867597d387f862b3ca78dd7	pARL\Pillage.jpg
+29e1f0a74fee97dd38d39afb5083be9c	pARL\Plains1.jpg
+03aa9e866893264252b55051374191d6	pARL\Plains2.jpg
+750c52066574cf0ebcb4cc77150f3daf	pARL\Plains3.jpg
+11b023a3e40c9b4effa0f58b9f9bf4e2	pARL\Plains4.jpg
+f63765668f329a7f7ffb83e454f56b63	pARL\Plains5.jpg
+cc4533d5028fd99bee9ae419cdb23fab	pARL\Plains6.jpg
+2cb4bdeabf3c45887756f5a4052c7d58	pARL\Plains7.jpg
+125f54f0dd32dce408a7a8ee1feead74	pARL\Plains8.jpg
+d9889d96bab027e292a66c82f1f7cafa	pARL\Pouncing Jaguar.jpg
+dd2ad1e1f491dca65d21b9bddfa1926e	pARL\Rewind.jpg
+34635687ea2d2a81fb07da15e00b7fc8	pARL\Serum Visions.jpg
+c876ee47e47768917c24a388d4f5a20e	pARL\Skirk Marauder.jpg
+f64882b456b745ea333ecb8d5dce66ef	pARL\Skittering Skirge.jpg
+ef283097998860f8c50ae78e477ff51b	pARL\Skyknight Legionnaire.jpg
+7be971887cbc095f1e2d98ac6e426b65	pARL\Stupor.jpg
+8e6dc030a66428376a67ec5140f3bbe2	pARL\Surging Flame.jpg
+181cafdb5b15ada0195c435fcd2b5a00	pARL\Swamp1.jpg
+561b88cce3fb32ba688e57f158bac535	pARL\Swamp2.jpg
+2984bbd55aa62c5b23eada491be7d508	pARL\Swamp3.jpg
+90955c509cc27ec1268173138a1a2be8	pARL\Swamp4.jpg
+f9cf53ea63b3206999192bb226d7a55e	pARL\Swamp5.jpg
+7f3e2163ab4d20690b0e85303d6a44b0	pARL\Swamp6.jpg
+1426a6b37811e06014c5f9a52c12c747	pARL\Swamp7.jpg
+7b8495a386a2f6321c7a580e67fbf2fd	pARL\Swamp8.jpg
+b1da38c1eed80bf4eab8de122133adb7	pARL\Uktabi Orangutan.jpg
+a0b6932d39b8d3b2b809700c4a5a926f	pARL\Wee Dragonauts.jpg
 dca3131f2dd562f1534b955513381d1c	PC2\Akoum.jpg
 127ef9cb3358087489db0303767f1018	PC2\Arc Trail.jpg
 fc062536e99adb72c44efef7293b409d	PC2\Aretopolis.jpg
@@ -30044,26 +30328,64 @@ cbd1377879c2974cd7c01399ac754525	RTR\Vraska the Unseen.jpg
 df782e7659437ba35fca8bce91a91595	RTR\Wild Beastmaster.jpg
 03f91ef36c1e8b6e54a4bad6bedfcbb9	RTR\Worldspine Wurm.jpg
 3cff99cde5af101ecf78547949d8e540	RTR\Zanikev Locust.jpg
-64921a5c51bba5024501251ebf20a9a8	S00\Angelic Blessing.jpg
-939d5e394896f66ab87553995a31a0ad	S00\Breath of Life.jpg
-9798c1fc7c98baefb224184636a0509b	S00\Durkwood Boars.jpg
-d3e54222a3bd8c72900e770068f704a2	S00\Eager Cadet.jpg
-f5cac35fee958aec4bf0cdd7d63f946f	S00\Giant Octopus.jpg
-050046075e9e09386b742e4a02bf6141	S00\Hand of Death.jpg
-ab0da7d42fed515f54e3b6da61e4d03d	S00\Knight Errant.jpg
-de4f2e6e47fd9db221c4a678a960cef8	S00\Lava Axe.jpg
-83de2329b13fcc2138b8cfc291559a32	S00\Mons's Goblin Raiders.jpg
-7c4b92bcd0bbd61fd40a828be5d3da6e	S00\Monstrous Growth.jpg
-ab89c321e8edb2d88e7e014c142f64fa	S00\Moon Sprite.jpg
-7098b3d1d3146a2e2facfa74d3172e35	S00\Ogre Warrior.jpg
-a45c8ef3ba8c4a4fc8fe67742be08042	S00\Rhox.jpg
-b3ad82ac094b9893039b8d94de77f5d2	S00\Royal Falcon.jpg
-11875492b4890d3c3039ff3008090341	S00\Sea Eagle.jpg
-0cfda491dc2d4af0a3a8222bfd443cfa	S00\Time Ebb.jpg
-5cff29dceaa497968aecba0632cec3fe	S00\Trained Orgg.jpg
-0f36712c75c7777b8b9c6f2416a2e36e	S00\Vizzerdrix.jpg
-115e303ba4e34331558836e2a7e32bf8	S00\Wild Griffin.jpg
-85cfc82561a8139d9896a3e9dcf48c1c	S00\Willow Elf.jpg
+5690138b22274af1cb3d6adc0dd1060e	S00\Angelic Blessing.jpg
+79bd403faa9195091091e4501357c723	S00\Armored Pegasus.jpg
+b611eefd33be9cfd40ce494526982cf1	S00\Bog Imp.jpg
+836823578b2477c662949efcec773ca9	S00\Breath of Life.jpg
+2987d1e7fa0fbee00d4a93cb13e4ff94	S00\Coercion.jpg
+08922d216cc23b5d7c09d6d39507925f	S00\Counterspell.jpg
+11dd9c4d6b400fa02bce8e9cfda04f9d	S00\Disenchant.jpg
+b64787461ce0ea48b465ae1f0e3257c9	S00\Drudge Skeletons.jpg
+ee40605bbb6798a574df1b5ae62fd54e	S00\Durkwood Boars.jpg
+f3038d4cde84267b97057ff9ed539cfc	S00\Eager Cadet.jpg
+bf853a78811e0ced86697e65f13e4843	S00\Flame Spirit.jpg
+714522e1725bdd0d8ee8397b307bd6d0	S00\Flight.jpg
+3e041533833de25b60075506390c4b8b	S00\Forest1.jpg
+36bf6396a7980045c0f5e8db5e552e06	S00\Forest2.jpg
+3b075bcfd842365a44ce5768252fe404	S00\Giant Growth.jpg
+94112537dea189c7341fee4dde9a4b75	S00\Giant Octopus.jpg
+a16b23db8f3b61d810c4b93c1f2c97db	S00\Goblin Hero.jpg
+80f77e69e86e805cd95624fc4d12ff0c	S00\Hand of Death.jpg
+73c83a00964ad8a080179925a9f0ceea	S00\Hero's Resolve.jpg
+0a108a3cbb98e84579cba61796fb3017	S00\Inspiration.jpg
+6c9452b4bb4b9373aaeaab6f18d44312	S00\Island1.jpg
+638e121222f71f7ed48a4d8692b01ac8	S00\Island2.jpg
+c4828d09c125b94eb79eb862c7f76d72	S00\Knight Errant.jpg
+d74368133d72bea17f629014e383282f	S00\Lava Axe.jpg
+dbe138e4086c3aeedad66daf85dd3a8a	S00\Llanowar Elves.jpg
+5cf6a0a1cfd37337f166a6e1056261ff	S00\Merfolk of the Pearl Trident.jpg
+ef1623532e702e48922d624e0e6eea95	S00\Mons's Goblin Raiders.jpg
+e59d4deceb9c9ab4c7e6c0f1b1af54a1	S00\Monstrous Growth.jpg
+bb093a6b42fe981a577c169c3e252bd5	S00\Moon Sprite.jpg
+112381fc5e366ad02b935ad42a54e957	S00\Mountain1.jpg
+1c5a9c13436a662b6a432f899eace2ba	S00\Mountain2.jpg
+3c00e277e311c54d2e18b5b10b5d2bfd	S00\Obsianus Golem.jpg
+fa591ac95345f1d774e9f059c9c01fc2	S00\Ogre Warrior.jpg
+72da986a88b9562071439f20b4826d48	S00\Orcish Oriflamme.jpg
+d7d561807d4840d036f301fd39ea1d62	S00\Plains1.jpg
+64e0cb71a56ff27e06390a79c5a7a603	S00\Plains2.jpg
+8c5b43274ab67b97189c10c641e2d0df	S00\Prodigal Sorcerer.jpg
+d4905901bb8ca1656d37c90a79f2bdb5	S00\Python.jpg
+b8e2758e300af1b1ff52c30a8e97f483	S00\Rhox.jpg
+9c45d7839e4d91591caa5ea33948adf8	S00\Rod of Ruin.jpg
+57f568f9e047d9f66e42139fa0fe2d9e	S00\Royal Falcon.jpg
+29ca85d247b620f834aee8bf0b9a7bc9	S00\Samite Healer.jpg
+538a8c0f074292f99cc0525f7b7960a4	S00\Scathe Zombies.jpg
+cc458da10b2234550237dbae7bab5edb	S00\Sea Eagle.jpg
+b43fb3ba0614fdd499ffd19ca6a719d8	S00\Shock.jpg
+c53a620c83c913a5a6d39c70fdcf7fe9	S00\Soul Net.jpg
+361e5b83b36f927641ce81a99907e73d	S00\Spined Wurm.jpg
+6c42835359cdd0db13a2cfcea403d661	S00\Stone Rain.jpg
+27a30c21c89f2e6a756ec6d0baf6acfc	S00\Swamp1.jpg
+79e0d3200a5ed162bf70cc0b74154210	S00\Swamp2.jpg
+2324e1cc81938d0f96aa05af647bd9d4	S00\Terror.jpg
+1139e5b2be933e68f97a1ef4ace78d0f	S00\Time Ebb.jpg
+d5a3ae3e96e0f84b577cd5e87e63f04c	S00\Trained Orgg.jpg
+9cb589603e4afde3168f2030fb0356ad	S00\Venerable Monk.jpg
+e2782acdf31c8d90e89cc277d0f1d43e	S00\Vizzerdrix.jpg
+28e7100a088e5c8d539fdd434f27686e	S00\Wild Griffin.jpg
+e282b5a7a56c3f650f2c088e963b9cf6	S00\Willow Elf.jpg
+b86508451961aa1a6543013b8d5012f4	S00\Wind Drake.jpg
 e587994e6ef671be57b00349ff5c77f5	S99\Abyssal Horror.jpg
 cc38d5d16c5765cc8747379be7117a9d	S99\Air Elemental.jpg
 ba1d28a0be3caac9bdbdf56303ef18d5	S99\Alluring Scent.jpg
