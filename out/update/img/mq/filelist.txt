@@ -16177,6 +16177,133 @@ c8ddf0f266bff15d80a1051ace8ce127	g11\Dark Confidant.jpg
 0d7d596793b3bf7cccb24cf0a16db0e4	g11\Sword of Fire and Ice.jpg
 43df4abba80ee37493991295e58b8cd6	g11\Vendilion Clique.jpg
 49a31811073d0ee5afbbfef3e3f5e35d	g99\Memory Lapse.jpg
+015b616861deb5afdbaca7be431ba550	gk1\Abrupt Decay.jpg
+772c8bd37b29aa31f19e056ebf5c135a	gk1\Advent of the Wurm.jpg
+db423bbc3b150aba3268fa27c145022e	gk1\Agrus Kos, Wojek Veteran.jpg
+c094db10a3ce23eb5a97a1e9c66e8e55	gk1\Armada Wurm.jpg
+8303d41a3f331f13dc641002980818e3	gk1\Aurelia, the Warleader.jpg
+b03a8cde61bdbd6039c2ff5e1fb2127a	gk1\Bomber Corps.jpg
+1cc602044aab26e9b9ef493efc3255ac	gk1\Boros Charm.jpg
+683bfbcffc60009958c1389e21f6236d	gk1\Boros Elite.jpg
+a63a7c9ff806d349f6d43db599bb7cf5	gk1\Boros Garrison.jpg
+7a88e7d4ad54bfa7b89ab345bb625b99	gk1\Boros Keyrune.jpg
+9cedd3eb1e368b4306d08a375cdc0541	gk1\Boros Reckoner.jpg
+736f8a4af8a27f286e84deb52dce9717	gk1\Boros Signet.jpg
+f379b26155db9c933498ce3f27683c7d	gk1\Boros Swiftblade.jpg
+fd18972cd97cb118f8236989b8181285	gk1\Brightflame.jpg
+536069becb59af7ca9ef99374f33014d	gk1\Call of the Conclave.jpg
+7e343cbb4dbd9589c2fa06ee83bb2cce	gk1\Call of the Nightwing.jpg
+160614fc075453940b386bacb51e5483	gk1\Centaur Healer.jpg
+fb5efde63be7fff0af6180bd32c0dd47	gk1\Cerebral Vortex.jpg
+904f6330c280445dabd634c6218582be	gk1\Char.jpg
+7942cbed89f35121c3a6716a80a746f8	gk1\Circu, Dimir Lobotomist.jpg
+500360f881a1d04189a42a62e109192a	gk1\Consuming Aberration.jpg
+f8a3e1f6b16b8062c6ac32a67490397d	gk1\Daring Skyjek.jpg
+1a712d87cb38387878491bd0c30c9b72	gk1\Darkblast.jpg
+e00960233379916b9d7c192e3b2b4692	gk1\Deadbridge Chant.jpg
+a2e7128cb9a49cbbb8703cfef890e051	gk1\Deadbridge Goliath.jpg
+f89a46da6bc775d735c066cccf84d579	gk1\Deathrite Shaman.jpg
+8fbb1b694e7376460830c67924ff8f78	gk1\Devouring Light.jpg
+6364a37d91415489d6dbac7537425e0e	gk1\Dimir Aqueduct.jpg
+eead3859bfa5184d749d19457911c518	gk1\Dimir Charm.jpg
+06e13df92b3d782a5c4086c1edbb186d	gk1\Dimir Doppelganger.jpg
+c796adc44968d6788e8d1bc7370354d2	gk1\Dimir Guildmage.jpg
+1605ba17f207da88656424ac998408d8	gk1\Dimir Signet.jpg
+1b1d5ffb881d371512675fdc4f92801f	gk1\Dinrova Horror.jpg
+236085ede3c7cd195b21fc6c454135ab	gk1\Djinn Illuminatus.jpg
+023c0a3c9dc5d1fbbf2c483932665c1c	gk1\Drown in Filth.jpg
+0495d855d580e4208b1a1e7561d4da2e	gk1\Dryad Militant.jpg
+e99d9ec00caa709f32d78c82bd8c428b	gk1\Electrickery.jpg
+776b52c7071ffd1f9a8bf7d3e5c4303e	gk1\Electrolyze.jpg
+d2205819335dadf77f9392d1b5e3f4ff	gk1\Elves of Deep Shadow.jpg
+b2179314d61662c1c0a341234d61b44c	gk1\Etrata, the Silencer.jpg
+d5bcc6d9f2ffd0850c7594dced9f6d25	gk1\Firemane Angel.jpg
+aca93512dfc9288bd280e9b5d838800d	gk1\Firemane Avenger.jpg
+018882ec1a9408d2b2f6babdcc21d8e3	gk1\Forest1.jpg
+8e6b863bb40f9f3b377a0967747474c1	gk1\Forest2.jpg
+207b2b72be8735e43bb8285205c6e2d9	gk1\Frenzied Goblin.jpg
+3fa950b84bf1f1dc34d9dc078975ea76	gk1\Gather Courage.jpg
+85560eb7c58511ae6470fc4da85618ce	gk1\Gaze of Granite.jpg
+21ce12b8425ba1a6d7e33c7d25534281	gk1\Gelectrode.jpg
+4cafd73802f8bd5af27b638902e2e66c	gk1\Glare of Subdual.jpg
+14cc7b6f67d0d8cb98a0a12ba53792e4	gk1\Glimpse the Unthinkable.jpg
+6036277087e037ab92743311b713a66b	gk1\Goblin Rally.jpg
+31e24a3bcabdabd38c755900b48ad8e3	gk1\Golgari Charm.jpg
+6e23e51b0b8cc3bb213eb2ed8c74c236	gk1\Golgari Rot Farm.jpg
+876ed18f6e24c600254dddcd622ab81b	gk1\Golgari Signet.jpg
+975fec2b93daec0387a9c419117afbd5	gk1\Grave-Shell Scarab.jpg
+4f3f3ee7e6976a00eca8b5714bd19fe1	gk1\Grisly Salvage.jpg
+c760688d8db3cb3f35c7a484c09684ef	gk1\Grove of the Guardian.jpg
+9ce4d2855908e5e4ce8cc4dd652a8c31	gk1\Growing Ranks.jpg
+8f1526adf787242109ed320de49da7a2	gk1\Guttersnipe.jpg
+8dc38ada6b8547aa11589ed1e91ba533	gk1\Hour of Reckoning.jpg
+81fe8b1283047fbff1005d86897ebbc3	gk1\Hypersonic Dragon.jpg
+1b7614d41fa22bc9ba80eb37a3474b75	gk1\Invoke the Firemind.jpg
+f481551b3b435a5a559850bc0790b273	gk1\Island1.jpg
+6c4a0831eca1e13bc94f261d6befab1e	gk1\Island2.jpg
+a92895db7af209fcda0f99e35852dad5	gk1\Izoni, Thousand-Eyed.jpg
+4a477a4a5f8b7daf98bbd683660ed888	gk1\Izzet Boilerworks.jpg
+2a9fbc9bbb2d4e255a69239d2dfe52d1	gk1\Izzet Charm.jpg
+20d122dd99d78395f4bb6a7effd16e30	gk1\Izzet Signet.jpg
+a698012a25b7ed9a42349c1f1e4a8aa2	gk1\Jarad, Golgari Lich Lord.jpg
+762e22c1d8cfacd8b2f88af9e0e88962	gk1\Korozda Guildmage.jpg
+cc5ec06c8391770dc2e54ff97fa9ece9	gk1\Last Gasp.jpg
+8ee0dcce8e17f9c29763ff6510fdb949	gk1\Lazav, Dimir Mastermind.jpg
+48d9979336ad94a5ae3c8cd0aac8fe67	gk1\Legion Loyalist.jpg
+379ceabc797aa3eca7136c47a09f1c85	gk1\Lightning Helix.jpg
+f2fadaddaa9eac405727afc73cced1cb	gk1\Lotleth Troll.jpg
+669351c806ccfb346b29b34a2b353860	gk1\Loxodon Hierarch.jpg
+9a03494b09a53ca451c25124cc022925	gk1\Martial Glory.jpg
+67f5d7cd65120d95ff1cef11ac81ebcc	gk1\Master Warcraft.jpg
+515d4cc9a95635a031b992a4cb3a272c	gk1\Mirko Vosk, Mind Drinker.jpg
+5898d2bec98c52c605c884f627241521	gk1\Mizzium Mortars.jpg
+eb80bdd660ae6745d286825bdb3ec3a4	gk1\Moroii.jpg
+595a0bc900390360c6a5c374ed04a0db	gk1\Mountain1.jpg
+0b2c40864ce28b86eb265f40d2d75228	gk1\Mountain2.jpg
+7dccb1c149eb1289c3b5f760eccadee6	gk1\Netherborn Phalanx.jpg
+25bfb379079a8f9f9649104114f19cf8	gk1\Nightveil Specter.jpg
+816453f4dd8f7c0a91f8eefa5151128a	gk1\Niv-Mizzet, the Firemind.jpg
+f24d5720d31a252449239ef0d04a678a	gk1\Nivix Guildmage.jpg
+5f45616c37cc98a7e33c7c9c40c05127	gk1\plains1.jpg
+40c02e7f94ab4e2314136ead3ee2b546	gk1\Plains2.jpg
+f463b94fdc90430b10b0de31ccde3227	gk1\Pollenbright Wings.jpg
+c9b0e35ce67718adbb6335163f9bd391	gk1\Privileged Position.jpg
+c3e5c306efc86687b3b822844443e45e	gk1\Putrefy.jpg
+145725bb02430a67a4fc48f112d09fd0	gk1\Pyromatics.jpg
+cd1adb71d893bae00d31354a151fdfc9	gk1\Razia, Boros Archangel.jpg
+7d152c680492570449085df29748d3de	gk1\Ribbons of Night.jpg
+794506be5d5ef15091912b5f27dbe00e	gk1\Savra, Queen of the Golgari.jpg
+ec7ffa9c87c14ccc48de64aeb6b2b053	gk1\Scatter the Seeds.jpg
+d2a63e8cf71bff4cb40b353b49c64934	gk1\Selesnya Charm.jpg
+e03530e9c55125fc713a4d7e0119b849	gk1\Selesnya Evangel.jpg
+ac4c0810c5841474c60fc2f435c4bf90	gk1\Selesnya Guildmage.jpg
+6e31a35484331c84c77cc509e38e6555	gk1\Selesnya Sanctuary.jpg
+85f522a12643e4f5b746c0fe7e008fb1	gk1\Selesnya Signet.jpg
+d5e4032f3a17cab41583f9a580061689	gk1\Shambling Shell.jpg
+6cbf3f20a02dc3fa91bbe32d3a6e364b	gk1\Shattering Spree.jpg
+0a3c8a34be6e8f73f1f11c150e348822	gk1\Sisters of Stone Death.jpg
+5642f17ee0438b9a4c93eb3955f2cdc6	gk1\Slum Reaper.jpg
+ac773df609940cad71c54f0acbdfe803	gk1\Spark Trooper.jpg
+fb83fb1e74454fbb380c614264aa4e6b	gk1\Stinkweed Imp.jpg
+6244d8872a170e8c9ab487966fc1c014	gk1\Stitch in Time.jpg
+3479c48cb7e6daa960a2f4f425ed254b	gk1\Stolen Identity.jpg
+97be1afc701b62693ce70c0f70692673	gk1\Sundering Growth.jpg
+ae426272a92c2773ea5fd63ece09c83b	gk1\Sunhome Guildmage.jpg
+d2b93a4a921fa33ac77c38a49ff24059	gk1\Sunhome, Fortress of the Legion.jpg
+f0d17bc5f3013a7c61261609a426224d	gk1\Swamp1.jpg
+13ff43923fc96c6cdfe02f3c0e173283	gk1\Swamp2.jpg
+69b9351ab784ef45b06dce864cbe5272	gk1\Syncopate.jpg
+29114b127011d84935b9a82dd6e9f142	gk1\Szadek, Lord of Secrets.jpg
+85c4595796d46729f0c1b4c49455020b	gk1\Telling Time.jpg
+eecab06242b007e61800bdfe992ed08f	gk1\Thunderheads.jpg
+aca150c051d46aaeb416b7ada836c947	gk1\Tibor and Lumia.jpg
+f008b7d1e66b9ddefd6e442b7c6b2723	gk1\Tolsimir Wolfblood.jpg
+18c0a47f1a9d32bfeda8d0ec547a3e36	gk1\Treasured Find.jpg
+9eaeb44e53f001c43aacc37808f742a8	gk1\Trostani, Selesnya's Voice.jpg
+9cf98f2718d849b6e717044903f91576	gk1\Turn»Burn.jpg
+3ef15ec58c5e5aa73bd7d5be358fec39	gk1\Vigor Mortis.jpg
+114dfcdec3c428a92c97cd0d672621e6	gk1\Warped Physique.jpg
+1aae057964171f2e65558b3ab2a01ad8	gk1\Watchwolf.jpg
 103d4b96acfa301dd7d40803056b976e	gnt\Advanced Stitchwing.jpg
 4ac31339644bd72d7b1bd2c04fa6da01	gnt\Aerial Responder.jpg
 8e1d26bb01fcaa0a7ce0e38de1c19bbf	gnt\Air Elemental.jpg
@@ -29165,6 +29292,46 @@ c5102dd2f68c83542880baefd64c8dc6	ptk\Zodiac Tiger.jpg
 7c024b13d6a647dbc56a1ed159d7defa	ptkdf\Dragonlord's Servant.jpg
 0ec68c9ab7503b866f5fffd5311859e5	ptkdf\Evolving Wilds.jpg
 fa76277729a0bf85e59121e11412cfd6	ptkdf\Foe-Razer Regent.jpg
+638dda7a3adce0b3dad58592296e8f95	puma\Ancient Tomb.jpg
+5e07504ee6f356f260e8688bb9c98e3c	puma\Balefire Dragon.jpg
+bf06a5f759c52dd03e957100aaeabbbe	puma\Bitterblossom.jpg
+b3ef5b271225fc04a62fbb0acdc5d639	puma\Cavern of Souls.jpg
+61beb18c8cbc84321f8eb8cce3a54e13	puma\Celestial Colonnade.jpg
+c3735fbc709daa479ea361e3b2666291	puma\Creeping Tar Pit.jpg
+34dc9bea4adf17f60ec62cb8f8a711fb	puma\Dark Depths.jpg
+4580244ef2dce90f65288c9f0253a74f	puma\Demonic Tutor.jpg
+d35ac638d171f33271cb9e01a9f05b3c	puma\Emrakul, the Aeons Torn.jpg
+bc97613111df63ab42a6a65b2b608719	puma\Engineered Explosives.jpg
+95f8fda49d91110ad4e837164f0cb383	puma\Eternal Witness.jpg
+22375682d0a9fd7a5c5ad911d8156afd	puma\Fulminator Mage.jpg
+7c3fa72e3337ac364f18f2100d4939bf	puma\Gaddock Teeg.jpg
+95f5fcb4a3f5565106ecbf0e0f34d606	puma\Goryo's Vengeance.jpg
+86e5c171b2a55705169229933b310f45	puma\Karakas.jpg
+7ac6c26be6b7a04f46c12eddbded8dca	puma\Karn Liberated.jpg
+77ced6eee9817e17e05b1de0f1ea6858	puma\Kitchen Finks.jpg
+4f31edd4699d22d52353c342d458ae47	puma\Kozilek, Butcher of Truth.jpg
+3dc28a95db08ed77d2bf5b7d8c28c5ac	puma\Lavaclaw Reaches.jpg
+fe0fc5a20f54704536767848c23cd9be	puma\Leovold, Emissary of Trest.jpg
+71e7a63698064fa79d8d7119b61718b9	puma\Life from the Loam.jpg
+b3cf30ea7af3d1ad187ef96812374e82	puma\Liliana of the Veil.jpg
+70d3f71a698f7742c3f9b70354e6f763	puma\Lord of Extinction.jpg
+5f669f93dcce483c99a80872f82740c7	puma\Maelstrom Pulse.jpg
+c38462d8b7fea1800b3d962a64cfd5a0	puma\Mana Vault.jpg
+3f1a917e9d9038ccfd79a127212f1d4e	puma\Mikaeus, the Unhallowed.jpg
+059dc5ed3a033154c962be2705dba2df	puma\Noble Hierarch.jpg
+60f02fe3b161b76d0565b3bd83d67ae6	puma\Platinum Emperion.jpg
+fd8357f2f9c505d9ed089027f3fb32f7	puma\Raging Ravine.jpg
+696701c84876da7bd6ef23a6c1d3088e	puma\Reanimate.jpg
+941de76aab75c5cd607e9319ab1413cf	puma\Sigarda, Host of Herons.jpg
+9e0e62c628df9c88d62ff6609a546eea	puma\Snapcaster Mage.jpg
+f761e3bd13820a7cec94c79f287e8381	puma\Stirring Wildwood.jpg
+30507ddbbbabfba28eaec3bd72509e58	puma\Tarmogoyf.jpg
+2d87d980a119421d25446c66dba5b15e	puma\Tasigur, the Golden Fang.jpg
+de456c394d623280204484b4036421e7	puma\Temporal Manipulation.jpg
+7647af39ef22a4b702eec7e3a4b06665	puma\Through the Breach.jpg
+a2f3b3a6a7d0a42fb18bc3abc1e25808	puma\Ulamog, the Infinite Gyre.jpg
+43a26cc0c194bb39b587eebcbbba9869	puma\Urborg, Tomb of Yawgmoth.jpg
+58aa82876c281c66b631b9d38b725434	puma\Vengevine.jpg
 7afac54c8d2ffe08f4367730eed1d926	pvan\Ashnod.jpg
 75980ee271ac30024a543bc7016694e5	pvan\Barrin.jpg
 ff8e1f952b3c582c75681153f212e63c	pvan\Crovax.jpg
@@ -33729,6 +33896,260 @@ b475068fdb28bfd2eda26002f8af3e51	ulg\Weatherseed Faeries.jpg
 cd2ed09137ddc7c45596bee3e4f44b7b	ulg\Yavimaya Granger.jpg
 2603522d9f85a7abb5c4615ef550d1a3	ulg\Yavimaya Scion.jpg
 ad23c15bdbc7f2a824d02576cac6d96d	ulg\Yavimaya Wurm.jpg
+c1e21e08c7fb01794fa97da68d4985d3	uma\Aethersnipe.jpg
+cdc4db6842666ce9b4d2655447e91e8f	uma\Akroan Crusader.jpg
+155bf3dbdcd2fe64b7940da94a8b924d	uma\All Is Dust.jpg
+aa3106eb31eda69cfe542810779c7904	uma\Ancestor's Chosen.jpg
+3b4dd60921e7ca71e9a4f775c906a8ef	uma\Ancient Tomb.jpg
+aa139e098898b9828e424e5044fee95d	uma\Angel of Despair.jpg
+7694c9df604c1962f71d2dd86c2701dc	uma\Angelic Renewal.jpg
+e7310c13fdce2ed63a76fce926d4cfa4	uma\Anger.jpg
+3d2ae69c303b4c3971653bb2e949605c	uma\Appetite for Brains.jpg
+c818e44976f0db9dd8f514b75e787f21	uma\Apprentice Necromancer.jpg
+37e8da0bca2250cf3b3c9e89c4f80dd3	uma\Archaeomancer.jpg
+109fbb40b81ba74b8bc6b3cac0b9ef97	uma\Arena Athlete.jpg
+661c82943054d0d04b093561e0868905	uma\Artisan of Kozilek.jpg
+5cafbf4ecf3c4ed188dceecbbd1b176c	uma\Back to Basics.jpg
+93132a8a6079e637577b1f9b2ac05604	uma\Balefire Dragon.jpg
+5f0c7680445574209a741fd5df15bef1	uma\Basking Rootwalla.jpg
+50499bcf6762161d0bf3cea4b91b0406	uma\Beckon Apparition.jpg
+c61e167efbbe0d82ef3d9bdb52eda26b	uma\Become Immense.jpg
+97b69e43cb7ac9c394cfc8a61056fe2c	uma\Bitterblossom.jpg
+f6f414d147ba385bd26b78b199698fa1	uma\Blast of Genius.jpg
+184f79ea09e3245fdacacebb27589dae	uma\Bloodflow Connoisseur.jpg
+ac93cc680cae44579ac1700d86aeb0f0	uma\Boar Umbra.jpg
+6b897a9c639f24fde776321ee1856cbd	uma\Boneyard Wurm.jpg
+d21c5c53a41c171dc8dafbe6aa17584d	uma\Brawn.jpg
+d1589ea6e853c4fe80dc534c58835be2	uma\Brazen Scourge.jpg
+c4cd19e2b7b8c58072d7e5cd8042dfca	uma\Bridge from Below.jpg
+c8b7b383869d917add933ba6a8ad610b	uma\Buried Alive.jpg
+8b6991b5383322de3c0bc98fb6f3e96a	uma\Canker Abomination.jpg
+3da969c0f5a1af7e1985b65b00dd13d7	uma\Cathodion.jpg
+6d0c78b843f230bfcd2a44122398c085	uma\Cavern of Souls.jpg
+8710ff8c1d910d3f743fbb79bff0aeec	uma\Celestial Colonnade.jpg
+314e6f676445a9329d8cc22a824b5c16	uma\Chainer's Edict.jpg
+5eb1733c591425d486c6f48a983c4550	uma\Circular Logic.jpg
+927ff238789c936215e812dae01b740f	uma\Conflagrate.jpg
+41561edacd427c7d1cd27844c55e5eb9	uma\Containment Priest.jpg
+48523b24f0519989dcc0a279618ec223	uma\Conviction.jpg
+7997c0ae3b6f4b5e1198f05fc5ba6d20	uma\Countersquall.jpg
+a0365d956e1972cf53e732701aef7a31	uma\Creeping Tar Pit.jpg
+f67419852b9c01f074182601327a376f	uma\Crow of Dark Tidings.jpg
+b4463b3bfceaa55f9e03d09b2b0a231a	uma\Crushing Canopy.jpg
+9c14ccae9b3cd7236376962312cf7e51	uma\Dakmor Salvage.jpg
+84f4ae1e034caa8598f9474f995ae685	uma\Dark Dabbling.jpg
+d58a170812fca378661d18f111441f14	uma\Dark Depths.jpg
+ef1a3e8c5f6ea3a7375ff207b4844447	uma\Dawn Charm.jpg
+3e646d8617dd48d88d132707872686ec	uma\Daybreak Coronet.jpg
+4dd53a5dbfa93c89d9e2aac1bcfb9834	uma\Death Denied.jpg
+636fb111455e26b9b43e32999d1864e4	uma\Defy Gravity.jpg
+5494bbcae3d8ea9df47aca492252b457	uma\Demonic Tutor.jpg
+a5ff9f67b0b448dfeca3f765ca192738	uma\Deranged Assistant.jpg
+2eca0c45357a900ee943eea01f1e3694	uma\Desolate Lighthouse.jpg
+d3326279d7b90213f2a90a8a91cf24cf	uma\Desperate Ritual.jpg
+a1113df6d7a28407a352a2e95f2123d4	uma\Devoted Druid.jpg
+7b756f8e445234edfd81d16c25ae13a1	uma\Dig Through Time.jpg
+cd2fb28566fa8d7bc90725af72346fdc	uma\Dimir Guildmage.jpg
+d1e69807b93391050e4229fb5c6b747d	uma\Disrupting Shoal.jpg
+de6b06dd98313673f850d01c7f3b0f91	uma\Double Cleave.jpg
+f07efb1f0a5aab211e2ce2643ce23df9	uma\Dreamscape Artist.jpg
+09d0ddd8f3674f19ae3f5ae505e73cc2	uma\Eel Umbra.jpg
+b874f85a2c51339d450827677b88dbbc	uma\Eldrazi Conscription.jpg
+aa2bfb6e08fc46f593b0d6f20e01d9c3	uma\Emancipation Angel.jpg
+5984420042108567ae21200ffb5caf66	uma\Emrakul, the Aeons Torn.jpg
+d319032cdb7be02919fe45e601ecb026	uma\Engineered Explosives.jpg
+4fa830748f1becb2899d7f2ddd9ef614	uma\Entomb.jpg
+5550c3fe9c9e327a449c928d02d6d1f7	uma\Eternal Witness.jpg
+37bf77a80360ef4d835474a78da40330	uma\Faith's Fetters.jpg
+ec280ee9aa17417d0b30143eeab15229	uma\Faithless Looting.jpg
+59cdb7e14cac269ab35c092068f80d62	uma\Fauna Shaman.jpg
+65f6d6745ae6cba8137d5cfb6fd1a898	uma\Fecundity.jpg
+06e91ebe0299bb74b8449f855fc7cd98	uma\Fiend Hunter.jpg
+d9a31bd17bbec34a37ce5608207ef817	uma\Fiery Temper.jpg
+a16e23382d5da5f882b1c80f118c9f8d	uma\FireIce.jpg
+53859b90172b797388395cb670faae4a	uma\Firewing Phoenix.jpg
+ecfbcb2ea7f2cfc2939a6fc527d4e188	uma\Flagstones of Trokair.jpg
+4843fb06f3c72ac0eaa81b72dd028012	uma\Flight of Fancy.jpg
+ec1ebb4947675850150d7009d98f1941	uma\Foil.jpg
+8feb30a6e24eb44552ecff83e1a7aa2b	uma\Forbidden Alchemy.jpg
+30d9548ce43097167dd610b09a2ee6f9	uma\Frantic Search.jpg
+4219a468d380115b11aa578c947103f4	uma\Fulminator Mage.jpg
+d2e4afaab9df49d7cfd8fec94f1eee4b	uma\Fume Spitter.jpg
+f5be27ea449c7426ca5059e756422f27	uma\Furnace Celebration.jpg
+579a440d734536a7b9d7c0026ae9ca25	uma\Gaddock Teeg.jpg
+8aea8522b7ea1897ef9238f8592f5b39	uma\Gamble.jpg
+2fea7fd1dd449738500f95af3a8bc7d4	uma\Garna, the Bloodflame.jpg
+3d0a1a44724f7d12f85a1a491ae645dd	uma\Generator Servant.jpg
+186903db037b7582b0df98e8c74da68b	uma\Ghoulcaller's Accomplice.jpg
+5e8e165b2324ad82eed2d6ead994260e	uma\Ghoulsteed.jpg
+7d1e5c02127008809d71e911363e44ea	uma\Glen Elendra Archmage.jpg
+306c1028c1f182b2870a48e32c46b079	uma\Gods Willing.jpg
+839d4bdd50fe1ba746fda127a966d436	uma\Golgari Brownscale.jpg
+d1df603719fe543c83f7eda7bf4486e2	uma\Golgari Charm.jpg
+21897abcf2d80fed89143fad81e252e1	uma\Golgari Grave-Troll.jpg
+b7ed16ddcd52f39f3e0d23ab6d8101b6	uma\Golgari Thug.jpg
+8da60821da5e149265222fd5bf887e22	uma\Goryo's Vengeance.jpg
+f767d941c891de787ab0fcbcc5898215	uma\Grave Scrabbler.jpg
+b4bb2ec64b89530bebbd830fc73c8e9a	uma\Grave Strength.jpg
+62eabc94bbf1c7ac6e25a08d39937f48	uma\Groundskeeper.jpg
+ef5a08e4ceddfab22f09cfaea3e00480	uma\Gurmag Angler.jpg
+d5a970ccf070b457f54b7df3e3f72211	uma\Heap Doll.jpg
+3cb475eddba131242b5b5ae94b27c5e2	uma\Heliod's Pilgrim.jpg
+bd2839fb31139b81ae37e976abaf7dda	uma\Hero of Iroas.jpg
+8302971e5dde5c3ca754844bb257907e	uma\Hero of Leina Tower.jpg
+533be21cf59a7c5df9f8ea4bc79e7924	uma\Hissing Iguanar.jpg
+ee0b3ecc56c86add2b71e782154ea810	uma\Hooting Mandrills.jpg
+a21f6951c963eaaea15bbf88f5132bc6	uma\Hyena Umbra.jpg
+e7257b5e54cfe335da4837a727405dd6	uma\Icatian Crier.jpg
+222d133a5fadbc0bba23eaa2c3c611c8	uma\Ingot Chewer.jpg
+0fa97d754662b3a109209a04f58c17bd	uma\Iridescent Drake.jpg
+a9bfdc9a65ed75fe84b0596d56245dfd	uma\Just the Wind.jpg
+e061be667e0d6782237e7311d9a66748	uma\Karakas.jpg
+358365bb7c6907d1748e0ff02d86d8e5	uma\Karn Liberated.jpg
+4e782787920be3ede55acab8a32c30e6	uma\Kitchen Finks.jpg
+680eb4b5d1bb6260637788aa1ee00852	uma\Kodama's Reach.jpg
+5fe3453f84cbe98c9d022857f70f9480	uma\Kozilek, Butcher of Truth.jpg
+70b112cbf7bbda8d427cab8241bc7700	uma\Laboratory Maniac.jpg
+e1abce009ea9a8140b0f7946c4415b22	uma\Last Gasp.jpg
+c12ba510b90fa1048ae0fb6e162bfe62	uma\Lava Spike.jpg
+a73735c1860be8db19c6daba099bff4d	uma\Lavaclaw Reaches.jpg
+26455193eef1f337d02a7d9da03a844b	uma\Leovold, Emissary of Trest.jpg
+f4d1820d2c8057efb341f6df9fcea7df	uma\Life from the Loam.jpg
+90247f1986a858139bf285ce1cd46bcd	uma\Liliana of the Veil.jpg
+017cd1d2ea29e4471a6ca9eb01c0ab42	uma\Living Lore.jpg
+fb1f98c3eab47455cf1420d2683c9b9c	uma\Lord of Extinction.jpg
+cd82a23756931474f4e3c1f21e06ef32	uma\Lotus-Eye Mystics.jpg
+e3c353920a6544f1f8414cd464270116	uma\Mad Prophet.jpg
+a74c263855158dbd756493b14d495e02	uma\Maelstrom Pulse.jpg
+fd357058834741e859ffbdef9aae4f7e	uma\Mage-Ring Network.jpg
+4c1396c0da4acb84505a960686abb576	uma\Magmaw.jpg
+69fa947492900a5b929f6331fce53231	uma\Magus of the Bazaar.jpg
+5a98ebc3912a419aa91c1eaa74efb698	uma\Mahamoti Djinn.jpg
+9c62bd8f8c2ff04cd2a351f6d9b3083c	uma\Malevolent Whispers.jpg
+d50b57f48b639c073243edde459e1e06	uma\Mammoth Umbra.jpg
+0ff515363db0a19cbe859fed45c197b9	uma\Mana Vault.jpg
+ead436da2e4424599d9b6dadc6146609	uma\Marang River Prowler.jpg
+cbe0ae4907161179534d94ecdb146f50	uma\Mark of the Vampire.jpg
+5f0f4726941bf17b7dd1d05f31a7d49e	uma\Martyr of Sands.jpg
+7a35d559964dad60804cea02ea2374fe	uma\Mikaeus, the Unhallowed.jpg
+5b002fc028dc5530f0bda389ab8f6ad0	uma\Miming Slime.jpg
+7eeecd29a6ca0b66f0891e817297fc27	uma\Miraculous Recovery.jpg
+0a79c01b68697b151fc94305610c37cb	uma\Mistveil Plains.jpg
+7779e528b7e68951a4c1a35fdfef014e	uma\Moan of the Unhallowed.jpg
+1bc79b6c0bf84ed1c8a3d4bbbbbea11f	uma\Molten Birth.jpg
+171bbc83fc52a75401abd5297bdcb9b7	uma\Murderous Redcap.jpg
+92254499890993461f84ef563940bc77	uma\Myr Servitor.jpg
+3ec53ea9adc91910445181d278246bf5	uma\Mystic Retrieval.jpg
+8f75b005388449fdc01d9c8baf562169	uma\Nightbird's Clutches.jpg
+d7e3c84010dcc0f228f63f1a4a48d51e	uma\Noble Hierarch.jpg
+4c4ba3c558b8f3fc6db82eef0f59278a	uma\Nourishing Shoal.jpg
+b5e9f3f0aec39cb6bb87e9c131c92f3b	uma\Offalsnout.jpg
+e4a97cf4192580788f5dfb36c298ff16	uma\Olivia's Dragoon.jpg
+3affe894742b549ec3a0bd69112977a2	uma\Patchwork Gnomes.jpg
+cb725060815c04e1960ba5a40983b6ee	uma\Pattern of Rebirth.jpg
+c3b95a58748c7151b008c21778c2586b	uma\Penumbra Wurm.jpg
+34f8f925c7ccc5ed397aae9d339b49d7	uma\Phalanx Leader.jpg
+d641ceaa998cb619f25a7b1c2ef53052	uma\Phyrexian Altar.jpg
+394adc6e5051cef319fe4fb825493746	uma\Phyrexian Tower.jpg
+d338a05a4c94716439d8ed7eadaf03be	uma\Platinum Emperion.jpg
+bb6d5dd742a1b946274f3458d60db0fd	uma\Plumeveil.jpg
+1a1f1999d9eefe213586bc3ee66110d4	uma\Prey Upon.jpg
+4fcb9e0ed916a91d7c10194d012a794f	uma\Prismatic Lens.jpg
+cf61c3ea43de8b3efc2c78c66cd0ff5e	uma\Pulse of Murasa.jpg
+e2e6bd63af017ed64b6560b6c710bcc5	uma\Raging Ravine.jpg
+75ba1d9808ff145e8e80ee21bf684192	uma\Raid Bombardment.jpg
+f4360d23a2e9541afebbaade2bca3408	uma\Rakdos Shred-Freak.jpg
+49b99871cf5eb83bbbebb8db115c48f8	uma\Rally the Peasants.jpg
+909c0bef0b3e02ed15d68071d31b2396	uma\Reanimate.jpg
+bdd27f9cada99d8129054623f423142e	uma\Reckless Charge.jpg
+cfb9d9b2a29d4399f7b3f42c3f2c29fe	uma\Reckless Wurm.jpg
+23c4d59ddff5556e5a75212321aa6cd1	uma\Repel the Darkness.jpg
+208d4101fdc5519f917bfc8f2800866e	uma\Resurrection.jpg
+098036bef422d2a350978cdc918289a6	uma\Reveillark.jpg
+82e7ed5ef31d79a78c8f77059c7bbd3f	uma\Reviving Vapors.jpg
+c3d360f4e8445c2b0b7b5312f1d71c58	uma\Reya Dawnbringer.jpg
+b1fc2b0e8e4fc176d566972e01eef377	uma\Rise from the Tides.jpg
+b13e57f852f6936a967c7587a40893db	uma\Rogue's Passage.jpg
+c05500477d2bf7f7f6205849f41f349b	uma\Rolling Temblor.jpg
+b37e12c20eed4d1b367c2a244904f15f	uma\Ronom Unicorn.jpg
+83c45f7dc3685d4dd1dbc7737b17e47d	uma\Rune Snag.jpg
+e228654c3d5a7cfb69a5b003a1ad06ae	uma\Runed Halo.jpg
+583416c4efac6fb584c1f873373fd070	uma\Safehold Elite.jpg
+2d43aac6ea1c09babd421e34f4ce1e55	uma\Sanitarium Skeleton.jpg
+f44d2e63b7fcfcdb6d3213341c5be25b	uma\Satyr Wayfinder.jpg
+78b51906d19f0a81281300eedc847102	uma\Scuzzback Marauders.jpg
+4f67cdf1fcba125db6ca66b25f28adc9	uma\Seismic Assault.jpg
+4233bcc3784e7f894c65d40a25fb31f2	uma\Seize the Day.jpg
+603206dfc7de516fd88d5b9f461e7bd0	uma\Shed Weakness.jpg
+f6d8a8ca8b956ba166a46d83ad0bd13d	uma\Shielding Plax.jpg
+25d2831db753210a796385c1f520b1ed	uma\Shirei, Shizo's Caretaker.jpg
+48f458df4fcf246cd4ee605ffaf8f46c	uma\Shriekmaw.jpg
+2d29dfc2b318b82ffc9341c9912eb630	uma\Sigarda, Host of Herons.jpg
+16c141ebacc05a5269c4d36cc9010d8e	uma\Sigil of the New Dawn.jpg
+d4644ff5e26d69d2ca6ccf60443a4747	uma\Skyspear Cavalry.jpg
+313a3e970ed49a80ffcd78eff7c6f689	uma\Skywing Aven.jpg
+0f60f50003f116422cbd4546f1c85b8c	uma\Sleight of Hand.jpg
+895003f1f2c58fe59e18c9b3f613397f	uma\Slippery Bogle.jpg
+b79417c4294a267e39a9256a509e1ed8	uma\Slum Reaper.jpg
+c5de8d49a32742577ce88092782941d2	uma\Snake Umbra.jpg
+ef2002b2472de783c54e1b1792d4e729	uma\Snapcaster Mage.jpg
+f72ae61e35c49193ec03364ec3ff714f	uma\Songs of the Damned.jpg
+6749cb82a8f1238338446ac95f693af5	uma\Soul's Fire.jpg
+3f3737157767b5cbdbdfebe177f2cc82	uma\Sovereigns of Lost Alara.jpg
+83034efd4aeeab84ae477b366298bdaf	uma\Sparkspitter.jpg
+8e1cabb850616bf80647a6c510b8670b	uma\Spider Spawning.jpg
+f24ae828ff824099f8b860f8a50bb2de	uma\Spider Umbra.jpg
+980f16e12c02c7c22dff369bc4787b2c	uma\Spirit Cairn.jpg
+814d987f9cb4795c05aa5565cd42db64	uma\Spoils of the Vault.jpg
+adb1b82957b1d731b9e9244b2669c3c5	uma\Squee, Goblin Nabob.jpg
+537280621436e66e213f3b1d9f893383	uma\Staunch-Hearted Warrior.jpg
+bc07169fde4aa2fce3423c54134a99a5	uma\Stingerfling Spider.jpg
+362cb58a2c527959f0df455b7036a405	uma\Stirring Wildwood.jpg
+e14c3c37dbae5263160b908f7ca8c44f	uma\Stitched Drake.jpg
+042da61b7cffb400f28ef1bfcd5163ba	uma\Stitcher's Apprentice.jpg
+d9b132281d560422b8b2a7d2bb789131	uma\Stream of Consciousness.jpg
+b37db22c15569709505e4b71c5830e78	uma\Sublime Archangel.jpg
+76fe469b2fe5ec90f1062c991a320914	uma\Sultai Skullkeeper.jpg
+0b7950d482e6a524b7b92f0341202990	uma\Swift Reckoning.jpg
+ff5d55402a1d94b3c92af07c30c5e602	uma\Talrand, Sky Summoner.jpg
+c6d5057180915d1e84c152fe4f2892f9	uma\Tarmogoyf.jpg
+52afe2d9a1ed5f6e620ac0f78d882487	uma\Tasigur, the Golden Fang.jpg
+e4cd0d42f2773e49cd05fdcd50c2d5ee	uma\Temporal Manipulation.jpg
+d61706b3b4c8497b594deb97460af7e9	uma\Terramorphic Expanse.jpg
+f3ff6f9180a0ce088407b758704216a4	uma\Tethmos High Priest.jpg
+2b8324c05e309cf1d97da92e3aaf3f1c	uma\Thermo-Alchemist.jpg
+60a57a90fd84be4b22698252ece20d1b	uma\Thespian's Stage.jpg
+31e4204252a472d4d9ae3fcd4b6ec39c	uma\Think Twice.jpg
+5b86a44f6a837e747a0e6835b80f5177	uma\Through the Breach.jpg
+c7027173d26ef92a2dcfcf3ee8a4a716	uma\Travel Preparations.jpg
+14d4438c1db91a292a72caa981af3f34	uma\Treasure Cruise.jpg
+aaa039b113a0fb820672824edb4fc9d9	uma\Turn to Mist.jpg
+bd016c7a84c7204d3a16dd2edab10129	uma\Twins of Maurer Estate.jpg
+c2dc83479e6041250ab01b542c24b257	uma\Ulamog's Crusher.jpg
+e0995f32f886dd427339645956ff7791	uma\Ulamog, the Infinite Gyre.jpg
+44fa8a83b1dca3c3a67ba98e9bf45640	uma\Unburial Rites.jpg
+3cb71ab65788b4ae46e1d1bdeb29cf86	uma\Undying Rage.jpg
+9046d27a68a4dd03146a04baa15e2cba	uma\Unholy Hunger.jpg
+69eb678259f6fac5543c410411dc643f	uma\Unstable Mutation.jpg
+999289118d49ea8238b073d17891cf43	uma\Urban Evolution.jpg
+37899d42aca31329e6484305237ba9b3	uma\Urborg, Tomb of Yawgmoth.jpg
+7dfc9927b25328378d1cdf9169b7518c	uma\Vengeful Rebirth.jpg
+ccda413038f33d4aee801b0dd5ebcb8f	uma\Vengevine.jpg
+09118d493d2102d52faf7ffe1463a7b7	uma\Verdant Eidolon.jpg
+3cdc076cacc89d6d91e947959e20d6a9	uma\Vessel of Endless Rest.jpg
+9418260d3477fdc81cdc3954ae8e47b0	uma\Vexing Devil.jpg
+4c7b3d403631d298e52babe27d62d80c	uma\Visions of Beyond.jpg
+cddffc57e68c358cc896dc7540d0609e	uma\Walker of the Grove.jpg
+b99212e563d14b35ead686ea9d71039a	uma\Wall of Reverence.jpg
+f8df9c33e3fd99d0dfea23ad77198cd3	uma\Wandering Champion.jpg
+f1cb9102798d52e063c073ae532c760f	uma\Warleader's Helix.jpg
+a299fd0b32bce2d78df568fb53d0d85e	uma\Whirlwind Adept.jpg
+1024fff29ce53c612f9e7fe9177a3fe5	uma\Wickerbough Elder.jpg
+e947e625a8396ae2d153827cc712ed7f	uma\Wild Hunger.jpg
+832022abeb65a9f0fee62dcbadb6b348	uma\Wild Mongrel.jpg
+27408482f85dddb67132acf2b2162535	uma\Wingsteed Rider.jpg
+687536fc2942a60e613895ddd8f841a1	uma\Woodfall Primus.jpg
+d48e1f78dddcff994f5b9fb9e8b55be4	uma\Young Pyromancer.jpg
 452db397055a13b138fa835abdcddb3b	unh\Ach! Hans, Run!.jpg
 68011508b8bc35ff1879574c992dbf78	unh\Aesthetic Consultation.jpg
 ed4ec63b019ce3d36759ec33d7fd3734	unh\Ambiguity.jpg
