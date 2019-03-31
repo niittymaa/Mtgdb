@@ -30620,6 +30620,7 @@ c8a5dad16bd02f4507433f39e308c860	rna\Azorius Locket.jpg
 69081e6d31c03ec5160574dd6c968f7b	rna\Azorius Skyguard.jpg
 e5cf8cf89b919fcbdde2784687b3abe8	rna\Bankrupt in Blood.jpg
 c7704d99a673d0b4a175ffad8733afef	rna\Basilica Bell-Haunt.jpg
+9882d5ae68fa2bf9f0f212b6ead7b126	rna\Bedeck»Bedazzle.jpg
 95318740b32f7848441b690f4f2f6781	rna\Bedevil.jpg
 dd60a06e07cd28db498e9805cbdc751d	rna\Benthic Biomancer.jpg
 890c74b0a0d7d6a7194f9a06487c84ac	rna\Biogenic Ooze.jpg
@@ -30635,6 +30636,7 @@ bbf584fc1447dd617f47f948ce397225	rna\Bloodmist Infiltrator.jpg
 8e18cc526354732a68c0d84371f5ce04	rna\Burn Bright.jpg
 5188dbf7e2301026b7877df28d155339	rna\Burning-Tree Vandal.jpg
 1de048661e9d21a7f90ef8741bd93dbb	rna\Captive Audience.jpg
+05cf6b4f0a082b84cef0baa138301737	rna\Carnival»Carnage.jpg
 f1375691e5f87393297046612889d702	rna\Carrion Imp.jpg
 a79359df571aae8da7d1d6f37eb46a4d	rna\Catacomb Crocodile.jpg
 72d3aee9c36f7ba5e8f6a3104d770a0c	rna\Cavalcade of Calamity.jpg
@@ -30647,8 +30649,10 @@ f5e7864d52685540aad99f20681f8a10	rna\Clan Guildmage.jpg
 893ed1808b24ec1627e1dda51df194cd	rna\Clear the Mind.jpg
 a940bebcc32d06b3f0ea3794656caa69	rna\Clear the Stage.jpg
 0e32f862a779ccf5532956fe005fb602	rna\Code of Constraint.jpg
+2df340e7a18408f8936b227597197a36	rna\Collision»Colossus.jpg
 50222352edd4199974fb332795924366	rna\Combine Guildmage.jpg
 626af2d64c9b309b0c4199e421c762d4	rna\Concordia Pegasus.jpg
+508b1f1efc507e63d76962d99097700c	rna\Consecrate»Consume.jpg
 eba587e2675283715cb584c6d2a7c622	rna\Consign to the Pit.jpg
 4c75c9aa90559fab7b214ab3abc538e8	rna\Coral Commando.jpg
 dbea0681e69b1c83bf8a36c0bb4a9d6f	rna\Cry of the Carnarium.jpg
@@ -30657,6 +30661,7 @@ b7ec8d9fb2e86c2f728c58aefe668b41	rna\Cult Guildmage.jpg
 5f354d594870641500d5d2152822ee50	rna\Dead Revels.jpg
 e122b84ec8fbeb25f14002d3543d4239	rna\Debtors' Transport.jpg
 a106642037d5e634c8a0e1369d68f356	rna\Deface.jpg
+997e61ee374f6d355b672f6be405536c	rna\Depose»Deploy.jpg
 4fc527dab587fb07dc85761d5cebb217	rna\Deputy of Detention.jpg
 4693240175a90d0f9100338f8685ea1b	rna\Domri's Nodorog.jpg
 d382768a63018bbd32935f25d4099552	rna\Domri, Chaos Bringer.jpg
@@ -30724,6 +30729,7 @@ ecb89c47f998cce8716f07ef96fd586f	rna\Ill-Gotten Inheritance.jpg
 66a2692ca28c99176a6205b6e604078f	rna\Impassioned Orator.jpg
 55c8ea6ede33620a07b1d353b2231c54	rna\Imperious Oligarch.jpg
 316069e596b23b478ffe9f229859804b	rna\Incubation Druid.jpg
+6d03a5b703acf5ba410d961d6b97ca4c	rna\Incubation»Incongruity.jpg
 7adae6b2e26186119647e499a405ab37	rna\Island.jpg
 8fabef06c13e2c35248c1dbabbcff22f	rna\Judith, the Scourge Diva.jpg
 26ec8cfb8ff76bedd68f14a783d3b3ec	rna\Junktroller.jpg
@@ -30779,7 +30785,9 @@ d8e89c19b036c5f9237a5a61f3a7dc0f	rna\Rally to Battle.jpg
 a7883595689c919c29b132e5aefa352c	rna\Rampaging Rendhorn.jpg
 fac5a9b2185da01b5d677dca3e107f0f	rna\Ravager Wurm.jpg
 173455d9a6ccf3c05210a0fe49a5b122	rna\Regenesis.jpg
+34aea7e89cf7663ebf50372ea3ae3e23	rna\Repudiate»Replicate.jpg
 8cff7e238e2e12c79d2cb7c25931a4be	rna\Resolute Watchdog.jpg
+8a871fca781a13767cc01315f76e7384	rna\Revival»Revenge.jpg
 c3fc239b797e743fda17a39acc87b9bf	rna\Rhythm of the Wild.jpg
 9cab616f933f7cf4d4935ef8c8def6b5	rna\Rix Maadi Reveler.jpg
 60eec919e2c5af94b9c9f484043ee2ff	rna\Root Snare.jpg
@@ -30844,6 +30852,7 @@ e1e257139e3985d3a9d706fd33833e1d	rna\Teysa Karlov.jpg
 000390ab4592a4045eb0034f5549bf60	rna\Theater of Horrors.jpg
 f52858799b1e673bcd2ec40f0249da9a	rna\Thirsting Shade.jpg
 d5448e2f7a54634902bbd2a5329ddd1f	rna\Thought Collapse.jpg
+ce8d5c3e2524c8161b728f4234bbc159	rna\Thrash»Threat.jpg
 19621304836f7ad648b1d879ce35c45b	rna\Tin Street Dodger.jpg
 32559934af0a947bd6c7678de15305c9	rna\Titanic Brawl.jpg
 d0004ef3b19b4462956402a3b447163b	rna\Tithe Taker.jpg
@@ -30858,6 +30867,7 @@ a9a3e57bb9ee5facea4f1d04efc82626	rna\Undercity's Embrace.jpg
 227375d6313351e95af27b6f3c2f95b8	rna\Vindictive Vampire.jpg
 7f5c84faaff3e953cb5782d2d9ff1809	rna\Vizkopa Vampire.jpg
 2ca7acc788d58ab9f904cc9d5053e822	rna\Wall of Lost Thoughts.jpg
+90d0a44ad00c3e1f35b9af57b957d2c6	rna\Warrant»Warden.jpg
 92c3822272b59faa19201c9f6f6867f0	rna\Watchful Giant.jpg
 c90c71a2b04fd541e0518c34d018a809	rna\Wilderness Reclamation.jpg
 1f9c53c524c8f6a7cbbd387945e0ba0a	rna\Windstorm Drake.jpg
