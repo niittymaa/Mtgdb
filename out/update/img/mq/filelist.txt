@@ -32784,6 +32784,14 @@ c0b9f46dc8da6868d22f188666916e7b	ss1\Gifts Ungiven.jpg
 0c9006a3fb7935478c164f6e3c9e829d	ss1\Mystical Tutor.jpg
 d2b1e187f06824e66bf3b4bab91d2674	ss1\Negate.jpg
 519b2cae6b96a68bfd7894b63635359f	ss1\Threads of Disloyalty.jpg
+e48a1d375c67c6f064beffbe6b136f38	ss2\Blackblade Reforged.jpg
+16c6dddfa26a6a450c3965d828118895	ss2\Gideon Jura.jpg
+f7c40d7fd985499eb5353bc8644bb594	ss2\Martyr's Bond.jpg
+fd1e2e1de56f16e0e0a346de9fd9e1fe	ss2\Path to Exile.jpg
+b84a5d7ea8cab243a7185942276bb27c	ss2\Rest in Peace.jpg
+f665df1e6004ffd887b1643b8b3e2432	ss2\Shielded by Faith.jpg
+897ab855c6d6eaaa2eb623a5dd6dce53	ss2\True Conviction.jpg
+f99d0155523f4bd00cc605410918906e	ss2\Worship.jpg
 d991fb1ab9139b6805da290dbd385323	sth\Acidic Sliver.jpg
 2b400c0b1ac2ccabf4aa59fdeb153e23	sth\Amok.jpg
 7e97a08e017198beb2ec57bf94217dc9	sth\Awakening.jpg
@@ -36244,184 +36252,281 @@ da0bb961c8bc62cc4e097451f8bee73b	w17\Tricks of the Trade.jpg
 8b4a22ec8c7ab66a6e2ed8af7ddd999d	w17\Untamed Hunger.jpg
 a62e0183caf38d18095ce1a696775fd5	w17\Victory's Herald.jpg
 fc29229c6cd596b9747093e5ffd51760	w17\Wing Snare.jpg
-9a084a5251b766837bbe748a3dceb291	war\Ahn-Crop Invader.jpg
-d5e699243d14b40464817e4da9a29ee2	war\Aid the Fallen.jpg
-e9d5e28609c97e27080e51b6ef0fbebf	war\Ajani's Pridemate.jpg
-94aca4bddaf54d5fabdbcc2f6ce9ccce	war\Ajani, the Greathearted.jpg
-b694ca24346e43f4dd84a4bc24a73704	war\Angrath's Rampage.jpg
-34e8bc2a67aed38fa81e01f68e5f5aaa	war\Angrath, Captain of Chaos.jpg
-7495e32f7752b986c582b1192255e5ca	war\Arlinn's Wolf.jpg
-d2fe5bbf40e2d99d70e53540bde6aa34	war\Arlinn, Voice of the Pack.jpg
-1a19fb3cf4736a878f2e5fab60e5bde6	war\Augur of Bolas.jpg
-171f8d2631ea9c9602768d0e9859d532	war\Awakening of Vitu-Ghazi.jpg
-e36cbd42dd7d639fff07155064e52254	war\Band Together.jpg
-9bc87fbe2cde96e860353c21a134bd0e	war\Banehound.jpg
-4aac10c51275389a0ef83fc325d0bff3	war\Blindblast.jpg
-e79bd2c442ce629b360e5e70782cd502	war\Bloom Hulk.jpg
-9d884a132d9a6c715351b65f506cdb66	war\Bolas's Citadel.jpg
-1ebda9ce2f1c9f9153f6f40f91a8c9bc	war\Bolt Bend.jpg
-eac61d5f7bbc67a6e3934113ba345575	war\Bulwark Giant.jpg
-7ba3a639793cdfdf2a742e49f8fa6c05	war\Burning Prophet.jpg
-9d0c9ebc69390322f3d8b97d6459123d	war\Chainwhip Cyclops.jpg
-956363b816ac64d5129ca8115994e553	war\Challenger Troll.jpg
-448ab32de9cd5fc511b63bdec2fb64fe	war\Chandra's Pyrohelix.jpg
-ba0d88af52cdea309652ed0690a4255d	war\Chandra's Triumph.jpg
-8e7ebea75388cac9bc625c8b85ea74a1	war\Chandra, Fire Artisan.jpg
-86e90298e5c1f709c65185f15fa2bbdb	war\Courage in Crisis.jpg
-f95d5a42c62ccc3789b974e4a8e958f1	war\Cruel Celebrant.jpg
-f484178d1e1cde90191415c9773289fe	war\Crush Dissent.jpg
-f9194a6bf98d2aed59d01ce229841350	war\Cyclops Electromancer.jpg
-d1ea861e6de60fd88da9d605e12fa1a9	war\Davriel's Shadowfugue.jpg
-a3d5fffe6db9532b5dcf89995f5fd1fb	war\Davriel, Rogue Shadowmage.jpg
-11f4ecaabed17ad6169438358b78a571	war\Deathsprout.jpg
-027990db3c5b858dd06ed39d2e877c71	war\Defiant Strike.jpg
-c6b4dc27e0215976039fb6a21322c472	war\Demolish.jpg
-3413d1fada5767c38936e9d3228a2ffc	war\Devouring Hellion.jpg
-a7f1a40d3550dca87c022c0d74235252	war\Domri's Ambush.jpg
-c024a690b7428e6f9675ac4b69cab4f1	war\Domri, Anarch of Bolas.jpg
-fa9acdf8f336019e68377d8864a0bc19	war\Dovin's Veto.jpg
-a56a73dd8ff7714b30579dd112a7dca7	war\Dovin, Hand of Control.jpg
-bfb20129695338b0b65f118049d7353c	war\Dreadhorde Arcanist.jpg
-d2f150d652ce3df6b5ec92c508a8fc73	war\Dreadhorde Butcher.jpg
-b483823e9b68c45722b889978916ed70	war\Dreadhorde Invasion.jpg
-0b81156f27828e3f5b4f758f201fb67d	war\Dreadhorde Twins.jpg
-82f08cb048a9cbca77d85885fe5502d2	war\Emergence Zone.jpg
-bdd36fa8dc4df07830f47fec6a4ba1fd	war\Erratic Visionary.jpg
-7a692d6b2193b3adce1f4598cf4543be	war\Eternal Skylord.jpg
-a594f6c563c533aca3399971d2e5a39d	war\Eternal Taskmaster.jpg
-ab1663ff39e26071cefe68d9a6e9a1af	war\Evolution Sage.jpg
-109f906cc0bd508e986858c72e7c6e8d	war\Fblthp, the Lost.jpg
-06e28fd63bc38a125299bc150e550a54	war\Feather, the Redeemed.jpg
-c953907251e4f44c3e5fde749398cb60	war\Flux Channeler.jpg
-c8b2419eb4f8c54afda7ee207b7d1e19	war\Forced Landing.jpg
-1da796e7e470667fbbb75ef50f2df083	war\Forest1.jpg
-82c6b9a20729da658889a51a2103991b	war\Forest2.jpg
-bcdf0870113b880891e97a1d47a22c35	war\Forest3.jpg
-190c863a9555da2bd683bb65af9fbba8	war\Giant Growth.jpg
-c2764722e882d2136be0ed57696b70d4	war\Gideon's Triumph.jpg
-431e6fcff539eb8b9e0cd7bd4b1031a3	war\Gleaming Overseer.jpg
-030d99b640f339aaebd4299480e9300e	war\Goblin Assailant.jpg
-0ccbe29b7ac931e08d9e87cbe1e08417	war\Goblin Assault Team.jpg
-5da40b9c5b9f3e59fd28d98a054e8262	war\God-Pharaoh's Statue.jpg
-be54421754cae70d1822abdabd61f072	war\Grateful Apparition.jpg
-8ddbb29c827d2e05200cd08089dac86c	war\Grim Initiate.jpg
-89f01b4d4624e18bfae80c9c01a4dd20	war\Heartfire.jpg
-7b288cae0bc9e5b920fc2f9be1867ab0	war\Herald of the Dreadhorde.jpg
-1e298947f90f14020ccd0f852824cc7b	war\Honor the God-Pharaoh.jpg
-71c414e825677e6d2a2831678fb371a8	war\Ignite the Beacon.jpg
-97e475503eb647f409479182fe294bf8	war\Ilharg, the Raze-Boar.jpg
-4b3f25728b0a86d1afd8158a6213b25e	war\Interplanar Beacon.jpg
-4bb5180eea7094cfafc11b1fae3a7171	war\Invade the City.jpg
-dcf0d3a837c40a4638348be5db305762	war\Invading Manticore.jpg
-01d30af974b34294a19cbf2c6a408c32	war\Iron Bully.jpg
-05e031eb8d1b2a116f772aad34882d49	war\Island1.jpg
-53194118f2c9834d214f57be244e685d	war\Island2.jpg
-4dd9300d4003533ed1267db355d503f0	war\Island3.jpg
-3d5de5397cc36e3cb7bc271a07b8c066	war\Jace, Wielder of Mysteries.jpg
-1ade3692d77171cb8b74c80d8317eefb	war\Jaya's Greeting.jpg
-31ea14e20ea70ba8bc49daf816ab2d0e	war\Jaya, Venerated Firemage.jpg
-cb263fd3fcfb3827581a7250f960b21d	war\Jiang Yanggu, Wildcrafter.jpg
-ef2fff7b383512eac2fd88956b8f8036	war\Karn's Bastion.jpg
-86eaf47c3217d7091a1a956797c85fdf	war\Karn, the Great Creator.jpg
-f15dd15934b6aaec9ffaa16859a93970	war\Kasmina's Transmutation.jpg
-e958762b3c197c17a29966aa379d0da6	war\Kasmina, Enigmatic Mentor.jpg
-965b2ed9efa700fe40f1d5713d593c74	war\Kaya's Ghostform.jpg
-002093ae553aca4b55076d7036f423bc	war\Kaya, Bane of the Dead.jpg
-c2f0ad8d81c77ec5fd589f3ed0413c40	war\Kiora's Dambreaker.jpg
-7c26da9cff1ec83f451f4ce64bf19a40	war\Kiora, Behemoth Beckoner.jpg
-67f845a90c2cd1ce7dddd5ea74ce308b	war\Krenko, Tin Street Kingpin.jpg
-c69341043f77b55ef947c4566bc88182	war\Kronch Wrangler.jpg
-45664e9607992bf8bee4daad75ee9f6f	war\Law-Rune Enforcer.jpg
-d232743fa785f42b4b46296e8a8b25d0	war\Lazotep Behemoth.jpg
-d72a8099d15394216fd13bc4d1d991a1	war\Lazotep Plating.jpg
-9cc9fac5f8272b1db3764ae068ea1edc	war\Lazotep Reaver.jpg
-7510266cf7e7ba94d877fa5de94e12d9	war\Leyline Prowler.jpg
-5c08e037c1b69c729c7e681544bf98eb	war\Liliana, Dreadhorde General.jpg
-9dddeedbabd845fe517f8e1cf164217e	war\Living Twister.jpg
-406061234763479d548431fb79f5ddb5	war\Loxodon Sergeant.jpg
-54b5e69e8e490f2c79e10030f2578888	war\Makeshift Battalion.jpg
-d59a5956137dfae3271a7d256c160295	war\Martyr for the Cause.jpg
-0c436ba80d5f6faa45600fe5054696d9	war\Massacre Girl.jpg
-d67a10c1e6505865746bedb496ada605	war\Mayhem Devil.jpg
-3085bd01793c3c8238a4181f96f737af	war\Merfolk Skydiver.jpg
-77320f1b4b25fab8802ff242a1e014db	war\Mizzium Tank.jpg
-31cceb39d0e4d38e4d403eda5fe510ca	war\Mobilized District.jpg
-376984fe297a3d67f37dff4eb43c91c0	war\Mountain1.jpg
-aecbb10b0c1bc04e7ba904ff36d04d92	war\Mountain2.jpg
-acffeee9aa80cde7a7fc5aee4aa8b903	war\Mountain3.jpg
-ec17e4928f57dd4f4abe1aa3e6b0de4f	war\Mowu, Loyal Companion.jpg
-7f072fd0481b3a65ead09d1aca029a4e	war\Naga Eternal.jpg
-aa05f950c749fb87bb0e2b8e11fae8bf	war\Nahiri's Stoneblades.jpg
-c0b91015a2e3863cca2faecf27503b1a	war\Nahiri, Storm of Stone.jpg
-03a56f5ae2f9cfc291e15551ef68dcd4	war\Neheb, Dreadhorde Champion.jpg
-4c861326cfbf68e14132be8c88084399	war\Neoform.jpg
-42d9ba81badf6848ba6f231bf31b5923	war\Nissa's Triumph.jpg
-dbb05b941e5f25509869de202fd37b07	war\Nissa, Who Shakes the World.jpg
-615636dbdba379b79a3bf48aa897b639	war\No Escape.jpg
-ec22f567d708585ba6ebe11db1c00021	war\Ob Nixilis's Cruelty.jpg
-11f27dbbb30b7528823cb018a8c0ee10	war\Ob Nixilis, the Hate-Twisted.jpg
-d13558c5d9e07d17f08701a810c01ea4	war\Paradise Druid.jpg
-bfb3d5d5fab5278c5becd1162be73865	war\Parhelion II.jpg
-931539263385b94bab754274cfef55c2	war\Plains1.jpg
-df051c9f564f1a4544400e377c7def1e	war\Plains2.jpg
-c6f67bc6f19165d54ccd6e8b700df0e9	war\Plains3.jpg
-61d76e9806e1d32381e077f32cfe0ea5	war\Pollenbright Druid.jpg
-920f5f24232d4ee99ccd7017defabaf5	war\Pouncing Lynx.jpg
-9a26a0d1203340c0d193604dbe209a3b	war\Primordial Wurm.jpg
-664800c00108f5fa2c587d1f4f62a371	war\Raging Kronch.jpg
-e5a31e2415f4bc6e5ad9f455d77508b1	war\Ral's Outburst.jpg
-acc1dbd97f3ffa16d3ca9da5db92794f	war\Ral, Storm Conduit.jpg
-50eed57a97bdae8696a6d4ab570c3256	war\Rally of Wings.jpg
-f2e22cb1ad2c5749632d32fc66341f32	war\Ravnica at War.jpg
-69d929756ad1ea711b1e2cc9e1661f18	war\Relentless Advance.jpg
-eb9cac733b9c0f79af8c357ca9393c9a	war\Rescuer Sphinx.jpg
-719475ae1b5e7228e1f375d3afdd6a20	war\Rising Populace.jpg
-1482f6e124431f1362113a7db94c6d9b	war\Roalesk, Apex Hybrid.jpg
-cd175eac0f27f16e29a40dc396cb075e	war\Role Reversal.jpg
-f53b351e1d6cde818752137371032442	war\Saheeli's Silverwing.jpg
-cf238d9406c70985f57531f165eb0b3a	war\Saheeli, Sublime Artificer.jpg
-2a55ecabe5e3f96464434a0ed59f3489	war\Samut's Sprint.jpg
-9cc3779a67fdae82c961035a9e5ac2f7	war\Samut, Tyrant Smasher.jpg
-8b61775d8308f5749263f20b240d5801	war\Shriekdiver.jpg
-a85e2bf538f99f35bd25c378899f0a8c	war\Single Combat.jpg
-41c4949197f3329753cec3ef8f4f09aa	war\Solar Blaze.jpg
-1308204af5342a7b1c49a534fd46572c	war\Sorin's Thirst.jpg
-64ee4701c9c3617173b5066fd4734c92	war\Sorin, Vengeful Bloodlord.jpg
-ae1ef853789f4e7c4727dfee6d816452	war\Spellgorger Weird.jpg
-841a81fc7d48ed5087fb0900bc71a88f	war\Spellkeeper Weird.jpg
-0a0ff39acc9c8b3fde543879e33747c1	war\Steady Aim.jpg
-be955002dd14fcca42220bc9a9c7630f	war\Stealth Mission.jpg
-25b342ff3f37bd23cad2dcd9d2ef1a61	war\Storrev, Devkarin Lich.jpg
-2a0c29fdd0e1885acb3759678c1555f5	war\Sunblade Angel.jpg
-3e792caaf8d02d2d99d205112f55a20e	war\Swamp1.jpg
-0e6e96cd90a7b34c7a4f7d08c6a5f10f	war\Swamp2.jpg
-1cc50b8a4b8055047b97725a166406a9	war\Swamp3.jpg
-eff1ea20d8ff782ce82000c20875a9d6	war\Teferi's Time Twist.jpg
-e9a2bbdf2b7aba1e7f80703527383e6a	war\Teferi, Time Raveler.jpg
-2b7bfe034fbe42203d6f5b27177aea90	war\Tenth District Legionnaire.jpg
-37347638ef2aee44652ed9bbb0220d3a	war\Teyo's Lightshield.jpg
-4925c09a0857f87f8f65e06b5c79889d	war\Teyo, the Shieldmage.jpg
-7642110c46832bbefdb3f942258c1c6b	war\Tezzeret, Master of the Bridge.jpg
-efad6c5479f4c679425352518acb9183	war\The Wanderer.jpg
-9b30a6205ae12060fd1d519dc5cdd7a2	war\Thundering Ceratok.jpg
-f8b5f27044a68bacdf5d01192e8114ae	war\Tibalt's Rager.jpg
-a4a441e0a866ad267d9a186c7213a55c	war\Tibalt, Rakish Instigator.jpg
-679f8fc858b536e63bac9344ed06d1b7	war\Time Wipe.jpg
-924bb4c87b656fd59a100f4092e8febc	war\Tolsimir, Friend to Wolves.jpg
-97bc67a912710339780aab923f42f941	war\Tomik, Distinguished Advokist.jpg
-c63c8502cd02e9f41edf5b147341f8e4	war\Topple the Statue.jpg
-8c6d9caacc35172934dac34e0a4407e6	war\Totally Lost.jpg
-e4433b93f370dab982837b1c4dc6b926	war\Turret Ogre.jpg
-a5663d68c062fe087214db6493fef99f	war\Vivien's Arkbow.jpg
-c000ebf50bd986bf391b8b2a4b14dbf0	war\Vivien's Grizzly.jpg
-e82d365721da60c5b5fd4cf1695aef4b	war\Vivien, Champion of the Wilds.jpg
-37e22b1726fe13b78b0e8ff638526d07	war\Vizier of the Scorpion.jpg
-6fb1533d26b24ec502410f191561dc5a	war\Vraska's Finisher.jpg
-d1bcfaceca5cf4817f3fa512c44f181c	war\Vraska, Swarm's Eminence.jpg
-d30fe6d762484f5a796234ea9a9bc59b	war\Wanderer's Strike.jpg
-f1a72b9ef18ec92d4238227aee924f78	war\War Screecher.jpg
-270b998d63a58b88b1825e1f7bbd31a0	war\Wardscale Crocodile.jpg
-94b463d7ad0716cebcebcfc4304ba6d5	war\Widespread Brutality.jpg
+c9fa51f276118622478efeec0514a6d2	war\Ahn-Crop Invader.jpg
+c5953dabd31365b932326cd22fabdeb3	war\Aid the Fallen.jpg
+8fde80d360863422c61691dadd3379fd	war\Ajani's Pridemate.jpg
+72d49805d631619966c15b39654b65de	war\Ajani, the Greathearted1.jpg
+9561cc058f7408b8daefd1aefe5f5815	war\Angrath's Rampage.jpg
+2b1d04f81893366c59ae1141e5084109	war\Angrath, Captain of Chaos1.jpg
+6f3c82a34aac3173337cae9f91dbf520	war\Arboreal Grazer.jpg
+03da0bf8f566a8c66516d5938d2b54ae	war\Arlinn's Wolf.jpg
+c06d2f2efcacc2cd804435d7da08cd75	war\Arlinn, Voice of the Pack1.jpg
+b998f6827de9763cf508894e5f20a003	war\Ashiok's Skulker.jpg
+3b6c535008aa18486901f9f3a9feb420	war\Ashiok, Dream Render1.jpg
+0a65cd2ca02aa593db7869fef16e7420	war\Augur of Bolas.jpg
+3688063c7f319db7283311aa98284677	war\Aven Eternal.jpg
+c2b36a9fd1399be421d454af0c9b55e7	war\Awakening of Vitu-Ghazi.jpg
+280595f3b25bc4b4129e1eceb1c54922	war\Band Together.jpg
+ab44bc3be76a85eb7d684637eeaa8f56	war\Banehound.jpg
+bc314b7580b86e97797e29bdb27d1d8d	war\Battlefield Promotion.jpg
+70267b2696c8459e1b9fc1fb8aa03ce5	war\Bioessence Hydra.jpg
+82648a5b5f92b48f4cba2495e60be82a	war\Blast Zone.jpg
+f63daa2b66449125c89929503c08f453	war\Bleeding Edge.jpg
+5c401a80d486632e31bf514165cc3616	war\Blindblast.jpg
+3382132f9ff651f47c894745064e087d	war\Bloom Hulk.jpg
+f9f5e7ca9db12d13483031da840e0614	war\Bolas's Citadel.jpg
+20deb3f3ef1b4309461143d9f011ec07	war\Bolt Bend.jpg
+29998eaad8a1e5f5d90ca9a9c2892edb	war\Bond of Discipline.jpg
+2fad49377d948b9d6210bf625c2a6925	war\Bond of Flourishing.jpg
+ae183d7aa045e128e75d45ce1bee49e1	war\Bond of Insight.jpg
+5201e6ed64814317f657a31f9a6811d0	war\Bond of Passion.jpg
+f752ebe737203298955fd9f5e88dbb24	war\Bond of Revival.jpg
+47224f514fde8cf49166971d467ac8d1	war\Bulwark Giant.jpg
+ecc9731a96bca10bb06a459f8573dcdb	war\Burning Prophet.jpg
+37c016bd7e8ecd486945d09689e18208	war\Callous Dismissal.jpg
+ae940ad99562f436e85a42c05a445a18	war\Casualties of War.jpg
+b520f298b5756cd5c0e39edb5e1e3448	war\Centaur Nurturer.jpg
+4d3ed7df9c5361e9cd0f4648b16a2628	war\Chainwhip Cyclops.jpg
+586ed386eba0871b65bf05bd56f829a8	war\Challenger Troll.jpg
+c8731e56df73a527174074df0be0a6f6	war\Chandra's Pyrohelix.jpg
+3eeff48ea72897a7a91082643650a103	war\Chandra's Triumph.jpg
+64926d224557360dc089800f6f268a51	war\Chandra, Fire Artisan1.jpg
+f5f900374fbfd44e7b1ccb4c7ba10495	war\Charity Extractor.jpg
+02a0af13ef59ffb2a2a517c59d7da08b	war\Charmed Stray.jpg
+e98d2ce83e279ce2ef902123557297ca	war\Command the Dreadhorde.jpg
+0cc6e1bcfd5b77416da1fc7e5ff35993	war\Commence the Endgame.jpg
+08a6b009fc61e189481875ceeb8bb8ed	war\Contentious Plan.jpg
+1d95e773e1caeafad8b0ad9273bb93b2	war\Courage in Crisis.jpg
+f6126846877afc900cb8d8c2dcb19410	war\Cruel Celebrant.jpg
+7e2eadb8328d0e9568fbcd8f90c0fe59	war\Crush Dissent.jpg
+96d2c0d035140825a1a32e3d5c3ebf45	war\Cyclops Electromancer.jpg
+826441f064df5f10bdb086560e1b449f	war\Davriel's Shadowfugue.jpg
+79aaa4c3e0102f77e4a3227cb3c9cb55	war\Davriel, Rogue Shadowmage1.jpg
+b6bb10166978cf13d93115cbe468a702	war\Deathsprout.jpg
+d3bf49ab9f24dfd36dc41ff23a91222f	war\Defiant Strike.jpg
+aeb436791b6ba77c770caa0bbfd4209f	war\Deliver Unto Evil.jpg
+b77ce3639c63abb603304dffc1593889	war\Demolish.jpg
+64d650886868ef542af90245e33f7861	war\Despark.jpg
+eea0eb740e131285121ba93f6937b970	war\Desperate Lunge.jpg
+e727104b07d34afd70fcde1b279773de	war\Devouring Hellion.jpg
+8b5b3eea39c6c381f896bf4646885f5b	war\Divine Arrow.jpg
+40e2e6c679fc46242eac2d080ede0a9f	war\Domri's Ambush.jpg
+d1d28ab15a72943cc2c5005e53930bfa	war\Domri, Anarch of Bolas1.jpg
+fa1fe65a17372a355c9e0151ff37e4a6	war\Dovin's Veto.jpg
+51eb87982b63cba1e54934edf655d524	war\Dovin, Hand of Control1.jpg
+7ee0417ef7ff8264aff4717beddc27f8	war\Dreadhorde Arcanist.jpg
+990ca7b7da2bd35db4c97d9bc2287713	war\Dreadhorde Butcher.jpg
+bd8436467422f8e4615af956db380d4a	war\Dreadhorde Invasion.jpg
+9f97327ecb92b6539d2849751868578e	war\Dreadhorde Twins.jpg
+ded6751706a674a3cb1a983b080f0419	war\Dreadmalkin.jpg
+74886a98cec63bde8958da4a221fb0f1	war\Duskmantle Operative.jpg
+02fe58170d85c0c75bbb5db31b67728c	war\Elite Guardmage.jpg
+2078275bee089b178f95d24593155130	war\Emergence Zone.jpg
+edb9e5989592f255de18d9d9d9527464	war\Enforcer Griffin.jpg
+3959c168da2a6140bc65a3e71f71d357	war\Enter the God-Eternals.jpg
+498b85faffe8b3bc5767c4a06fbccd68	war\Erratic Visionary.jpg
+2a18351e9a4cb1136508a69150cfa3a5	war\Eternal Skylord.jpg
+0600528f39b8a5aa6bdf1a1f995eddd5	war\Eternal Taskmaster.jpg
+242e7f87277206f94222b14174575c0a	war\Evolution Sage.jpg
+30a2c77947ceb885bc2a0d23db8f92db	war\Fblthp, the Lost.jpg
+db8e835845841ea57d1b5e4f11a1f422	war\Feather, the Redeemed.jpg
+ffa09cfda56e2c4c98bf5bbd92c6c06d	war\Finale of Devastation.jpg
+a827cbdc472a58ceee222e1e69419542	war\Finale of Eternity.jpg
+910a939dbf611f65b1bd03c2e11148bf	war\Finale of Glory.jpg
+d7cba2a7915fd7775a3fcc87b7187548	war\Finale of Promise.jpg
+f1aa68be0a9bf62023873b0dd5ca2373	war\Finale of Revelation.jpg
+ffb025785c0cccc4c5d7c78b3b099875	war\Firemind Vessel.jpg
+805da5124c17f9c4da9665ce133f2941	war\Flux Channeler.jpg
+09205eea662344aa83642452a1c8183c	war\Forced Landing.jpg
+921e8c23c783bb8ff07730765f28d3ec	war\Forest1.jpg
+b9f20fc3ff4f07634f37b645a0ca373c	war\Forest2.jpg
+dd62f3b91ac66f47b15e76ba081eefa5	war\Forest3.jpg
+8e39515caa67cea1878b2bc1d18daaa9	war\Gateway Plaza.jpg
+0e5dc784abff797344f565686b7e0013	war\Giant Growth.jpg
+8857f99756261f02f1ee8a1679db49c9	war\Gideon Blackblade1.jpg
+2bd6fc187ca9411406aca18e64e48cd0	war\Gideon's Battle Cry.jpg
+f4622166769d0a034dcf585aa8be9257	war\Gideon's Company.jpg
+2c812086c82acc784c50362e2ac62bea	war\Gideon's Sacrifice.jpg
+8a1bf424624a76e552b92965b20771bc	war\Gideon's Triumph.jpg
+cba260ffb2da1570dc8dba798c7c92ab	war\Gideon, the Oathsworn.jpg
+7b74eca02409166731119a24b4cb2202	war\Gleaming Overseer.jpg
+fa319a488e31f1c9e4e9e378652ab540	war\Goblin Assailant.jpg
+a8ce8fb3667c2c3dc3656cc11ecd123a	war\Goblin Assault Team.jpg
+223e91cef900211869a8846806f27b78	war\God-Eternal Bontu.jpg
+ef68237f4739af7c40a19dd1a98ad674	war\God-Eternal Kefnet.jpg
+6f1937cdffacad04061e2e0f631ce657	war\God-Eternal Oketra.jpg
+858cf4a5edcd3408a3b033a942484e04	war\God-Eternal Rhonas.jpg
+943ab1e5f9017c21635da1d2d25acb75	war\God-Pharaoh's Statue.jpg
+b114dfccfc03b94f317b28d2a2df645d	war\Grateful Apparition.jpg
+6859b38b086c2b1e350e943a51e47c38	war\Grim Initiate.jpg
+35cf3641316387674cf7c70ccbe4ed15	war\Guild Globe.jpg
+c6af4e772bc1ed705531a8d9baa3b3f2	war\Guildpact Informant.jpg
+579478c9831fddd60c0265858afb9b31	war\Heartfire.jpg
+358428d1ad0d797198e4f35acf3b3695	war\Heartwarming Redemption.jpg
+67c63791137f5596568a500552e5d7b2	war\Herald of the Dreadhorde.jpg
+5be258d96cb83092761f3f7442b2c0dc	war\Honor the God-Pharaoh.jpg
+370fc685fb776f663896831911380758	war\Huatli's Raptor.jpg
+13b68d7fbac9e2ad806c7b883da51562	war\Huatli, the Sun's Heart1.jpg
+60d1b5c39849f0284d7942170d341e01	war\Ignite the Beacon.jpg
+e59cccda4d67416289faacea513402ce	war\Ilharg, the Raze-Boar.jpg
+819d62ed9eafa5e8ae9472e112de0bc1	war\Interplanar Beacon.jpg
+a9a760302c6d61c31439db7b4e152a94	war\Invade the City.jpg
+ca3beadc82fb6d5b049f05189b6de8a6	war\Invading Manticore.jpg
+3a9ea0d988bf594f196d3a048943ac94	war\Iron Bully.jpg
+48e9e7cf6075702a513d96b919df890b	war\Ironclad Krovod.jpg
+0803850356afccacd7738b3d783abe6d	war\Island1.jpg
+3d4c53765e1a8b0d462f5653499b9f1a	war\Island2.jpg
+94136d108e71afcb5d7b2863962322a9	war\Island3.jpg
+5a429ba016f5c5ea703ee0b650d94c8d	war\Jace's Projection.jpg
+e8982ebc4c5cbd23b61f1d0c0b8737a3	war\Jace's Ruse.jpg
+5c6e89459117bdcbc13de443af24afde	war\Jace's Triumph.jpg
+a1e8eeda0cb1f3cf5d546280dee5095b	war\Jace, Arcane Strategist.jpg
+5a506008dc91be029072e00196313115	war\Jace, Wielder of Mysteries1.jpg
+4c61c9dde5a0634dfe1450ddc78823a2	war\Jaya's Greeting.jpg
+cd93ee75510705de51067bd49c3deb89	war\Jaya, Venerated Firemage1.jpg
+709737ae0cef39dc28a5972b0eba3191	war\Jiang Yanggu, Wildcrafter1.jpg
+2f6b59a9b8c6f80674840a19e88e79a7	war\Karn's Bastion.jpg
+b7998a053ad6f3365900db0e43e746a6	war\Karn, the Great Creator1.jpg
+f59140a84c552172f79e40c449d86ab9	war\Kasmina's Transmutation.jpg
+5fbe3c80495fe9a1e91509062fb9ca3c	war\Kasmina, Enigmatic Mentor1.jpg
+b6eaf44116a3511d9dffe4a53ddc478b	war\Kaya's Ghostform.jpg
+825c789335f77cb0a46fcbd927af21d2	war\Kaya, Bane of the Dead1.jpg
+d5ec27a9f3f557d467eefda6d6be5bd1	war\Kiora's Dambreaker.jpg
+90455202315e60f46220941d0135bebc	war\Kiora, Behemoth Beckoner1.jpg
+b838282b9f593e7f4bcc23eaaa47a593	war\Kraul Stinger.jpg
+f64425b68a21a5704276fd290f16a94e	war\Krenko, Tin Street Kingpin.jpg
+4be7c44d6588786896a353d81ea444d7	war\Kronch Wrangler.jpg
+6c1705d42326097545456ee37635f195	war\Law-Rune Enforcer.jpg
+ee675f812f37e78876116a9a51e70685	war\Lazotep Behemoth.jpg
+e6af5181b66cc0019ae62feb0411b8d1	war\Lazotep Plating.jpg
+01b115c1109165dfda7a115c31b3deb4	war\Lazotep Reaver.jpg
+13441d6d644eb60848929e0f1a123429	war\Leyline Prowler.jpg
+9d6d49f954eca7d19846413955210989	war\Liliana's Triumph.jpg
+188bb755a549fc64743160e61f0aaf11	war\Liliana, Dreadhorde General1.jpg
+eb90af9453262a5e809d7b8623e1fbc4	war\Living Twister.jpg
+67ce2cbb0a3d3ab48589fdd79e2ad222	war\Loxodon Sergeant.jpg
+460d10907c50e4597651917c0972c5f2	war\Makeshift Battalion.jpg
+df0fcee842abc60ad09b4aceec230825	war\Mana Geode.jpg
+70cdace98ca7fdb9e6bc36e6a0e880ba	war\Martyr for the Cause.jpg
+5e9180905740c34ec367fb5221ed168b	war\Massacre Girl.jpg
+f79223cf33f680981ebae139c0efa1d9	war\Mayhem Devil.jpg
+135a353b60b8981fd438e9ebdb8d90bb	war\Merfolk Skydiver.jpg
+93db752c120816da2da861e261be4671	war\Mizzium Tank.jpg
+95b56a560be179b18ae74e2b91e51da0	war\Mobilized District.jpg
+6b1f82fa279f45192e64dd28b86682e9	war\Mountain1.jpg
+3293e3a25b299572efabf3a4d6bd80fb	war\Mountain2.jpg
+8b3c72fc1e00f1f0a88e556c0fc37e28	war\Mountain3.jpg
+e0566be2e29c8d900dd0c1889fb25b9a	war\Mowu, Loyal Companion.jpg
+d8aab8dfc03b2049441300485e9dda3f	war\Naga Eternal.jpg
+d3de62f9c1531fa3b653f5afbfb31ccd	war\Nahiri's Stoneblades.jpg
+fb83fd16ba946f3357fb02c98669410d	war\Nahiri, Storm of Stone1.jpg
+e5fe156c3d7c6adfd874ade60b9b9190	war\Narset's Reversal.jpg
+58785bde85a2161934163027269a720e	war\Narset, Parter of Veils1.jpg
+7d328ffc54412e5aef292b9bff9136ea	war\Neheb, Dreadhorde Champion.jpg
+e091e806404995c31c57d214f506f4d0	war\Neoform.jpg
+ce3d10d5c1f4b137ee49ae49a0ba740d	war\New Horizons.jpg
+3e923f2e689697955d667cd2f9e22a0f	war\Nicol Bolas, Dragon-God1.jpg
+df939ae7ce8d2294ceb39bcaa967081c	war\Nissa's Triumph.jpg
+1ca4442e0ebed8e166e5ef6e527aa80a	war\Nissa, Who Shakes the World1.jpg
+423f7909b7553a575dbac62cee703587	war\Niv-Mizzet Reborn.jpg
+c09b8174c70e94f04096b23c57d2a10e	war\No Escape.jpg
+3861e0aa7e6207f0fb8175566e9933cc	war\Oath of Kaya.jpg
+e093ca5d6ea88706ae944a747f1856a9	war\Ob Nixilis's Cruelty.jpg
+0d2e8f8b008021cf34850b90bc3fe9e1	war\Ob Nixilis, the Hate-Twisted1.jpg
+22374b61d5889d323fcbbe6ea3945acc	war\Orzhov Guildgate.jpg
+7a3837169147b8125c7f0d1e62bde3f1	war\Paradise Druid.jpg
+10d2dee47899a29660c315e33a51694e	war\Parhelion II.jpg
+0de847911025592d454f1c3b99658a25	war\Plains1.jpg
+d5abcab320eac14db1bdc2d0f312a070	war\Plains2.jpg
+cd697b64075df418e5c9aa41110f66de	war\Plains3.jpg
+ff8873e9bc439d5d3f88f12adb39e4f6	war\Planewide Celebration.jpg
+0e7bad7054e197f54dfdc2f40b4f939f	war\Pledge of Unity.jpg
+a2da989aeaccf1814e542ff28f82a698	war\Pollenbright Druid.jpg
+5158773405d5e4eedce64687f36a61cb	war\Pouncing Lynx.jpg
+d7995493ec51711ce75ce8865e85635d	war\Price of Betrayal.jpg
+6625d4215b4f8f693229b2ec7c1202a0	war\Primordial Wurm.jpg
+c532e43df0298966031384f30933401b	war\Prismite.jpg
+a4498b6f41f40a8efd42bdf379c6138d	war\Prison Realm.jpg
+d3c98640a76e0a6de2f75db949839cf6	war\Raging Kronch.jpg
+c138f7b11d56ac8824b107bbc8e264bb	war\Ral's Outburst.jpg
+7adb423b5d45bd8f0a8725dc3e5871ca	war\Ral, Storm Conduit1.jpg
+482b2bf468e3bcc68500f9b651d10d2d	war\Rally of Wings.jpg
+58b306268dbb4e492b7733e94ba90ac2	war\Ravnica at War.jpg
+755ae0d9f076daac3d98b882e604d3e9	war\Relentless Advance.jpg
+78175124863c18e7e704ad37ac870cfa	war\Rescuer Sphinx.jpg
+9ae321247d04a5a399a1d9da1accd562	war\Return to Nature.jpg
+8cd9242a5b03e8067206e53c68b4bc56	war\Rising Populace.jpg
+832694fccceab2b93a8e2072f2b6b96c	war\Roalesk, Apex Hybrid.jpg
+a945bf157479f0d531991ee594604fc3	war\Role Reversal.jpg
+a01884d96cee70642452deff1b82e61e	war\Rubblebelt Rioters.jpg
+96529a98593fe529c87914c71c329bf5	war\Saheeli's Silverwing.jpg
+0e4c67f8cd1ada49e10c9fe47d711fc9	war\Saheeli, Sublime Artificer1.jpg
+a1d90890d41d23ad07c7ebca8737932c	war\Samut's Sprint.jpg
+9cbc435a48d7650c656f4dea957607dc	war\Samut, Tyrant Smasher1.jpg
+8c8c28c7ea0250cf90d668563e9d64c8	war\Sarkhan the Masterless1.jpg
+d4b490ba6471fc31d742f4478506f19a	war\Sarkhan's Catharsis.jpg
+818e6cee433a33de1fb7080f712b94b8	war\Shriekdiver.jpg
+2179462ad2aabfa8de10d379a17a75a5	war\Silent Submersible.jpg
+400547d89c442a0ec72bb69b2f01cd9e	war\Simic Guildgate.jpg
+fb1b3b3d45c43f5f747b66597365abf8	war\Single Combat.jpg
+cac1a46d5e43fda177e29cfd13aee53b	war\Sky Theater Strix.jpg
+f29971e4b056cd33cf2505c6229b12ef	war\Snarespinner.jpg
+642d2f3863059cfe67d2dca2e40ef353	war\Solar Blaze.jpg
+366a584e4473a01f6a634f9a6e692606	war\Sorin's Thirst.jpg
+7d3b0d3111c914c8f0bce4da133722c0	war\Sorin, Vengeful Bloodlord1.jpg
+f0e99fceae22ad5521ca66e612ad984e	war\Soul Diviner.jpg
+331f3e254e3f83f401b7291c17abf7aa	war\Spark Double.jpg
+4f251ef8f5797c39b7d2df6261551e55	war\Spark Harvest.jpg
+7c40a70c6ccab7bc82bf9f24209fb785	war\Spark Reaper.jpg
+470a9ef7ad07c09bc7736ca8366fdbf7	war\Spellgorger Weird.jpg
+3e1f5712cdeb831def61437310c91780	war\Spellkeeper Weird.jpg
+b4650a60f51da03a7dbc85754f4820fc	war\Steady Aim.jpg
+851737a407b3bb47d149d961f698731d	war\Stealth Mission.jpg
+f590a2abaa8437379307ee68e3b084ee	war\Storm the Citadel.jpg
+83f3df0b5e126baf1dd4b41de13523a5	war\Storrev, Devkarin Lich.jpg
+2228d21557503a08b7ace0a78fa4f9b1	war\Sunblade Angel.jpg
+b79d0902288ed06f4dabd97cba5c9d4e	war\Swamp1.jpg
+53d12de3870023ed8ae03f01ff39f937	war\Swamp2.jpg
+d5275b92561c43e7a7ec7a6e2c0ca06d	war\Swamp3.jpg
+431bbd4d691b2db7b0c7779c612a0e61	war\Tamiyo's Epiphany.jpg
+56509ceaa049d808cb784e53c678970c	war\Tamiyo, Collector of Tales1.jpg
+53d4dc850a011c9b1ef5bb1ca0e79742	war\Teferi's Time Twist.jpg
+6966d2d4b034eb242be46b7bcbdf25bc	war\Teferi, Time Raveler1.jpg
+b8c6619da6b95f0f776cc2831d35ee9a	war\Tenth District Legionnaire.jpg
+3d07a40beb8259cb21f93d372c4fe818	war\Teyo's Lightshield.jpg
+97bd19e926c10f1a68c8f416db1379a5	war\Teyo, the Shieldmage1.jpg
+03f53c4494b9ccda95b33cb67270f99a	war\Tezzeret, Master of the Bridge.jpg
+6befafc8fa828fcc426b35cf271e2877	war\The Elderspell.jpg
+bf63fe6e52557be1e7def6c01279374e	war\The Wanderer1.jpg
+741fa69d022570c60cd62a2baf409e5d	war\Thunder Drake.jpg
+9e6816536aa7351c579bbeb4b8ff5dfc	war\Thundering Ceratok.jpg
+90c23badd29904ab1b7df7a2b11dd20f	war\Tibalt's Rager.jpg
+9b78aa528fc9cec3b6cd505b224b2bb6	war\Tibalt, Rakish Instigator1.jpg
+79ba4eeef0efcc61ffcd9af2a47bb10a	war\Time Wipe.jpg
+1ada011771d2cd7caf1e1d0a160e9f5c	war\Tithebearer Giant.jpg
+037d8ef17bd3ac3145d38fb721e546bc	war\Toll of the Invasion.jpg
+9c46751c51b50dbd96119e4f734073b4	war\Tolsimir, Friend to Wolves.jpg
+b3bdbce9b164f2f61e95170a335dcae2	war\Tomik, Distinguished Advokist.jpg
+c27be9064d09ab1bd4f498ccd48a6b95	war\Topple the Statue.jpg
+e9332e196d88ee25db70ffd54033bf52	war\Totally Lost.jpg
+301bd0011ba0fa7a86c65841dcf1f90c	war\Trusted Pegasus.jpg
+a3b0c1b9abd5160d630cbb4ecf15983b	war\Turret Ogre.jpg
+1841661806b6965c0aa78ed51576dacd	war\Tyrant's Scorn.jpg
+3b526904dc5145a2bf889603516d3f09	war\Ugin's Conjurant.jpg
+1bffa6345b1e0fb0edec47fa6f2aa0ff	war\Ugin, the Ineffable1.jpg
+63b15b221f734b7cd22986b48489f6df	war\Unlikely Aid.jpg
+763fc83e5494f3db0afff425727e4f17	war\Vampire Opportunist.jpg
+f7511568ca7e5ced5ea4f9c1a974c485	war\Vivien's Arkbow.jpg
+eb1e70e8bc0c2c5173c1f3669ca75775	war\Vivien's Grizzly.jpg
+857ff6680863611fee2e80cb343fc6fa	war\Vivien, Champion of the Wilds1.jpg
+6c98ba98e2a83b7f29b5528273ff3d57	war\Vizier of the Scorpion.jpg
+371109fed67989d987838106029380ba	war\Vraska's Finisher.jpg
+0ee24998e7fb0ad1c6f340805f578483	war\Vraska, Swarm's Eminence1.jpg
+f8374d46ea56cd7e4bd90c823c5f862b	war\Wall of Runes.jpg
+2479fdd60487070c33a588bcbe1c1c8c	war\Wanderer's Strike.jpg
+c8f4c3d5d83802fa1be0d83a4b58da76	war\War Screecher.jpg
+1ff9d57bc02d54174db5b465fe38ece2	war\Wardscale Crocodile.jpg
+07fb0008136feef75f5880ab413e58bf	war\Widespread Brutality.jpg
 b7db3fc4a87c9de4deeeea7968746e59	wc00\Absolute Law-S.jpg
 609a75e080000beb04b4e8f753774c54	wc00\Academy Rector.jpg
 d5de577acca236b8371737f7dfced3a2	wc00\Adarkar Wastes.jpg
