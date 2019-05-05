@@ -17927,7 +17927,9 @@ b941166cd4c1eea5c51ff633364c5613	hou\Zealot of the God-Pharaoh.jpg
 d8e5b2c36bf69f31ec46193f368f2963	htr\Chandra, Gremlin Wrangler.jpg
 f90f566380c06980375d9490c05ccf05	htr\Dungeon Master.jpg
 ab454904590c4571103d82106997b17b	htr\Nira, Hellkite Duelist.jpg
-8da0604eae8a60456197225fccd6b81c	htr17\M'Odo, the Gnarled Oracle.jpg
+eda6570944a4bd3352586e094b880c3c	htr17\Diabolical Salvation.jpg
+d1cb7e4b31c2356bfc171fc94c7bbfb3	htr17\Inzerva, Master of Insights.jpg
+fb5cdb819ca958153a0a16be330c21cd	htr17\M'Odo, the Gnarled Oracle.jpg
 6d9215072463080bc870da203a10ed9c	ice\Abyssal Specter.jpg
 ba42c3b44a7609b3031ef2cd8d5700a0	ice\Adarkar Sentinel.jpg
 52877998f9701699c7a1d51efc40b009	ice\Adarkar Unicorn.jpg
@@ -30036,7 +30038,13 @@ be4db3c6fcc9520b88c06b61d0d7c135	pvan\Titania.jpg
 f82dd44697b142d9912daa100a046c7b	pvan\Urza.jpg
 916226e2f37090658e49f8d15fc206ad	pvan\Volrath.jpg
 ad04f06cc4b4306b66e994a7d0ec41f8	pvan\Xantcha.jpg
-d497fd8f28ba7273d0303ff7d7212e39	pwar\Paradise Druid.jpg
+a78a9cd6214e566c53eb797f637fc8b4	pwar\Augur of Bolas.jpg
+dc8414300793a6fdca839dbbdf97cea2	pwar\Bolas's Citadel.jpg
+6f1d2f44c62a8fd0cd896075a7f6c96e	pwar\Dovin's Veto.jpg
+aea860fd82f7e42fed0768ded0d4c10a	pwar\Karn's Bastion.jpg
+fee4e559a69b5e0d4eb5a7c10497ea07	pwar\Liliana's Triumph.jpg
+6e05bada2b0ce936e5b097919dd4cb90	pwar\Paradise Druid.jpg
+df92c9001a5f1b87f84451e3bfb37237	pwar\Time Wipe.jpg
 40b9cef4bf42468fbc109787c969685f	pwcq\Geist of Saint Traft.jpg
 ace338fdaf5d95ca061efd122965a817	pwcq\Vengevine.jpg
 c7fc23524d2dd8664af93c8f48c67b17	pwor\Balduvian Horde.jpg
