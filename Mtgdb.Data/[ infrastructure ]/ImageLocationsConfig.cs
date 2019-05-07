@@ -66,9 +66,6 @@ namespace Mtgdb.Data
 		[DataMember(Name = "Art")]
 		public bool? Art { get; set; }
 
-		[DataMember(Name = "ReadMetadataFromAttributes")]
-		public bool? ReadMetadataFromAttributes { get; set; }
-
 		[DataMember(Name = "Set")]
 		public string Set { get; set; }
 

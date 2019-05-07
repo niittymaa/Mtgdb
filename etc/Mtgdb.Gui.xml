@@ -15,11 +15,11 @@
 
 		<Directory Group="prod" Path="images\Mtgdb.Pictures\LQ" />
 		<Directory Group="prod" Path="images\Mtgdb.Pictures\MQ" Zoom="True" />
-		<Directory Group="prod" Path="images\Artworks" Art="True" ReadMetadataFromAttributes="False" />
+		<Directory Group="prod" Path="images\Artworks" Art="True" />
 
 		<Directory Group="prod-dev" Path="D:\Distrib\games\mtg\Mtgdb.Pictures\LQ" />
 		<Directory Group="prod-dev" Path="D:\Distrib\games\mtg\Mtgdb.Pictures\MQ" Zoom="True" />
-		<Directory Group="prod-dev" Path="D:\games\Mtgdb.Gui\images\Artworks" Art="True" ReadMetadataFromAttributes="False" />
+		<Directory Group="prod-dev" Path="D:\games\Mtgdb.Gui\images\Artworks" Art="True" />
 
 		<Directory Group="dev" Zoom="False" Path="D:\Distrib\games\mtg\Gatherer.Original" />
 		<Directory Group="dev" Zoom="True"  Path="D:\Distrib\games\mtg\Gatherer.Preprocessed" />

@@ -10,7 +10,7 @@ namespace Mtgdb.Controls
 	{
 		static BitmapExtensions()
 		{
-			_imageNativeImageField = typeof(Image).GetField("nativeImage", BindingFlags.Instance | BindingFlags.NonPublic);
+			_imageNativeImageField = typeof(Image).GetField("nativeObject", BindingFlags.Instance | BindingFlags.NonPublic);
 		}
 
 		public static Bitmap SetOpacity(this Bitmap image, float opacity)

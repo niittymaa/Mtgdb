@@ -26,7 +26,7 @@
 	<ImageLocations>
 		<Directory Path="images\Mtgdb.Pictures\LQ" />
 		<Directory Path="images\Mtgdb.Pictures\MQ" Zoom="True" />
-		<Directory Path="images\Artworks" Art="True" ReadMetadataFromAttributes="False" />
+		<Directory Path="images\Artworks" Art="True" />
 	</ImageLocations>
 
 	<ImageSources MegaPrefix="https://mega.nz/#F!" GdrivePrefix="https://drive.google.com/uc?export=download&amp;id=">

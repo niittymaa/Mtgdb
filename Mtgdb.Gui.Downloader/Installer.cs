@@ -4,7 +4,6 @@ using System.IO;
 using System.Linq;
 using System.Reflection;
 using ICSharpCode.SharpZipLib.Zip;
-using IWshRuntimeLibrary;
 using Mtgdb.Data;
 using Mtgdb.Data.Index;
 using File = System.IO.File;
@@ -267,26 +266,8 @@ namespace Mtgdb.Downloader
 
 		private static void createApplicationShortcut(string shortcutPath, string exePath, string iconPath)
 		{
-			var wsh = new WshShell();
-			var shortcut = wsh.CreateShortcut(shortcutPath) as IWshShortcut;
-
-			string bin = Path.GetDirectoryName(exePath);
-
-			if (shortcut != null)
-			{
-				shortcut.Arguments = "";
-				shortcut.TargetPath = exePath;
-				shortcut.WindowStyle = 1;
-
-				shortcut.Description = "Application to search MTG cards and build decks";
-				shortcut.WorkingDirectory = bin;
-
-				if (iconPath != null)
-					shortcut.IconLocation = iconPath;
-
-				shortcut.Save();
-				Console.WriteLine("Created shortcut {0}", shortcutPath);
-			}
+			Console.WriteLine("Shortcut creation is not supported", shortcutPath);
+			// shortcut.Description = "Application to search MTG cards and build decks";
 		}
 
 		public event Action MtgjsonFileUpdated;

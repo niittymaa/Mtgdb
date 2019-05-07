@@ -36,6 +36,9 @@ namespace Mtgdb.Controls
 
 		public static Cursor CreateCursor(Bitmap bmp, int xHotSpot, int yHotSpot)
 		{
+			if (Environment.OSVersion.Platform != PlatformID.Win32NT)
+				return new Cursor(bmp.GetHicon());
+
 			IntPtr ptr = bmp.GetHicon();
 			IconInfo tmp = new IconInfo();
 			GetIconInfo(ptr, ref tmp);

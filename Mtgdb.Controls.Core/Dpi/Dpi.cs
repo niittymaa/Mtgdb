@@ -1,6 +1,5 @@
 using System;
 using System.Drawing;
-using System.Runtime.InteropServices;
 using System.Windows.Forms;
 
 namespace Mtgdb.Controls
@@ -13,9 +12,6 @@ namespace Mtgdb.Controls
 
 		public static void Set(int uiScalePercent = 100)
 		{
-			if (!_initialized && Environment.OSVersion.Version.Major >= 6)
-				SetProcessDPIAware();
-
 			if (_initialized && _uiScalePercent == uiScalePercent)
 				return;
 
@@ -63,24 +59,15 @@ namespace Mtgdb.Controls
 
 		private static SizeF getDpiScale()
 		{
-			var g = Graphics.FromHwnd(IntPtr.Zero);
-			var desktopPtr = g.GetHdc();
+			// TODO Mono detect DPI
+			int dpiX = 96;
+			int dpiY = 96;
 
-			//http://pinvoke.net/default.aspx/gdi32/GetDeviceCaps.html
-			int dpiX = GetDeviceCaps(desktopPtr, 88);
-			int dpiY = GetDeviceCaps(desktopPtr, 90);
-			
 			return new SizeF((float) dpiX / 96, (float) dpiY / 96);
 		}
 
 		public static int ScalePercent => (int)Math.Ceiling(100 * Math.Max(_scale.Width, _scale.Height));
 		private static int _uiScalePercent;
-
-		[DllImport("user32.dll")]
-		private static extern bool SetProcessDPIAware();
-
-		[DllImport("gdi32.dll")]
-		private static extern int GetDeviceCaps(IntPtr hdc, int nIndex);
 
 		private static SizeF _scale = new SizeF(1f, 1f);
 		private static bool _initialized;

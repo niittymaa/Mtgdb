@@ -21,6 +21,9 @@ namespace Mtgdb.Data
 
 			string resolveCardLibraryPath()
 			{
+				if (Environment.OSVersion.Platform != PlatformID.Win32NT)
+					return null;
+
 				var path = Environment.ExpandEnvironmentVariables(config.CardLibraryFile);
 				var directory = Path.GetDirectoryName(path);
 				var filePattern = Path.GetFileName(path).Replace("[guid]", "*");
@@ -34,6 +37,9 @@ namespace Mtgdb.Data
 
 			string resolveLogPath()
 			{
+				if (Environment.OSVersion.Platform != PlatformID.Win32NT)
+					return null;
+
 				var path = Environment.ExpandEnvironmentVariables(config.LogFile);
 				if (!File.Exists(path))
 					return null;

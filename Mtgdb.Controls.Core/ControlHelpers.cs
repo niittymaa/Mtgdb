@@ -180,8 +180,16 @@ namespace Mtgdb.Controls
 				g.DrawImage(backImage, backImage.GetRect());
 		}
 
-		public static bool IsUnderMouse(this Control c) =>
-			c.Handle.Equals(WindowFromPoint(Cursor.Position));
+		public static bool IsUnderMouse(this Control c)
+		{
+			if (Environment.OSVersion.Platform != PlatformID.Win32NT)
+			{
+				var clientPosition = c.PointToClient(Cursor.Position);
+				return c.ClientRectangle.Contains(clientPosition);
+			}
+
+			return c.Handle.Equals(WindowFromPoint(Cursor.Position));
+		}
 
 		public static bool IsChildUnderMouse(this Control c)
 		{

@@ -48,7 +48,7 @@ namespace Mtgdb.Gui
 			_layoutViewDeck.MouseLeave += mouseLeave;
 			_layoutViewCards.MouseLeave += mouseLeave;
 
-			System.Windows.Forms.Application.AddMessageFilter(this);
+			Application.AddMessageFilter(this);
 		}
 
 		public void UnsubscribeFromEvents()
@@ -70,7 +70,7 @@ namespace Mtgdb.Gui
 			_layoutViewDeck.MouseLeave -= mouseLeave;
 			_layoutViewCards.MouseLeave -= mouseLeave;
 
-			System.Windows.Forms.Application.RemoveMessageFilter(this);
+			Application.RemoveMessageFilter(this);
 		}
 
 		public void SetupDrawingDraggingMarkEvent()

@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using ReadOnlyCollectionsExtensions;
-using Shell32;
 
 namespace Mtgdb.Data
 {
@@ -167,21 +166,11 @@ namespace Mtgdb.Data
 			IEnumerable<string> files,
 			bool isArt = false)
 		{
-			Shell shl = null;
 			foreach (var entryByDirectory in files.GroupBy(Path.GetDirectoryName))
 			{
 				// use_dir_sorting_to_find_most_nested_root
 				var root = directories.First(_ => entryByDirectory.Key.StartsWith(_.Path));
 				string customSetCode = root.Set;
-
-				bool readAttributes = root.ReadMetadataFromAttributes == true;
-
-				Folder dir = null;
-				if (isArt && readAttributes)
-				{
-					shl = shl ?? new Shell();
-					dir = shl.NameSpace(entryByDirectory.Key);
-				}
 
 				foreach (string file in entryByDirectory)
 				{
@@ -192,9 +181,6 @@ namespace Mtgdb.Data
 					{
 						string fileName = Path.GetFileName(file);
 						getMetadataFromName(fileName, ref authors, ref setCodes);
-
-						if (readAttributes)
-							getMetadataFromAttributes(dir, fileName, ref authors, ref setCodes);
 					}
 
 					authors = notNullOrEmpty(authors);
@@ -208,16 +194,6 @@ namespace Mtgdb.Data
 						}
 				}
 			}
-		}
-
-		private static void getMetadataFromAttributes(Folder dir, string fileName, ref IList<string> authors, ref IList<string> keywords)
-		{
-			var item = dir.ParseName(fileName);
-			string authorsValue = dir.GetDetailsOf(item, 20);
-			string keywordsValue = dir.GetDetailsOf(item, 18);
-
-			add(ref authors, authorsValue?.Split(';').Select(_ => _.Trim()).ToArray());
-			add(ref keywords, keywordsValue?.Split(';').Select(_ => _.Trim()).ToArray());
 		}
 
 		private static void getMetadataFromName(string fileName, ref IList<string> artist, ref IList<string> set)
@@ -303,7 +279,7 @@ namespace Mtgdb.Data
 				modelsBySet.Add(imageFile.SetCode, modelsByImageVariant);
 			}
 
-			// For each number select the representative with best quality 
+			// For each number select the representative with best quality
 			if (!modelsByImageVariant.TryGetValue(imageFile.VariantNumber, out var currentImageFile) || currentImageFile.Quality < imageFile.Quality)
 				modelsByImageVariant[imageFile.VariantNumber] = imageFile;
 		}
@@ -527,39 +503,10 @@ namespace Mtgdb.Data
 
 		/// <summary>
 		/// Others by variant number ascending
-		
 		/// </summary>
-		/// <returns></returns>
 		private static Func<ImageFile, int> cardUnpriority5()
 		{
 			return model => model.VariantNumber;
-		}
-
-
-
-		public ImageModel GetReplacementImage(ImageFile imageFile, Func<string, string, string> setCodePreference)
-		{
-			if (string.IsNullOrEmpty(imageFile.Name))
-				return null;
-
-			var result = getImage(_modelsByNameBySetByVariantZoom,
-				setCodePreference,
-				imageFile.SetCode,
-				imageFile.Name,
-				imageFile.ImageName,
-				imageFile.Artist);
-
-			if (result != null)
-				return result.NonRotated();
-
-			result = getImage(_modelsByNameBySetByVariant,
-				setCodePreference,
-				imageFile.SetCode,
-				imageFile.Name,
-				imageFile.ImageName,
-				imageFile.Artist);
-
-			return result.NonRotated();
 		}
 
 

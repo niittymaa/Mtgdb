@@ -21,15 +21,15 @@ namespace Mtgdb.Controls
 
 			var systemDrawingAssembly = typeof(Color).Assembly;
 
-			_colorTableField = systemDrawingAssembly.GetType("System.Drawing.KnownColorTable")
-				.GetField("colorTable", BindingFlags.Static | BindingFlags.NonPublic);
+			_colorTableField = systemDrawingAssembly.GetType("System.Drawing.KnownColors")
+				.GetField("ArgbValues", BindingFlags.Static | BindingFlags.NonPublic);
 
 			_colorTable = readColorTable();
 			SystemEvents.UserPreferenceChanging += userPreferenceChanging;
 
 			OriginalColors = _colorTable.ToArray();
 			KnownOriginalColors = KnownColors.Cast<int>()
-				.ToDictionary(i => i, i => OriginalColors[i])
+				.ToDictionary(i => i, i => unchecked((int)OriginalColors[i]))
 				.AsReadOnlyDictionary();
 
 			_threadDataProperty = systemDrawingAssembly.GetType("System.Drawing.SafeNativeMethods")
@@ -37,11 +37,7 @@ namespace Mtgdb.Controls
 				.GetProperty("ThreadData", BindingFlags.Static | BindingFlags.NonPublic);
 
 			SystemBrushesKey = typeof(SystemBrushes)
-				.GetField("SystemBrushesKey", BindingFlags.Static | BindingFlags.NonPublic)
-				.GetValue(null);
-
-			SystemPensKey = typeof(SystemPens)
-				.GetField("SystemPensKey", BindingFlags.Static | BindingFlags.NonPublic)
+				.GetField("s_systemBrushesKey", BindingFlags.Static | BindingFlags.NonPublic)
 				.GetValue(null);
 		}
 
@@ -60,52 +56,53 @@ namespace Mtgdb.Controls
 			SystemColorsChanged?.Invoke();
 		}
 
-		private int[] readColorTable() =>
-			(int[]) _colorTableField.GetValue(null);
+		private uint[] readColorTable()
+		{
+			var result = (uint[]) _colorTableField.GetValue(null);
+			return result;
+		}
 
 		public void SetColor(KnownColor knownColor, int argb)
 		{
 			setColor(knownColor, argb);
 
 			ThreadData[SystemBrushesKey] = null;
-			ThreadData[SystemPensKey] = null;
 			fireColorsChangedEvents();
 		}
 
 		private void setColor(KnownColor knownColor, int argb) =>
-			_colorTable[(int) knownColor] = argb;
+			_colorTable[(int) knownColor] = unchecked((uint)argb);
 
 		public int GetOriginalColor(KnownColor knownColor) =>
-			OriginalColors[(int) knownColor];
+			unchecked((int) OriginalColors[(int) knownColor]);
 
 		public int GetColor(KnownColor knownColor)
 		{
 			if (!KnownColors.Contains(knownColor))
 				throw new ArgumentException();
 
-			return _colorTable[(int) knownColor];
+			return unchecked((int) _colorTable[(int) knownColor]);
 		}
 
 		public IReadOnlyDictionary<int, int> Save() =>
 			KnownColors.Cast<int>()
-				.ToDictionary(i => i, i => _colorTable[i])
+				.ToDictionary(i => i, i => unchecked((int) _colorTable[i]))
 				.AsReadOnlyDictionary();
 
 		public void Load(IReadOnlyDictionary<int, int> saved)
 		{
 			foreach (var color in KnownColors)
 			{
-				var value = saved.TryGet((int) color, KnownOriginalColors[(int) color]);
+				var value = saved.TryGet((int) color, unchecked((int) KnownOriginalColors[(int) color]));
 				setColor(color, value);
 			}
 
 			ThreadData[SystemBrushesKey] = null;
-			ThreadData[SystemPensKey] = null;
 			fireColorsChangedEvents();
 		}
 
 		public void Reset(KnownColor color) =>
-			SetColor(color, OriginalColors[(int) color]);
+			SetColor(color, unchecked((int)OriginalColors[(int) color]));
 
 		public void ResetAll() =>
 			Load(KnownOriginalColors);
@@ -114,7 +111,6 @@ namespace Mtgdb.Controls
 			(IDictionary) _threadDataProperty.GetValue(null, null);
 
 		private object SystemBrushesKey { get; }
-		private object SystemPensKey { get; }
 
 		public readonly HashSet<KnownColor> KnownColors = new HashSet<KnownColor>(
 			new[]
@@ -143,10 +139,10 @@ namespace Mtgdb.Controls
 			}.Select(_ => _.ToKnownColor())
 		);
 
-		private int[] OriginalColors { get; }
+		private uint[] OriginalColors { get; }
 		private IReadOnlyDictionary<int, int> KnownOriginalColors { get; }
 
-		private int[] _colorTable;
+		private uint[] _colorTable;
 		private readonly FieldInfo _colorTableField;
 		private readonly PropertyInfo _threadDataProperty;
 	}
